@@ -14,10 +14,10 @@ The main project requires `python3.6`. Make sure you have the `pip3` module inst
 
 ### Evaluation of Machine learning classification models
 
-from analogmat.ML.classification import PVClassifier
+
 
 ```python
-
+from analogmat.ML.classification import PVClassifier
 clf = PVClassifier()
 clf.train_and_test(algo='gradient_boosting')  # algo`: {‘gradient_boosting’, ‘random_forest’, ‘decision_tree’, '`svm`}, default=’gradient_boosting’
 clf.plot_confusion_matrix(algo='gradient_boosting') # 10-fold CV confusion matrix
