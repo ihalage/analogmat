@@ -77,7 +77,7 @@ print (exp_analogs)
 Unstudied compositions to a target material, for example (Ba<sub>0.5</sub>Nd<sub>0.5</sub>)MnO<sub>3</sub> can be obtained as follows.
 
 ```python
-cand_analogs = ae.most_similar_cand_perovskites(VAE, '(Ba0.5Nd0.5)MnO3',  n=5)
+cand_analogs = ae.most_similar_cand_perovskites(model, '(Ba0.5Nd0.5)MnO3',  n=5)
 print (cand_analogs)
 ```
 
@@ -95,7 +95,7 @@ print (cand_analogs)
 We can bypass the new compositions having toxic or expensive elements with `except_elems` argument. A probability threshold can also be set. For example, relaxor ferroelectric Pb(Mg<sub>0.33</sub>Nb<sub>0.67</sub>)O<sub>3</sub> as the target material;
 
 ```python
-cand_analogs = ae.most_similar_cand_perovskites(VAE, 'Pb(Mg0.33Nb0.67)O3', except_elems=[ 'Tl', 'Pb', 'Hg',  'Cd'], prob_threshold=0.80, n=5, vae=True)
+cand_analogs = ae.most_similar_cand_perovskites(model, 'Pb(Mg0.33Nb0.67)O3', except_elems=[ 'Tl', 'Pb', 'Hg',  'Cd'], prob_threshold=0.80, n=5, vae=True)
 print (cand_analogs)
 ```
 
