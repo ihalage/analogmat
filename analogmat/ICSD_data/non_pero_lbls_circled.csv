@@ -1,0 +1,22 @@
+	CollectionCode	HMS	StructuredFormula	StructureType	Has_perovskite_counterpart
+0	264689	R -3 m H	Ba(Ir0.51Ni0.49)O3	Ba2NiTeO6	0
+4	26524	P -3 m 1	Ba2In(IrO6)	Ba2InCuO6	1 (perovskite Ba(In0.81Ir0.19)O2.75
+25	88787	R -3 H	Na2Ti(TeO6)	FePSe3	0
+29	160450	C 1 2/m 1	La2K(NbO6)	KLa2NbO6	0
+33	67377	R -3 m H	Ba9(Ir3.2Mn5.8)O27	BaRuO3	1 Hexagonal perovskite (https://pubs.rsc.org/en/content/articlehtml/2003/jm/b306335f)
+46	238045	P n m a	Se2Rb(YO6)	KFe(SeO3)2	0
+84	201498	R -3 m H	Ba(Ir.5Co.5)O3	Ba2NiTeO6	1 hexagonal perovskite (https://www.sciencedirect.com/science/article/pii/S002245960098664X)
+105	91234	P n m a	Zn2Bi(PO6)	KFe(SeO3)2	0
+117	238044	P n m a	Se2K(YO6)	KFe(SeO3)2	0
+122	98282	R -3 m H	Ba(Ir0.5Mn0.5O3)	BaRuO3	1 Hexagonal perovskite (https://pubs.rsc.org/en/content/articlehtml/2003/jm/b306335f)
+136	16406	P -3 m 1	Ba2Ni(OsO6)	Ba2InCuO6	1 (Elpasolite Ba2NiOsO6)
+145	401349	R -3 m H	Ba9(Ru3.2Mn5.8)O27	BaRuO3	1 (hexagonal perovskite https://www.sciencedirect.com/science/article/pii/S0921452611005242)
+147	72448	C 1 2/c 1	Ba3(Ru2Bi)O9	SrIrO3	1 perovskite Ba2Ru0.67Bi1.33O6
+159	91115	R -3 m H	Ba(Ir0.5Co0.5)O3	Ba2NiTeO6	1 hexagonal perovskite (https://www.sciencedirect.com/science/article/pii/S002245960098664X)
+161	74410	P 63/m m c	Ba2Cr(TaO6)	Ba4Nb3LiO12	perovskite (https://materials.springer.com/isp/crystallographic/docs/sd_1322598)
+181	15260	P -3 m 1	Ba2In(RuO6)	Ba2InCuO6	hexagonal perovskite (https://www.researchgate.net/publication/230493078_ber_Ruthenium-Perowskite_vom_Typ_Ba2BRuO6_und_Ba3BRu2O9_mit_B_Indium_Rhodium)
+184	71489	R 3 H	Li2Zr(TeO6)	Ni3TeO6	0
+187	98278	R -3 m H	Ba(Ir0.3Mn0.7O3)	BaRuO3	1 Hexagonal perovskite (https://pubs.rsc.org/en/content/articlehtml/2003/jm/b306335f)
+194	98280	R -3 m H	Ba(Ir0.4Mn0.6O3)	BaRuO3	1 Hexagonal perovskite (https://pubs.rsc.org/en/content/articlehtml/2003/jm/b306335f)
+204	55414	R -3 m H	Ba((Ti0.5Mn0.5)O3)	Ba2NiTeO6	1 perovskite Ba(Mn0.11Ti0.90)O3
+215	5642	P -3 m 1	Ba2Co(TeO6)	Ba2InCuO6	1 perovskite (https://pubs.rsc.org/en/Content/ArticleLanding/2010/DT/b927498g#!divAbstract)
