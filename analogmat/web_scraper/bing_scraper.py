@@ -26,7 +26,7 @@ import re
 import random
 from pymatgen import Composition	# monty 1.x is required
 import socks
-import socket
+# import socket
 
 
 # create a class for high-throughput web scraping and individual compound web scraping
