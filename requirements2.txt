@@ -1,0 +1,4 @@
+bs4
+pymatgen==2018.11.6
+monty==1.0.3
+PySocks==1.7.1
