@@ -9,8 +9,8 @@
 The main project requires `python3.6`. Make sure you have the `pip3` module installed. The web scraping tool requires `python2.7`.
 
 1. Inside the root directory (analogmat), execute `pip install --ignore-installed -r requirements.txt` to install the dependencies.
-   (Note that installing pymatgen and tensorflow using pip may produce errors. Please follow the installation documentations of [pymatgen](https://pymatgen.org/installation.html) and [tensorflow](https://www.tensorflow.org/install/pip) for clean installation)
-2. If you wish to use the web scraper, execute  `pip2 install --ignore-installed -r requirements2.txt` command as well.
+   (Note that installing pymatgen and tensorflow using pip may produce errors. In this case, please follow the installation documentations of [pymatgen](https://pymatgen.org/installation.html) and [tensorflow](https://www.tensorflow.org/install/pip) for clean installation)
+2. If you wish to use the web scraper, execute  `pip2 install -r requirements2.txt` command as well.
 3. This should install all packages required to run analogmat on your machine. Please open an issue if installation errors occur.
 
 ## Usage 
@@ -20,7 +20,7 @@ The main project requires `python3.6`. Make sure you have the `pip3` module inst
 
 
 ```python
-from analogmat.ML.classification import PVClassifier
+from ML.classification import PVClassifier
 clf = PVClassifier()
 clf.train_and_test(algo='gradient_boosting')  # algo`: {‘gradient_boosting’, ‘random_forest’, ‘decision_tree’, '`svm`}, default=’gradient_boosting’
 clf.plot_confusion_matrix(algo='gradient_boosting') # 10-fold CV confusion matrix
@@ -58,7 +58,7 @@ Following is the code snippet to find 5 experimental analogies (nearest neighbou
 It is important to write the chemical formula in standard notation with brackets to identify the disordered site - (A<sub>1-x</sub>A'<sub>x</sub>)BO<sub>3</sub> or A(B<sub>1-x</sub>B'<sub>x</sub>)O<sub>3</sub>. Note that R<sub>A</sub> should be greater than R<sub>B</sub>.
 
 ```python
-from analogmat.autoencoder import AutoEncoder
+from autoencoder import AutoEncoder
 ae = AutoEncoder()
 model = ae.build_AE(vae=True)  # vae=False for vanilla autoencoder
 model.load_weights('saved_models/best_model_VAE.h5')  # best_model_AE.h5 for vanilla autoencoder
@@ -109,3 +109,17 @@ print (cand_analogs)
 13  Bi(Ti0.75Cr0.25)O3                  0.873786            0.075084
 
 ```
+
+Following snippet can be used to predict the crystal system and space group of 2104 experimental compositions based on the plurality vote of 5 nearest neighbours in the fingerprint space.
+
+```python
+from validate_fingerprints import CrystalSystem
+cc = CrystalSystem()
+cc.validate()  # prediction of crystal system and space group
+cc.get_confusion_matrix()
+cc.get_spg_conf_mat()
+```
+Crystal system             |  Space group
+:-------------------------:|:-------------------------:
+![Alt text](analogmat/figures/fingerprint_conf_mat.png?raw=true) | ![Alt text](analogmat/figures/fingerprint_spg_conf_mat.png?raw=true)
+
