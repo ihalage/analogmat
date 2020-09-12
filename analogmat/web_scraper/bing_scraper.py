@@ -20,7 +20,7 @@ from bs4 import BeautifulSoup
 import urllib,urllib2
 import pandas as pd
 import sys
-import pathlib
+import pathlib2
 import types
 import re
 import random
@@ -32,16 +32,17 @@ import socks
 # create a class for high-throughput web scraping and individual compound web scraping
 class BingScraper():
 	def __init__(self):
-		path = str(pathlib.Path(__file__).parent.absolute().parent)
+		self.path = str(pathlib2.Path(__file__).parent.absolute().parent)
 	
 	def read_csv(self, file, sep='\t'):
 		return pd.read_csv(file, sep=sep)
 
 	def search(self, query):
-		ip_port_list = ["3.11.214.31:80", "163.172.189.32:8811", "185.134.23.198:80", "163.172.180.18:8811", "178.128.228.158:80"]	# constantly updated proxy list by selecting from (https://free-proxy-list.net/)
-		proxy = urllib2.ProxyHandler({"http": "3.10.145.250:80"})
-		opener = urllib2.build_opener(proxy)
-		urllib2.install_opener(opener)
+		# uncomment these and try different ips if the main ip gets blocked
+		# ip_port_list = ["3.11.214.31:80", "163.172.189.32:8811", "185.134.23.198:80", "163.172.180.18:8811", "178.128.228.158:80"]	# constantly updated proxy list by selecting from (https://free-proxy-list.net/)
+		# proxy = urllib2.ProxyHandler({"http": "3.10.145.250:80"})
+		# opener = urllib2.build_opener(proxy)
+		# urllib2.install_opener(opener)
 		address = "http://www.bing.com/search?q=%s" % (urllib.quote_plus(query))
 
 		getRequest = urllib2.Request(address, None, {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11'}) # we need to make it look like the request is coming
@@ -116,9 +117,9 @@ class BingScraper():
 		
 		# s.set_proxy(socks.HTTP, "203.202.245.62", 80)
 		# socket.socket = socks.socksocket
-		proxy = urllib2.ProxyHandler({"http": "3.10.145.250:80"})	#3.11.214.31:80	178.128.228.158:80    203.202.245.62:80   188.40.183.187:1080   185.63.253.203:5836
-		opener = urllib2.build_opener(proxy)
-		urllib2.install_opener(opener)
+		# proxy = urllib2.ProxyHandler({"http": "3.10.145.250:80"})	#3.11.214.31:80	178.128.228.158:80    203.202.245.62:80   188.40.183.187:1080   185.63.253.203:5836
+		# opener = urllib2.build_opener(proxy)
+		# urllib2.install_opener(opener)
 		address = "http://www.bing.com/search?q=%s" % (urllib.quote_plus(compound))
 
 		getRequest = urllib2.Request(address, None, {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11'})
