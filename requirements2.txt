@@ -1,6 +1,5 @@
 bs4
 numpy==1.14.0
-scipy==0.16
 scipy==1.2.2
 matplotlib==2.0.0
 sympy==1.0
