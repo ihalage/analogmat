@@ -1,4 +1,10 @@
 bs4
-pymatgen==2018.11.6
+numpy==1.14.0
+scipy==0.16
+scipy==1.2.2
+matplotlib==2.0.0
+sympy==1.0
+pandas==0.24.0
 monty==1.0.3
+pymatgen==2018.3.2
 PySocks==1.7.1
