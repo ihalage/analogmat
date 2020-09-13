@@ -15,7 +15,7 @@ The main project requires `python3.6`. Make sure you have the `pip3` module inst
 
 ## Usage 
 
-### Evaluation of Machine learning classification models
+### Evaluation of machine learning classification models
 
 
 
@@ -25,9 +25,12 @@ clf = PVClassifier()
 clf.train_and_test(algo='gradient_boosting')  # algo`: {‘gradient_boosting’, ‘random_forest’, ‘decision_tree’, '`svm`}, default=’gradient_boosting’
 clf.plot_confusion_matrix(algo='gradient_boosting') # 10-fold CV confusion matrix
 clf.plot_roc_curve()  # 10-fold CV ROC curve
-
-
 ```
+
+Confusion matrix             |  ROC curve
+:-------------------------:|:-------------------------:
+![Alt text](analogmat/figures/gradient_boosting_conf_mat.png?raw=true) | ![Alt text](analogmat/figures/roc_curve.png?raw=true)
+
 
 ### Screening potential perovskites from the composition space
 
@@ -123,3 +126,93 @@ Crystal system             |  Space group
 :-------------------------:|:-------------------------:
 ![Alt text](analogmat/figures/fingerprint_conf_mat.png?raw=true) | ![Alt text](analogmat/figures/fingerprint_spg_conf_mat.png?raw=true)
 
+Next, we assess the capability of supervised machine learning algorithms to classify crystal system and space group of 2104 experimental compositions with 10-fold cross validation.
+
+```python
+from ML.crystal_system_clf import StructureClf
+sclf = StructureClf()
+sclf.crystal_system_clf(algo='knn')  # 10-fold CV   # algo`: {‘gradient_boosting’, ‘random_forest’, ‘decision_tree’, '`svm`}, default=’gradient_boosting’
+sclf.cross_val_conf_mat(algo='knn')
+sclf.spg_clf(algo='gradient_boosting')    # space group classification
+```
+
+
+The fingerprint spaces obtained by VAE and vanilla autoencoder for the experimental database can be visualized with;
+
+```python
+from autoencoder import AutoEncoder
+from plot_df import Fingerprints
+ae = AutoEncoder()
+fprints = Fingerprints(ae)
+fprints.plot_fingerprints(model='vae')    # model='ae' for vanilla autoencoder
+```
+Variational autoencoder             |  Vanilla autoencoder
+:-------------------------:|:-------------------------:
+![Alt text](analogmat/figures/vae_fingerprints.png?raw=true) | ![Alt text](analogmat/figures/ae_fingerprints.png?raw=true)
+
+
+T-SNE and PCA are widely used dimensionality reduction algorithms. High dimensional discrete material features can be projected to two-dimensions (2D) using these algorithms and visualized as follows.
+
+```python
+fprints.plot_pca_tsne(algo='tsne')  # algo = 'pca' to visualize with PCA algorithm
+```
+t-SNE             |  PCA
+:-------------------------:|:-------------------------:
+![Alt text](analogmat/figures/tsne_visualisation.png?raw=true) | ![Alt text](analogmat/figures/pca_visualisation.png?raw=true)
+
+We can retrain the autoencoders as follows. This will overwrite the existing model. The parameters can be changed from the code.
+
+```python
+from autoencoder import AutoEncoder
+ae = AutoEncoder()
+ae.train(vae=True)
+```
+
+## Web scraper
+
+The tool is implemented in `python2.7` to scrape the Bing search engine. This would require numpy, scipy, pandas, monty and pymatgen versions compatible with `python2.7` as listed in `requirements2.txt` file. The usage is as follows.
+
+First, navigate to the `web_scraper` directory. Next, run the following python2 program.
+```python
+from bing_scraper import BingScraper
+bs = BingScraper()
+result = bs.scrape_compound('(Ba0.5Sr0.5)TiO3')
+print result
+```
+
+```
+########################################
+(Ba0.5Sr0.5)TiO3  is found on web!!! 
+See below for results
+
+
+# TITLE: <h2>(PDF) Dielectric properties of (Ba0.5Sr0.5)TiO3 thin films ...</h2>
+#
+# DESCRIPTION: <p>Dielectric properties of (Ba0.5Sr0.5)TiO3 thin films</p>
+# ___________________________________________________________
+#
+# TITLE: <h2>Dielectric properties of (Ba0.5Sr0.5)TiO3 thin films - CORE</h2>
+#
+# DESCRIPTION: <p>The dielectric properties of (Ba0.5Sr0.5)TiO3 (BST) thin films with high electrical resistivity were investigated. BST films are deposited on Pt/TiO2/SiO2/Si substrates by a metal-organic deposition (MOD) method. The dielectric permittivity and ac conductivity of the films are measured in the frequency range 102-105 Hz. The dielectric permittivity εr decreases slightly with frequency f ...</p>
+# ___________________________________________________________
+#
+# TITLE: <h2>Leakage current of (Ba0.5Sr0.5)TiO3 thin film ... - CORE</h2>
+#
+# DESCRIPTION: <p>The leakage current and relative permittivity of (Ba0.5Sr0.5)TiO3 (BST) thin films prepared by pulsed-laser deposition (PLD) were investigated. It was found that the leakage current for positive bias voltage was higher than that for negative bias voltage, which was attributed to the lattice mismatch between the bottom Pt electrode and the BST thin film. A time-dependent breakdown process under ...</p>
+# ___________________________________________________________
+#
+# TITLE: <h2>Dielectric Properties and Leakage Current Characteristics ...</h2>
+#
+# DESCRIPTION: <p>The X-ray studies indicated that both MT and Ba0.5Sr0.5TiO3 are highly oriented and remain as two distinct individual entities in the composite films and a considerable reduction in the dielectric loss and leakage currents has been observed.</p>
+# ___________________________________________________________
+
+...
+...
+...
+```
+
+## Questions and comments
+Please contact a.a.ihalage@qmul.ac.uk or y.hao@qmul.ac.uk.
+
+## Funding
+We acknowledge funding received by The Institution of Engineering and Technology (IET) under the AF Harvey Research Prize.
