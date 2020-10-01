@@ -34,6 +34,8 @@ Confusion matrix             |  ROC curve
 
 ### Screening potential perovskites from the composition space
 
+The database of total possible compositions is too large for github (332Mb). You can download this database [here](https://figshare.com/articles/dataset/all_generated_compounds_csv/13033262). Place this file inside `ICSD_data` directory and execute the following code.
+
 ```python
 
 clf.get_perovskite_candidates(prob_threshold=0.95, no_iterations=100)
