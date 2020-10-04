@@ -41,12 +41,12 @@ class CrystalSystem():
 
 	def validate(self):
 		def get_similar_compounds(row):
-			most_similar_df = self.ae.most_similar(self.VAE, row.StructuredFormula, n=6, vae=True)	# get 6 most similar crystal systems, 1st would refer to the material itself. Discard it and get the rest
+			most_similar_df = self.ae.most_similar(self.VAE, row.StructuredFormula, n=6, experimental=1, vae=True)	# get 6 most similar crystal systems, 1st would refer to the material itself. Discard it and get the rest
 			real_crystal_class = row.CrystalClass	# crystal system
 			real_space_group = row.HMS	# space group
-			similar_crystal_classes = most_similar_df['CrystalClass'].to_list()[1:]		
+			similar_crystal_systems = most_similar_df['CrystalSystem'].to_list()[1:]		
 			similar_space_groups = most_similar_df['HMS'].to_list()[1:]
-			most_voted_class = max(similar_crystal_classes, key=similar_crystal_classes.count)	# if 2 crystal systems have 2 votes each, the one with the lowest euclidean distance is selected
+			most_voted_class = max(similar_crystal_systems, key=similar_crystal_systems.count)	# if 2 crystal systems have 2 votes each, the one with the lowest euclidean distance is selected
 			most_voted_space_group = max(similar_space_groups, key=similar_space_groups.count)
 			if real_crystal_class == most_voted_class:	
 				correctly_identified_cc = 1
@@ -60,7 +60,7 @@ class CrystalSystem():
 			print (row.StructuredFormula, correctly_identified_cc)
 
 			return most_similar_df['CollectionCode'].to_list()[1:], most_similar_df['StructuredFormula'].to_list()[1:],\
-					most_similar_df['CrystalClass'].to_list()[1:], most_voted_class, most_voted_space_group, most_similar_df['Euclidean Distance'].to_list()[1:], correctly_identified_cc, correctly_identified_spg
+					most_similar_df['CrystalSystem'].to_list()[1:], most_voted_class, most_voted_space_group, most_similar_df['Euclidean Distance'].to_list()[1:], correctly_identified_cc, correctly_identified_spg
 
 		self.exp_df['Most Similar ICSD IDs'], self.exp_df['Most Similar Compounds'], self.exp_df['Most Similar Crystal Systems'], self.exp_df['predicted_crystal_system'], self.exp_df['predicted_space_group'],\
 			self.exp_df['Euclidean Distances'], self.exp_df['crystal_system_correctly_identified'], self.exp_df['space_group_correctly_identified'] = zip(*self.exp_df.apply(get_similar_compounds, axis=1))

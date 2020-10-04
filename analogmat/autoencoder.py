@@ -136,7 +136,7 @@ class AutoEncoder():
 			# train
 			model.fit(self.X_train, self.X_train, epochs=1000,batch_size=32, shuffle=True, validation_split=0.2, callbacks=[checkpointer])
 
-	def get_fingerprint(self, model, compound, vae=True):
+	def get_fingerprint(self, model, compound, experimental=0, vae=True):
 
 		if vae:
 
@@ -145,15 +145,18 @@ class AutoEncoder():
 		else:
 			encoder = Model(inputs=model.inputs, outputs=model.get_layer('Fingerprint').output)	# redefine model to output right after the encoder
 
-		# arrange composition in electronegativity order in A-B sites separately
-		site_list = re.split(r'[()]',compound)	# get what's inside parantheses and others separately
-		doped_site = max(site_list, key=len)	# get doped site re.sub(r"(?<=\d)0+", "", d)
-		site_rearranged = '(' + re.sub(r"(?<=\d)0+", "", Composition(doped_site).formula.replace(' ','')) + ')'	#arrange elements in electronegativity order, remove '0' and club with ()
-		site_list[site_list.index(doped_site)] = site_rearranged	# replace with processed site
-		composition = str(''.join(site_list))
-
-		# create a dataframe using the input compound
-		df = pd.DataFrame(columns=["StructuredFormula"], data=[[composition]])
+		if experimental==0:	# generated materials in the correct format
+			# arrange composition in electronegativity order in A-B sites separately
+			site_list = re.split(r'[()]',compound)	# get what's inside parantheses and others separately
+			doped_site = max(site_list, key=len)	# get doped site re.sub(r"(?<=\d)0+", "", d)
+			site_rearranged = '(' + re.sub(r"(?<=\d)0+", "", Composition(doped_site).formula.replace(' ','')) + ')'	#arrange elements in electronegativity order, remove '0' and club with ()
+			site_list[site_list.index(doped_site)] = site_rearranged	# replace with processed site
+			composition = str(''.join(site_list))
+			# create a dataframe using the input compound
+			df = pd.DataFrame(columns=["StructuredFormula"], data=[[composition]])
+		else:	# experimental compounds have complex formula formattings
+			df = pd.DataFrame(columns=["StructuredFormula"], data=[[compound]])
+		
 		pv = Perovskites(df)
 		df = pv.parse_formula(df)
 		# df = pv.parse_space_group(df)
@@ -205,13 +208,13 @@ class AutoEncoder():
 			fingerprints_df.to_pickle(path+'/ICSD_data/candidate_fingerprints_AE.pkl')
 
 
-	def most_similar(self, model, compound=None, fingerprint=False, n=5, vae=True):
+	def most_similar(self, model, compound=None, fingerprint=False, experimental=0, n=5, vae=True):
 		if vae:
 			encoder = Model(inputs=model.inputs, outputs=model.get_layer('encoder').get_output_at(0)[0])
 			exp_fingerprints_df = pd.read_pickle(path+'/ICSD_data/exp_fingerprints_VAE.pkl')
 			if compound:
 				try:
-					fingerprint = self.get_fingerprint(model, compound, vae=True)
+					fingerprint = self.get_fingerprint(model, compound, experimental=experimental, vae=True)
 				except:
 					print ("Cannot be charge balanced!")
 					return 0
@@ -288,13 +291,13 @@ class AutoEncoder():
 
 
 
-	def most_similar_cosine(self, model, compound=None, fingerprint=False, n=5, vae=True):
+	def most_similar_cosine(self, model, compound=None, experimental=0, fingerprint=False, n=5, vae=True):
 		if vae:
 			encoder = Model(inputs=model.inputs, outputs=model.get_layer('encoder').get_output_at(0)[0])
 			exp_fingerprints_df = pd.read_pickle(path+'/ICSD_data/exp_fingerprints_VAE.pkl')
 			if compound:
 				try:
-					fingerprint = self.get_fingerprint(model, compound, vae=True)
+					fingerprint = self.get_fingerprint(model, compound, experimental=0, vae=True)
 				except:
 					print ("Cannot be charge balanced!")
 					return -1
@@ -303,7 +306,7 @@ class AutoEncoder():
 			exp_fingerprints_df = pd.read_pickle(path+'/ICSD_data/exp_fingerprints_AE.pkl')
 			if compound:
 				try:
-					fingerprint = self.get_fingerprint(model, compound, vae=False)
+					fingerprint = self.get_fingerprint(model, compound, experimental=0, vae=False)
 				except:
 					print ("Cannot be charge balanced!")
 
