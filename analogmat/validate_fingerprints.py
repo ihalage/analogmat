@@ -19,6 +19,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import pathlib
 from matplotlib import rcParams
+from sklearn.metrics import classification_report
 
 path = str(pathlib.Path(__file__).parent.absolute())
 exp_data_file = path+'/ICSD_data/ICSD_all_data.csv'
@@ -153,28 +154,22 @@ class CrystalSystem():
 			if not pd.isnull(t):
 				# print (t, p)
 				cm[spg_dict[p]-1][spg_dict[t]-1] +=1
-		print(cm)
 		cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
 
 		title = 'Confusion Matrix'
 		classes = np.array(unique_spgs)
 
-		# find precision, recall and F1 score
-		precision = 1.0*np.diag(cm) / np.sum(cm, axis = 0)
-		recall = 1.0*np.diag(cm) / np.sum(cm, axis = 1)
-		f1_score = 2.0*((precision*recall)/(precision+recall))
+		# classification report
+		y_true = []
+		y_pred = []
+		for t, p in zip(true_lbl_str, predicted_lbl_str):
+			if not pd.isnull(t):
+				y_true.append(spg_dict[t]-1)
+				y_pred.append(spg_dict[p]-1)
 
-		avg_recall = np.mean(recall)
-		avg_precision = np.mean(precision)
-		avg_f1_score = np.mean(f1_score)
+		print(classification_report(y_true, y_pred, target_names=np.array(unique_spgs), digits=4))
 
-		print("Average Precision: %.2f (+/- %.2f)" % (np.mean(precision), np.std(precision)))
-		print("Average Recall: %.2f (+/- %.2f)" % (np.mean(recall), np.std(recall)))
-		print("Average F1 Score: %.2f (+/- %.2f)" % (np.mean(f1_score), np.std(f1_score)))
 
-		print ('Average Precision: ', avg_precision)
-		print ('Average Recall: ', avg_recall)
-		print ('Average F1 Score: ', avg_f1_score)
 
 		fig, ax = plt.subplots()
 		im = ax.imshow(cm, interpolation='nearest', cmap=plt.cm.YlOrRd)
@@ -202,4 +197,3 @@ class CrystalSystem():
 		fig.tight_layout()
 		fig.savefig(path+'/figures/fingerprint_spg_conf_mat.png', dpi=800, bbox_inches='tight')
 		plt.show()
-
