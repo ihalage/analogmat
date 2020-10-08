@@ -93,22 +93,15 @@ class CrystalSystem():
 		title = 'Confusion Matrix'
 		classes = np.array(['Triclinic', 'Monoclinic', 'Orthorhombic', 'Tetragonal', 'Cubic', 'Trigonal', 'Hexagonal'])
 
-		# find precision, recall and F1 score
-		precision = 1.0*np.diag(cm) / np.sum(cm, axis = 0)
-		recall = 1.0*np.diag(cm) / np.sum(cm, axis = 1)
-		f1_score = 2.0*((precision*recall)/(precision+recall))
+				# classification report
+		y_true = []
+		y_pred = []
+		for t, p in zip(true_lbl_str, predicted_lbl_str):
+			if not pd.isnull(t):
+				y_true.append(system_val[t]-1)
+				y_pred.append(system_val[p]-1)
 
-		avg_recall = np.mean(recall)
-		avg_precision = np.mean(precision)
-		avg_f1_score = np.mean(f1_score)
-
-		print("Average Precision: %.2f (+/- %.2f)" % (np.mean(precision), np.std(precision)))
-		print("Average Recall: %.2f (+/- %.2f)" % (np.mean(recall), np.std(recall)))
-		print("Average F1 Score: %.2f (+/- %.2f)" % (np.mean(f1_score), np.std(f1_score)))
-
-		print ('Average Precision: ', avg_precision)
-		print ('Average Recall: ', avg_recall)
-		print ('Average F1 Score: ', avg_f1_score)
+		print(classification_report(y_true, y_pred, target_names=classes, digits=4))
 
 		fig, ax = plt.subplots()
 		im = ax.imshow(cm, interpolation='nearest', cmap=plt.cm.YlOrRd)
