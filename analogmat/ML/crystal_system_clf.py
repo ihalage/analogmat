@@ -125,22 +125,9 @@ class StructureClf():
 		title = 'Confusion Matrix'
 		classes = np.array(['Triclinic', 'Monoclinic', 'Orthorhombic', 'Tetragonal', 'Cubic', 'Trigonal', 'Hexagonal'])
 
-		# find precision, recall and F1 score
-		precision = 1.0*np.diag(cm) / np.sum(cm, axis = 0)
-		recall = 1.0*np.diag(cm) / np.sum(cm, axis = 1)
-		f1_score = 2.0*((precision*recall)/(precision+recall))
+		y_true = np.array(df_y)
+		print(classification_report(y_true, y_pred, target_names=classes, digits=4))
 
-		avg_recall = np.mean(recall)
-		avg_precision = np.mean(precision)
-		avg_f1_score = np.mean(f1_score)
-
-		print("Average Precision: %.2f (+/- %.2f)" % (np.mean(precision), np.std(precision)))
-		print("Average Recall: %.2f (+/- %.2f)" % (np.mean(recall), np.std(recall)))
-		print("Average F1 Score: %.2f (+/- %.2f)" % (np.mean(f1_score), np.std(f1_score)))
-
-		print ('Average Precision: ', avg_precision)
-		print ('Average Recall: ', avg_recall)
-		print ('Average F1 Score: ', avg_f1_score)
 
 		fig, ax = plt.subplots()
 		im = ax.imshow(cm, interpolation='nearest', cmap=plt.cm.YlOrRd)
@@ -182,7 +169,6 @@ class StructureClf():
 								'Row_O', 'Group_O', 'nO', 'rO'], axis=1)
 
 		unique_spgs = sorted(set(df['HMS'].tolist()))
-		print(unique_spgs)
 		spg_dict = {k:v for (v,k) in enumerate(unique_spgs)}
 
 		def spg_to_num(row):
@@ -213,3 +199,7 @@ class StructureClf():
 		cv_scores = cross_val_score(clf, df_x, df_y.values.ravel(), cv=10)
 
 		print ('Mean accuracy: %.3f +/- (%.3f)'%(np.mean(cv_scores), np.std(cv_scores)))
+
+		y_pred = cross_val_predict(clf, df_x, df_y.values.ravel(), cv=10)
+		y_true = np.array(df_y)
+		print(classification_report(y_true, y_pred, target_names=np.array(unique_spgs), digits=4))
