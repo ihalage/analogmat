@@ -2,7 +2,7 @@
 
 ## Supplementary Materials for "Analogical discovery of disordered perovskites by crystal structure information hidden in unsupervised material fingerprints"
 
-### Achintha Ihalage, Yang Hao
+### Achintha Ihalage and Yang Hao
 
 ## Installation
 
@@ -31,6 +31,15 @@ Confusion matrix             |  ROC curve
 :-------------------------:|:-------------------------:
 ![Alt text](analogmat/figures/gradient_boosting_conf_mat.png?raw=true) | ![Alt text](analogmat/figures/roc_curve.png?raw=true)
 
+### Plotting the perovskite likelihood of selected A(B<sub>1-x</sub>B'<sub>x</sub>)O<sub>3</sub> compositions
+
+```python
+from ML.plot_results import AABO3_Viz
+viz = AABO3_Viz()
+viz.plot_Bdoped()
+```
+
+![alt text](https://github.com/ihalage/analogmat/blob/master/analogmat/figures/clf_results_Bdoped.png)
 
 ### Screening potential perovskites from the composition space
 
