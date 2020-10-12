@@ -1,0 +1,2136 @@
+	A1	A1_frac	A2	A2_frac	B1	B1_frac	B2	B2_frac	CrystalClass	All_phases	Multiple_phases	How_many_phases	StructuredFormula
+0	Li	1.0	_	0.0	Sn	0.5	Te	0.5	orthorhombic	['orthorhombic']	0	1	Li2Sn(TeO6)
+1	Cs	0.5	Ta	0.5	B	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(CsTa)B2O6
+2	Ba	1.0	_	0.0	Cu	0.5	Te	0.5	tetragonal	['tetragonal']	0	1	Ba2Cu(TeO6)
+3	Na	1.0	_	0.0	U	0.5	Si	0.5		[nan]	0	1	Na2U(SiO6)
+4	Co	0.22399999999999998	Mg	0.7759999999999999	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Co0.224Mg0.776)(SiO3)
+5	Mg	0.925	Mn	0.075	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg0.925Mn0.075)(SiO3)
+6	Mg	0.89	Fe	0.11	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg1.78Fe.22)Si2O6
+7	Fe	0.75	Ca	0.25	Si	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Fe1.5Ca0.5)(SiO3)2
+8	Fe	0.8	Ca	0.2	Si	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Fe1.6Ca0.4)(SiO3)2
+9	Mg	0.1	Ca	0.9	C	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.1Ca0.9)CO3
+10	Na	0.5	Sc	0.5	Si	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(NaSc)(Si2O6)
+11	Na	0.075	Li	0.925	V	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Na.15Li1.85)V2O6
+12	Mg	0.985	Fe	0.015	Si	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Mg0.985Fe0.015)(SiO3)
+14	Mg	0.9159999999999999	Ca	0.084	Si	1.0	_	0.0	monoclinic	['monoclinic']	0	1	Mg0.916Ca0.084(SiO3)
+15	Mg	0.9440000000000001	Ca	0.055999999999999994	Si	1.0	_	0.0	monoclinic	['monoclinic']	0	1	Mg0.944Ca0.056(SiO3)
+16	Mg	0.064	Ca	0.9359999999999999	C	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg.064Ca.936)(CO3)
+17	Mg	0.129	Ca	0.871	C	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg.129Ca.871)(CO3)
+18	Mg	0.7809999999999999	Fe	0.21899999999999997	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg1.562Fe0.438)(Si2O6)
+19	Mg	0.784	Fe	0.21600000000000003	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg1.568Fe0.432)(Si2O6)
+20	Mg	0.78	Fe	0.22	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg1.561Fe0.439)(Si2O6)
+21	Mg	0.23199999999999998	Fe	0.768	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg0.463Fe1.537)(Si2O6)
+22	Mg	0.233	Fe	0.767	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg0.465Fe1.535)(Si2O6)
+23	Mg	0.23399999999999999	Fe	0.7659999999999999	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg0.468Fe1.532)(Si2O6)
+24	Cu	0.9	Zn	0.1	Se	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Cu0.9Zn0.1)(SeO3)
+25	Cu	0.8	Zn	0.2	Se	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Cu0.8Zn0.2)(SeO3)
+26	Cu	0.7	Zn	0.3	Se	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Cu0.7Zn0.3)(SeO3)
+27	Cu	0.6	Zn	0.4	Se	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Cu0.6Zn0.4)(SeO3)
+28	Cu	0.5	Zn	0.5	Se	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Cu0.5Zn0.5)(SeO3)
+29	Cu	0.4	Zn	0.6	Se	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Cu0.4Zn0.6)(SeO3)
+30	Cu	0.3	Zn	0.7	Se	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Cu0.3Zn0.7)(SeO3)
+31	Cu	0.2	Zn	0.8	Se	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Cu0.2Zn0.8)(SeO3)
+32	Ba	1.0	_	0.0	Ir	0.35600000000000004	Mn	0.644	trigonal	['trigonal']	0	1	Ba9(Ir3.2Mn5.8)O27
+33	Mg	0.03	Ca	0.97	C	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.03Ca0.97)(CO3)
+34	Mg	0.06	Ca	0.94	C	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.06Ca0.94)(CO3)
+36	Na	1.0	_	0.0	Ge	0.5	Te	0.5	trigonal	['trigonal']	0	1	Na2Ge(TeO6)
+37	Na	1.0	_	0.0	Ti	0.5	Te	0.5	trigonal	['trigonal']	0	1	Na2Ti(TeO6)
+38	Cu	1.0	_	0.0	Ge	0.76	Si	0.24	orthorhombic	['orthorhombic']	0	1	Cu(Ge0.76Si0.24)O3
+39	Tb	0.25	Sc	0.75	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(Tb0.25Sc0.75)(BO3)
+40	Ca	0.075	Mg	0.925	Si	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Ca0.15Mg0.85)Mg(Si2O6)
+48	Ca	0.115	Mg	0.885	Si	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Ca0.23Mg1.77)(Si2O6)
+49	Pb	1.0	_	0.0	Mn	0.5	Re	0.5		[nan, 'monoclinic', 'cubic']	1	3	Pb2Mn(ReO6)
+50	Ba	1.0	_	0.0	Ir	0.3	Mn	0.7	trigonal	['trigonal']	0	1	Ba(Ir0.3Mn0.7O3)
+52	Ba	1.0	_	0.0	Ir	0.4	Mn	0.6	trigonal	['trigonal']	0	1	Ba(Ir0.4Mn0.6O3)
+58	Ca	0.2	Mg	0.8	Si	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Ca0.40Mg1.60)(Si2O6)
+59	Mg	0.965	Ca	0.035	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg1.93Ca0.07)(Si2O6)
+64	Mg	0.1	Cd	0.9	C	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.1Cd0.9)(CO3)
+65	Mg	0.2	Cd	0.8	C	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.2Cd0.8)(CO3)
+66	Mg	0.3	Cd	0.7	C	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.3Cd0.7)(CO3)
+67	Mg	0.6	Cd	0.4	C	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.6Cd0.4)(CO3)
+68	Mg	0.5	Cd	0.5	C	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.5Cd0.5)(CO3)
+69	Y	0.29	Ba	0.71	Co	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(Y0.29Ba0.71)(CoO3)
+70	Yb	1.0	_	0.0	Mn	0.9	Fe	0.1	hexagonal	['hexagonal']	0	1	Yb((Mn0.9Fe0.1)O3)
+71	Yb	1.0	_	0.0	Mn	0.8	Fe	0.2	hexagonal	['hexagonal']	0	1	Yb((Mn0.8Fe0.2)O3)
+72	Ca	1.0	_	0.0	Ir	0.7	Pt	0.3	orthorhombic	['orthorhombic']	0	1	Ca((Ir0.7Pt0.3)O3)
+73	Ca	1.0	_	0.0	Ir	0.5	Pt	0.5	orthorhombic	['orthorhombic']	0	1	Ca((Ir0.5Pt0.5)O3)
+74	Ca	1.0	_	0.0	Ir	0.3	Pt	0.7	orthorhombic	['orthorhombic']	0	1	Ca((Ir0.3Pt0.7)O3)
+75	Ca	1.0	_	0.0	Ir	0.5	Rh	0.5	orthorhombic	['orthorhombic']	0	1	Ca((Ir0.5Rh0.5)O3)
+76	Fe	0.4	Mg	0.6	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Fe0.4Mg0.6)(SiO3)
+77	Fe	0.297	Mg	0.703	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Fe1.19Mg2.81)(SiO3)4
+79	Mg	0.93	Fe	0.07	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg0.93Fe0.07)(SiO3)
+80	Y	0.5	Sc	0.5	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(YSc)(BO3)2
+81	Ho	0.5	Sc	0.5	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(HoSc)(BO3)2
+82	Er	0.5	Sc	0.5	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(ErSc)(BO3)2
+83	Tm	0.5	Sc	0.5	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(TmSc)(BO3)2
+84	Yb	0.5	Sc	0.5	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(YbSc)(BO3)2
+85	Lu	0.5	Sc	0.5	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(LuSc)(BO3)2
+86	Dy	0.7	Y	0.3	Mn	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(Dy0.7Y0.3)(MnO3)
+87	Dy	0.5	Y	0.5	Mn	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(Dy0.5Y0.5)(MnO3)
+88	Dy	0.3	Y	0.7	Mn	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(Dy0.3Y0.7)(MnO3)
+89	Y	1.0	_	0.0	Mn	0.9	Fe	0.1	hexagonal	['hexagonal']	0	1	Y((Mn0.9Fe0.1)O3)
+91	Y	1.0	_	0.0	Mn	0.9	Ga	0.1	hexagonal	['hexagonal']	0	1	Y((Mn0.9Ga0.1)O3)
+93	Y	1.0	_	0.0	Mn	0.9	Ti	0.1	hexagonal	['hexagonal']	0	1	Y((Mn0.9Ti0.1)O3)
+94	Mg	1.0	_	0.0	Ge	0.21	Si	0.79	orthorhombic	['orthorhombic']	0	1	Mg((Ge0.21Si0.79)O3)
+95	Mg	1.0	_	0.0	Ge	0.3	Si	0.7	orthorhombic	['orthorhombic']	0	1	Mg((Ge0.30Si0.70)O3)
+96	Mg	1.0	_	0.0	Ge	0.34	Si	0.66	orthorhombic	['orthorhombic']	0	1	Mg((Ge0.34Si0.66)O3)
+97	Mg	1.0	_	0.0	Ge	0.63	Si	0.37	monoclinic	['monoclinic']	0	1	Mg((Ge0.63Si0.37)O3)
+98	Mg	1.0	_	0.0	Ge	0.912	Si	0.08800000000000001	monoclinic	['monoclinic']	0	1	Mg((Ge0.912Si0.088)O3)
+99	Ca	0.96	Mn	0.04	Si	1.0	_	0.0	triclinic	['triclinic']	0	1	(Ca2.88Mn0.12)(SiO3)3
+100	Ca	0.9570000000000001	Fe	0.043	Si	1.0	_	0.0	triclinic	['triclinic']	0	1	(Ca2.87Fe0.13)(SiO3)3
+101	K	0.1	Li	0.9	Sb	1.0	_	0.0		[nan]	0	1	(K0.1Li0.9)(SbO3)
+102	Mg	0.975	Ca	0.025	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg3.90Ca0.10)(SiO3)4
+103	Mn	0.97	Mg	0.03	Si	1.0	_	0.0	triclinic	['triclinic']	0	1	(Mn0.97Mg0.03)(SiO3)
+105	Mg	0.895	Fe	0.105	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg1.79Fe0.21)(Si2O6)
+110	Mg	0.915	Fe	0.085	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg1.83Fe0.17)(Si2O6)
+116	Lu	0.5	Sc	0.5	Fe	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(Lu0.5Sc0.5)FeO3
+117	Y	1.0	_	0.0	Mn	0.7	Fe	0.3	hexagonal	['hexagonal']	0	1	Y(Mn0.7Fe0.3)O3
+118	Fe	0.1	Mg	0.9	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Fe0.1Mg0.9)SiO3
+119	Ag	0.84	K	0.16	Sb	1.0	_	0.0		[nan]	0	1	(Ag0.84K0.16)SbO3
+120	Ba	1.0	_	0.0	Ru	0.35600000000000004	Mn	0.644	trigonal	['trigonal']	0	1	Ba9(Ru3.2Mn5.8)O27
+121	Fe	0.3	Mg	0.7	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Fe0.3Mg0.7)(SiO3)
+122	Ba	0.833	Sr	0.16699999999999998	Ru	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(Ba0.833Sr0.167)(RuO3)
+123	Ba	0.667	Sr	0.33299999999999996	Ir	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(Ba0.667Sr0.333)(IrO3)
+124	Fe	0.155	Mg	0.845	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Fe.155Mg.845)SiO3
+125	Ba	0.875	Sr	0.125	Ru	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(Ba0.875Sr0.125)RuO3
+126	Y	0.92	Er	0.08	B	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Y0.92Er0.08)(BO3)
+128	Y	1.0	_	0.0	Cu	0.5	Ti	0.5	hexagonal	['hexagonal']	0	1	Y2(CuTi)O6
+129	Tb	1.0	_	0.0	Cu	0.5	Ti	0.5	hexagonal	['hexagonal']	0	1	Tb2Cu(TiO6)
+130	Dy	1.0	_	0.0	Cu	0.5	Ti	0.5	hexagonal	['hexagonal']	0	1	Dy2(CuTiO6)
+131	Ho	1.0	_	0.0	Cu	0.5	Ti	0.5	hexagonal	['hexagonal']	0	1	Ho2(CuTiO6)
+132	Er	1.0	_	0.0	Cu	0.5	Ti	0.5	hexagonal	['hexagonal']	0	1	Er2(CuTiO6)
+133	Tm	1.0	_	0.0	Cu	0.5	Ti	0.5	hexagonal	['hexagonal']	0	1	Tm2(CuTiO6)
+134	Yb	1.0	_	0.0	Cu	0.5	Ti	0.5	hexagonal	['hexagonal']	0	1	Yb2(CuTiO6)
+135	Lu	1.0	_	0.0	Cu	0.5	Ti	0.5	hexagonal	['hexagonal']	0	1	Lu2(CuTiO6)
+136	La	0.8	Al	0.2	B	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.8Al0.2)(BO3)
+137	Cr	0.95	Eu	0.05	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(Cr0.95Eu0.05)(BO3)
+138	Ag	1.0	_	0.0	V	0.5	As	0.5	triclinic	['triclinic']	0	1	Ag2(VAsO6)
+139	Ba	1.0	_	0.0	Bi	0.5	Ru	0.5	orthorhombic	['orthorhombic']	0	1	Ba2Bi(RuO6)
+140	Ba	1.0	_	0.0	Cr	0.5	Ta	0.5	hexagonal	['hexagonal']	0	1	Ba2Cr(TaO6)
+141	Ba	1.0	_	0.0	Co	0.5	Te	0.5	trigonal	['trigonal']	0	1	Ba2Co(TeO6)
+142	Ba	1.0	_	0.0	In	0.5	Ru	0.5	trigonal	['trigonal']	0	1	Ba2In(RuO6)
+143	Ba	1.0	_	0.0	Ni	0.5	Os	0.5	trigonal	['trigonal', 'cubic']	1	2	Ba2Ni(OsO6)
+144	Ba	1.0	_	0.0	In	0.5	Ir	0.5	trigonal	['trigonal']	0	1	Ba2In(IrO6)
+145	Ba	0.5	Mg	0.5	C	1.0	_	0.0	trigonal	['trigonal']	0	1	(BaMg)(CO3)2
+146	Ba	0.5	Ca	0.5	C	1.0	_	0.0	monoclinic	['monoclinic', 'hexagonal']	1	2	(BaCa)(CO3)2
+148	K	0.5	Ta	0.5	B	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(KTa)(BO3)2
+149	Ni	1.0	_	0.0	Nb	0.5	B	0.5	orthorhombic	['orthorhombic']	0	1	Ni2Nb(BO6)
+150	K	0.5	Sb	0.5	B	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(KSb)B2O6
+151	K	0.5	Ho	0.5	C	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(KHo)(CO3)2
+152	K	0.5	Yb	0.5	C	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(KYb)(CO3)2
+153	K	0.5	Gd	0.5	C	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(KGd)(CO3)2
+154	K	0.5	Dy	0.5	C	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(KDy)(CO3)2
+155	Rb	0.5	Sm	0.5	C	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(RbSm)(CO3)2
+156	Rb	0.5	Nb	0.5	B	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(RbNb)(B2O6)
+157	Tl	0.5	Nb	0.5	B	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(TlNb)B2O6
+158	Nd	0.95	Dy	0.05	Al	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(Nd0.95Dy0.05)AlO3
+159	Nd	0.9	Dy	0.1	Al	1.0	_	0.0	trigonal	['trigonal']	0	1	(Nd0.9Dy0.1)AlO3
+160	Nd	0.8	Dy	0.2	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.8Dy0.2)AlO3
+161	Nd	0.7	Dy	0.3	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.7Dy0.3)AlO3
+162	Nd	0.6	Dy	0.4	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.6Dy0.4)AlO3
+163	Nd	0.5	Dy	0.5	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.5Dy0.5)AlO3
+164	Nd	0.4	Dy	0.6	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.4Dy0.6)AlO3
+165	Nd	0.3	Dy	0.7	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.3Dy0.7)AlO3
+166	Nd	0.2	Dy	0.8	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.2Dy0.8)AlO3
+167	Bi	0.9	Y	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.9Y0.1)MnO3
+168	Bi	0.5	Y	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.5Y0.5)MnO3
+169	Pr	1.0	_	0.0	Co	0.5	Ti	0.5	monoclinic	['monoclinic']	0	1	Pr2Co(TiO6)
+170	Ba	1.0	_	0.0	Fe	0.667	Te	0.33299999999999996	hexagonal	['hexagonal']	0	1	Ba3(Fe2Te)O9
+171	Y	1.0	_	0.0	Ni	0.5	Mn	0.5	monoclinic	['monoclinic']	0	1	Y2Ni(MnO6)
+172	Ba	1.0	_	0.0	Y	0.5	Os	0.5	cubic	['cubic']	0	1	Ba2Y(OsO6)
+173	Ca	0.95	La	0.05	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.95La0.05)MnO3
+174	Ca	0.95	Bi	0.05	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.95Bi0.05)MnO3
+175	Ca	1.0	_	0.0	Mn	0.95	Mo	0.05	orthorhombic	['orthorhombic']	0	1	Ca(Mn0.95Mo0.05)O3
+176	La	1.0	_	0.0	Mn	0.7	Sc	0.3	orthorhombic	['orthorhombic']	0	1	La(Mn0.7Sc0.3)O3
+177	La	1.0	_	0.0	Mn	0.6	Sc	0.4	orthorhombic	['orthorhombic']	0	1	La(Mn0.6Sc0.4)O3
+178	La	1.0	_	0.0	Mn	0.5	Sc	0.5	orthorhombic	['orthorhombic']	0	1	La(Mn0.5Sc0.5)O3
+179	La	1.0	_	0.0	Mn	0.4	Sc	0.6	orthorhombic	['orthorhombic']	0	1	La(Mn0.4Sc0.6)O3
+180	La	1.0	_	0.0	Mn	0.3	Sc	0.7	orthorhombic	['orthorhombic']	0	1	La(Mn0.3Sc0.7)O3
+181	La	1.0	_	0.0	Mn	0.1	Sc	0.9	orthorhombic	['orthorhombic']	0	1	La(Mn0.1Sc0.9)O3
+182	La	1.0	_	0.0	Li	0.5	Os	0.5	monoclinic	['monoclinic']	0	1	La2Li(OsO6)
+183	Sr	0.5	Bi	0.5	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Sr0.5Bi0.5)FeO3
+184	Lu	1.0	_	0.0	Fe	0.5	Cr	0.5	orthorhombic	['orthorhombic']	0	1	Lu(Fe0.5Cr0.5)O3
+185	Yb	1.0	_	0.0	Fe	0.5	Cr	0.5	orthorhombic	['orthorhombic']	0	1	Yb(Fe0.5Cr0.5)O3
+186	Tm	1.0	_	0.0	Fe	0.5	Cr	0.5	orthorhombic	['orthorhombic']	0	1	Tm(Fe0.5Cr0.5)O3
+187	Nd	1.0	_	0.0	Mg	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Nd2Mg(RuO6)
+188	La	1.0	_	0.0	Co	0.5	Mn	0.5	monoclinic	['monoclinic', 'orthorhombic']	1	2	La2Co(MnO6)
+189	Sm	1.0	_	0.0	Co	0.5	Mn	0.5	monoclinic	['monoclinic']	0	1	Sm2Co(MnO6)
+190	Sm	0.89	Ca	0.11	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sm0.89Ca0.11)CoO3
+191	Nd	0.53	Sr	0.47	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.53Sr0.47)(MnO3)
+192	Pb	1.0	_	0.0	Tm	0.5	Sb	0.5	monoclinic	['monoclinic', 'trigonal', 'cubic']	1	3	Pb2Tm(SbO6)
+196	Sr	1.0	_	0.0	Co	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	Sr2(CoIr)O6
+199	Ba	1.0	_	0.0	In	0.5	Ta	0.5	cubic	['cubic']	0	1	Ba2In(TaO6)
+200	Eu	1.0	_	0.0	Ho	0.5	Ta	0.5	monoclinic	['monoclinic']	0	1	Eu2Ho(TaO6)
+201	Bi	0.95	Tb	0.05	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.95Tb0.05)FeO3
+202	Bi	0.9	Tb	0.1	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.9Tb0.1)FeO3
+203	Bi	0.85	Tb	0.15	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.85Tb0.15)FeO3
+204	Pb	1.0	_	0.0	Zr	0.4	Ti	0.6	cubic	['cubic', 'tetragonal']	1	2	Pb(Zr0.4Ti0.6)O3
+205	Pb	1.0	_	0.0	Zr	0.5	Ti	0.5	cubic	['cubic', 'tetragonal']	1	2	Pb(Zr0.5Ti0.5)O3
+206	Pb	1.0	_	0.0	Zr	0.52	Ti	0.48	cubic	['cubic', 'tetragonal', 'monoclinic']	1	3	Pb(Zr0.52Ti0.48)O3
+207	Pb	1.0	_	0.0	Zr	0.55	Ti	0.45	cubic	['cubic', 'tetragonal']	1	2	Pb(Zr0.55Ti0.45)O3
+208	Pb	1.0	_	0.0	Zr	0.6	Ti	0.4	cubic	['cubic']	0	1	Pb(Zr0.6Ti0.4)O3
+209	Pb	1.0	_	0.0	Zr	0.9	Ti	0.1	cubic	['cubic', 'trigonal']	1	2	Pb(Zr0.9Ti0.1)O3
+211	Pb	1.0	_	0.0	Zr	0.95	Ti	0.05	cubic	['cubic']	0	1	Pb(Zr0.95Ti0.05)O3
+217	Sr	1.0	_	0.0	Co	0.5	Re	0.5	tetragonal	['tetragonal', 'monoclinic']	1	2	Sr(Co0.5Re0.5)O3
+218	La	0.9	Sm	0.1	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.9Sm0.1)(MnO3)
+219	La	0.8	Sm	0.2	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.8Sm0.2)(MnO3)
+220	La	0.7	Sm	0.3	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.7Sm0.3)(MnO3)
+221	Na	0.5	Bi	0.5	Ti	1.0	_	0.0	trigonal	['trigonal', 'tetragonal', 'cubic', 'orthorhombic']	1	4	(Na0.5Bi0.5)(TiO3)
+222	La	0.96	Ca	0.04	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.96Ca0.04)CoO3
+223	La	0.96	Sr	0.04	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.96Sr0.04)CoO3
+224	La	0.96	Ba	0.04	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.96Ba0.04)CoO3
+225	La	0.94	Ca	0.06	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.94Ca0.06)CoO3
+226	La	0.94	Sr	0.06	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.94Sr0.06)CoO3
+227	La	0.94	Ba	0.06	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.94Ba0.06)CoO3
+228	Bi	1.0	_	0.0	Co	0.37	Fe	0.63	monoclinic	['monoclinic']	0	1	Bi(Co0.37Fe0.63)O3
+229	Bi	1.0	_	0.0	Co	0.3	Fe	0.7	monoclinic	['monoclinic']	0	1	Bi(Co0.3Fe0.7)O3
+230	Bi	1.0	_	0.0	Co	0.28	Fe	0.72	monoclinic	['monoclinic']	0	1	Bi(Co0.28Fe0.72)O3
+231	Mn	1.0	_	0.0	Mo	0.635	Fe	0.365	monoclinic	['monoclinic']	0	1	Mn2(Mo1.27Fe0.73)O6
+232	Ba	1.0	_	0.0	Ir	0.51	Ni	0.49	trigonal	['trigonal']	0	1	Ba(Ir0.51Ni0.49)O3
+233	La	1.0	_	0.0	Co	0.5	Pt	0.5	monoclinic	['monoclinic']	0	1	La2Co(PtO6)
+234	Pb	0.9	Bi	0.1	V	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Pb0.9Bi0.1)VO3
+235	Pb	0.8	Bi	0.2	V	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Pb0.8Bi0.2)VO3
+236	Pb	0.7	Bi	0.3	V	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Pb0.7Bi0.3)VO3
+237	Sr	1.0	_	0.0	Nb	0.5	Yb	0.5	monoclinic	['monoclinic']	0	1	Sr(Nb0.5Yb0.5)O3
+238	Pb	1.0	_	0.0	Hf	0.4	Ti	0.6	tetragonal	['tetragonal']	0	1	Pb((Hf0.4Ti0.6)O3)
+240	Pb	1.0	_	0.0	Hf	0.8	Ti	0.2	trigonal	['trigonal', 'cubic']	1	2	Pb(Hf0.8Ti0.2)O3
+248	Ba	1.0	_	0.0	Li	0.33299999999999996	Ru	0.667	hexagonal	['hexagonal']	0	1	Ba3Li(Ru2O9)
+249	Tb	1.0	_	0.0	Mn	0.9	Co	0.1	orthorhombic	['orthorhombic']	0	1	Tb(Mn0.9Co0.1)O3
+250	Tb	1.0	_	0.0	Mn	0.7	Co	0.3	orthorhombic	['orthorhombic']	0	1	Tb(Mn0.7Co0.3)O3
+251	Tb	1.0	_	0.0	Mn	0.5	Co	0.5	monoclinic	['monoclinic']	0	1	Tb(Mn0.5Co0.5)O3
+252	La	1.0	_	0.0	Co	0.2	Fe	0.8	orthorhombic	['orthorhombic']	0	1	La(Co0.2Fe0.8)O3
+253	La	0.67	Ba	0.33	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.67Ba0.33)MnO3
+254	Tb	1.0	_	0.0	Mn	0.9	Al	0.1	orthorhombic	['orthorhombic']	0	1	Tb(Mn0.9Al0.1)O3
+255	Sr	1.0	_	0.0	Cr	0.5	Sb	0.5	monoclinic	['monoclinic', 'triclinic', 'cubic']	1	3	Sr2Cr(SbO6)
+256	Ca	1.0	_	0.0	Cr	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Ca2Cr(SbO6)
+257	Sr	1.0	_	0.0	Tb	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Sr2Tb(RuO6)
+258	Ba	1.0	_	0.0	Pr	0.5	Ru	0.5	monoclinic	['monoclinic', 'cubic']	1	2	Ba2Pr(RuO6)
+259	Sr	0.7	Ca	0.3	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.7Ca0.3)TiO3
+261	Sr	1.0	_	0.0	Mg	0.5	Te	0.5	monoclinic	['monoclinic']	0	1	Sr2Mg(TeO6)
+262	La	0.5	Ca	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.5Ca0.5)MnO3
+263	Ca	0.94	Bi	0.06	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.94Bi0.06)MnO3
+264	Ca	0.88	Bi	0.12	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.88Bi0.12)MnO3
+265	Ca	0.82	Bi	0.18	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'monoclinic']	1	2	(Ca0.82Bi0.18)MnO3
+266	Ca	0.75	Bi	0.25	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.75Bi0.25)MnO3
+270	La	0.7	Pb	0.3	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	La0.7Pb0.3(MnO3)
+271	Sm	1.0	_	0.0	Co	0.9	Fe	0.1	orthorhombic	['orthorhombic']	0	1	Sm(Co0.9Fe0.1)O3
+272	Sm	1.0	_	0.0	Co	0.7	Fe	0.3	orthorhombic	['orthorhombic']	0	1	Sm(Co0.7Fe0.3)O3
+273	Sm	1.0	_	0.0	Co	0.5	Fe	0.5	orthorhombic	['orthorhombic']	0	1	Sm(Co0.5Fe0.5)O3
+274	Sm	1.0	_	0.0	Co	0.3	Fe	0.7	orthorhombic	['orthorhombic']	0	1	Sm(Co0.3Fe0.7)O3
+275	Sm	1.0	_	0.0	Co	0.1	Fe	0.9	orthorhombic	['orthorhombic']	0	1	Sm(Co0.1Fe0.9)O3
+276	Sr	1.0	_	0.0	Eu	0.5	Mo	0.5	monoclinic	['monoclinic']	0	1	Sr2Eu(MoO6)
+277	Sr	1.0	_	0.0	Gd	0.5	Mo	0.5	monoclinic	['monoclinic']	0	1	Sr2Gd(MoO6)
+278	Sr	1.0	_	0.0	Dy	0.5	Mo	0.5	monoclinic	['monoclinic']	0	1	Sr2Dy(MoO6)
+279	Sr	1.0	_	0.0	Ho	0.5	Mo	0.5	monoclinic	['monoclinic']	0	1	Sr2Ho(MoO6)
+280	Sr	1.0	_	0.0	Er	0.5	Mo	0.5	monoclinic	['monoclinic']	0	1	Sr2Er(MoO6)
+281	Sr	1.0	_	0.0	Yb	0.5	Mo	0.5	monoclinic	['monoclinic']	0	1	Sr2Yb(MoO6)
+282	Bi	0.5	Pb	0.5	Cr	1.0	_	0.0	orthorhombic	['orthorhombic', 'monoclinic']	1	2	(Bi0.5Pb0.5)CrO3
+285	Ca	1.0	_	0.0	Sc	0.5	Os	0.5	monoclinic	['monoclinic']	0	1	Ca2Sc(OsO6)
+286	Ba	1.0	_	0.0	Mn	0.5	Te	0.5	trigonal	['trigonal']	0	1	Ba2(MnTeO6)
+287	Pb	1.0	_	0.0	Mn	0.5	Te	0.5	cubic	['cubic']	0	1	Pb(Mn0.5Te0.5O3)
+288	Ba	1.0	_	0.0	Li	0.5	Os	0.5	cubic	['cubic']	0	1	Ba2Li(OsO6)
+289	Ba	1.0	_	0.0	Na	0.5	Os	0.5	cubic	['cubic']	0	1	Ba2Na(OsO6)
+290	Ba	1.0	_	0.0	Na	0.25	Ru	0.75	hexagonal	['hexagonal']	0	1	Ba4(NaRu3)O12
+291	La	1.0	_	0.0	Na	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	La2Na(IrO6)
+292	Pr	1.0	_	0.0	Na	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	Pr2Na(IrO6)
+293	Nd	1.0	_	0.0	Na	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	Nd2Na(IrO6)
+294	La	1.0	_	0.0	Na	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	La2Na(RuO6)
+295	Ba	1.0	_	0.0	Pr	0.75	Bi	0.25	orthorhombic	['orthorhombic']	0	1	Ba(Pr0.75Bi0.25)O3
+296	Ba	1.0	_	0.0	Pr	0.67	Bi	0.33	orthorhombic	['orthorhombic']	0	1	Ba(Pr0.67Bi0.33)O3
+297	Pr	1.0	_	0.0	Na	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Pr2Na(RuO6)
+298	Pr	1.0	_	0.0	Li	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	Pr2Li(IrO6)
+299	Nd	1.0	_	0.0	Li	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	Nd2Li(IrO6)
+300	La	1.0	_	0.0	Li	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	La2Li(IrO6)
+301	Sm	1.0	_	0.0	Li	0.5	Os	0.5	monoclinic	['monoclinic']	0	1	Sm2Li(OsO6)
+302	Pr	1.0	_	0.0	Li	0.5	Os	0.5	monoclinic	['monoclinic']	0	1	Pr2Li(OsO6)
+303	Nd	1.0	_	0.0	Li	0.5	Os	0.5	monoclinic	['monoclinic']	0	1	Nd2Li(OsO6)
+305	Sr	1.0	_	0.0	Na	0.5	Re	0.5	monoclinic	['monoclinic']	0	1	Sr2Na(ReO6)
+306	Sr	1.0	_	0.0	Li	0.5	Re	0.5	tetragonal	['tetragonal', 'cubic']	1	2	Sr2Li(ReO6)
+308	Ba	1.0	_	0.0	Na	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2Na(ReO6)
+309	Ba	1.0	_	0.0	Li	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2Li(ReO6)
+310	Eu	1.0	_	0.0	Mg	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	Eu2Mg(IrO6)
+311	Gd	1.0	_	0.0	Mg	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	Gd2(MgIr)O6
+312	Nd	1.0	_	0.0	Mg	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	Nd2(MgIr)O6
+313	Pr	1.0	_	0.0	Mg	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	Pr2(MgIr)O6
+314	Sm	1.0	_	0.0	Mg	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	Sm2(MgIr)O6
+315	Eu	1.0	_	0.0	Fe	0.5	V	0.5	orthorhombic	['orthorhombic']	0	1	Eu(Fe0.50V0.50)O3
+316	Nd	1.0	_	0.0	Fe	0.5	V	0.5	orthorhombic	['orthorhombic']	0	1	Nd(Fe0.50V0.50)O3
+317	Nd	1.0	_	0.0	Fe	0.49	V	0.51	orthorhombic	['orthorhombic']	0	1	Nd(Fe0.49V0.51)O3
+318	Ca	1.0	_	0.0	La	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Ca2La(SbO6)
+319	Ce	1.0	_	0.0	Fe	0.5	V	0.5	orthorhombic	['orthorhombic']	0	1	Ce(Fe0.5V0.5)O3
+320	Dy	1.0	_	0.0	Fe	0.5	V	0.5	orthorhombic	['orthorhombic']	0	1	Dy(Fe0.5V0.5)O3
+321	Er	1.0	_	0.0	Fe	0.5	V	0.5	orthorhombic	['orthorhombic']	0	1	Er(Fe0.5V0.5)O3
+323	Gd	1.0	_	0.0	Fe	0.5	V	0.5	orthorhombic	['orthorhombic']	0	1	Gd(Fe0.5V0.5)O3
+324	Ho	1.0	_	0.0	Fe	0.5	V	0.5	orthorhombic	['orthorhombic']	0	1	Ho(Fe0.5V0.5)O3
+325	La	1.0	_	0.0	Fe	0.5	V	0.5	orthorhombic	['orthorhombic']	0	1	La(Fe0.5V0.5)O3
+326	Pr	1.0	_	0.0	Fe	0.5	V	0.5	orthorhombic	['orthorhombic']	0	1	Pr(Fe0.5V0.5)O3
+328	Sm	1.0	_	0.0	Fe	0.5	V	0.5	orthorhombic	['orthorhombic']	0	1	Sm(Fe0.5V0.5)O3
+329	Tb	1.0	_	0.0	Fe	0.5	V	0.5	orthorhombic	['orthorhombic']	0	1	Tb(Fe0.5V0.5)O3
+330	Y	1.0	_	0.0	Fe	0.5	V	0.5	orthorhombic	['orthorhombic']	0	1	Y(Fe0.5V0.5)O3
+331	Ba	0.8	Sr	0.2	Sn	1.0	_	0.0	cubic	['cubic']	0	1	Ba0.8Sr0.2(SnO3)
+332	Ba	0.6	Sr	0.4	Sn	1.0	_	0.0	cubic	['cubic']	0	1	Ba0.6Sr0.4(SnO3)
+333	Ba	0.4	Sr	0.6	Sn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	Ba0.4Sr0.6(SnO3)
+334	Ba	0.2	Sr	0.8	Sn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	Ba0.2Sr0.8(SnO3)
+335	Mn	1.0	_	0.0	Fe	0.5	Re	0.5	monoclinic	['monoclinic']	0	1	Mn2Fe(ReO6)
+336	Tb	0.5	Dy	0.5	Sc	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Tb0.5Dy0.5)ScO3
+337	Tb	0.5	Gd	0.5	Sc	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Tb0.5Gd0.5)ScO3
+338	Sr	1.0	_	0.0	Ru	0.8	Cu	0.2	monoclinic	['monoclinic']	0	1	Sr(Ru0.8Cu0.2)O3
+339	Ba	1.0	_	0.0	Sb	0.5	Bi	0.5	monoclinic	['monoclinic']	0	1	Ba2Sb(BiO6)
+341	Ca	1.0	_	0.0	La	0.5	Ta	0.5	orthorhombic	['orthorhombic', 'monoclinic']	1	2	Ca2La(TaO6)
+342	Y	1.0	_	0.0	Al	0.5	Cr	0.5	monoclinic	['monoclinic']	0	1	Y2Al(CrO6)
+343	Sr	1.0	_	0.0	Fe	0.5	Mo	0.5	tetragonal	['tetragonal', 'cubic']	1	2	Sr2Fe(MoO6)
+344	Ba	1.0	_	0.0	Ce	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Ba2Ce(SbO6)
+345	K	0.5	Bi	0.5	Ti	1.0	_	0.0	tetragonal	['tetragonal', 'cubic']	1	2	(K0.5Bi0.5)TiO3
+346	Ba	1.0	_	0.0	Nb	0.5	V	0.5	cubic	['cubic']	0	1	Ba(Nb0.5V0.5)O3
+347	K	1.0	_	0.0	Ta	0.77	Nb	0.23	cubic	['cubic']	0	1	K(Ta0.77Nb0.23)O3
+348	Ho	1.0	_	0.0	Mn	0.625	Cr	0.375	orthorhombic	['orthorhombic']	0	1	Ho(Mn0.625Cr0.375)O3
+349	Ho	1.0	_	0.0	Mn	0.95	Cr	0.05	orthorhombic	['orthorhombic']	0	1	Ho(Mn0.95Cr0.05)O3
+350	Nd	1.0	_	0.0	Mn	0.8	Fe	0.2	orthorhombic	['orthorhombic']	0	1	Nd(Mn0.8Fe0.2)O3
+353	Nd	0.5	Sr	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.5Sr0.5)MnO3
+359	La	0.95	Ca	0.05	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(La0.95Ca0.05)MnO3
+361	La	0.95	Ba	0.05	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.95Ba0.05)MnO3
+362	La	1.0	_	0.0	Co	0.2	Mn	0.8	orthorhombic	['orthorhombic']	0	1	La(Co0.2Mn0.8)O3
+363	La	0.5	Y	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.5Y0.5)TiO3
+365	Ca	1.0	_	0.0	Nd	0.5	Ta	0.5	monoclinic	['monoclinic']	0	1	Ca2Nd(TaO6)
+366	Ca	1.0	_	0.0	Gd	0.5	Ta	0.5	monoclinic	['monoclinic']	0	1	Ca2Gd(TaO6)
+367	Ca	1.0	_	0.0	Ho	0.5	Ta	0.5	monoclinic	['monoclinic']	0	1	Ca2Ho(TaO6)
+368	Na	1.0	_	0.0	Nb	0.5	As	0.5	monoclinic	['monoclinic']	0	1	Na2Nb(AsO6)
+369	Pb	1.0	_	0.0	Zr	0.601	Ti	0.39899999999999997	trigonal	['trigonal']	0	1	Pb(Zr0.601Ti0.399)O3
+370	Pb	1.0	_	0.0	Mg	0.5	Te	0.5	cubic	['cubic', 'trigonal']	1	2	Pb2(MgTeO6)
+373	La	1.0	_	0.0	Cu	0.75	Mo	0.25	monoclinic	['monoclinic']	0	1	La4Cu3(MoO12)
+374	La	1.0	_	0.0	Mg	0.5	Ti	0.5	orthorhombic	['orthorhombic', 'monoclinic', 'trigonal', 'cubic']	1	4	La(Mg0.5Ti0.5)O3
+375	Pb	0.95	Ca	0.05	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Pb0.95Ca0.05)(TiO3)
+376	La	1.0	_	0.0	Mn	0.5	Ti	0.5	orthorhombic	['orthorhombic']	0	1	La2Mn(TiO6)
+377	Mg	0.95	Fe	0.05	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg0.95Fe0.05)(SiO3)
+378	Mg	0.94	Fe	0.06	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg0.94Fe0.06)(SiO3)
+379	Bi	0.5	Ag	0.5	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Bi0.5Ag0.5)(TiO3)
+380	Sr	1.0	_	0.0	Bi	0.5	Nd	0.5	monoclinic	['monoclinic']	0	1	Sr2Bi(NdO6)
+381	Sr	1.0	_	0.0	Bi	0.5	Lu	0.5	monoclinic	['monoclinic']	0	1	Sr2Bi(LuO6)
+382	Sr	0.96	Ca	0.04	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Sr0.96Ca0.04)TiO3
+383	Sr	0.88	Ca	0.12	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.88Ca0.12)TiO3
+384	Sr	0.75	Ca	0.25	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.75Ca0.25)TiO3
+385	Sr	0.5	Ca	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.5Ca0.5)TiO3
+386	Pb	1.0	_	0.0	Fe	0.5	Nb	0.5	tetragonal	['tetragonal', 'cubic', 'trigonal']	1	3	Pb((FeNb)O6)0.5
+387	La	0.7	Ca	0.3	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(La0.7Ca0.3)(MnO3)
+397	La	0.8	Ca	0.2	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(La0.8Ca0.2)(MnO3)
+405	La	0.7	Sr	0.3	Mn	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic', 'tetragonal']	1	3	(La0.7Sr0.3)(MnO3)
+411	La	0.85	Na	0.15	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.85Na0.15)MnO3
+412	La	0.85	K	0.15	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.85K0.15)MnO3
+413	La	1.0	_	0.0	Mg	0.5	Rh	0.5	monoclinic	['monoclinic']	0	1	La2Mg(RhO6)
+414	La	1.0	_	0.0	Zn	0.5	Rh	0.5	monoclinic	['monoclinic']	0	1	La2Zn(RhO6)
+415	Ba	0.256	Sr	0.7440000000000001	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.256Sr0.744)TiO3
+416	Pr	0.8	Sr	0.2	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.8Sr0.2)(CoO3)
+417	Pr	0.5	Sr	0.5	Co	1.0	_	0.0	monoclinic	['monoclinic', 'trigonal', 'orthorhombic', 'tetragonal']	1	4	(Pr0.5Sr0.5)(CoO3)
+418	Ba	1.0	_	0.0	Pr	0.5	Nb	0.5	monoclinic	['monoclinic', 'cubic']	1	2	Ba2Pr(NbO6)
+419	La	1.0	_	0.0	Mg	0.616	Nb	0.384	orthorhombic	['orthorhombic']	0	1	La(Mg0.616Nb0.384)O3
+420	Ca	0.81	Sr	0.19	V	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.81Sr0.19)(VO3)
+421	Ca	0.73	Sr	0.27	V	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Ca0.73Sr0.27)(VO3)
+422	Ca	0.26	Sr	0.74	V	1.0	_	0.0	cubic	['cubic']	0	1	(Ca0.26Sr0.74)(VO3)
+423	Ca	0.89	Sr	0.11	V	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.89Sr0.11)(VO3)
+424	Ca	0.8	Sr	0.2	V	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.8Sr0.2)(VO3)
+425	Ca	0.58	Sr	0.42	V	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Ca0.58Sr0.42)(VO3)
+426	Na	1.0	_	0.0	Sn	0.5	Te	0.5	monoclinic	['monoclinic']	0	1	Na2(SnTeO6)
+427	La	1.0	_	0.0	Cr	0.8	Mn	0.2	orthorhombic	['orthorhombic']	0	1	La(Cr0.8Mn0.2)O3
+428	La	1.0	_	0.0	Mg	0.598	Nb	0.402	monoclinic	['monoclinic']	0	1	La(Mg0.598Nb0.402)O3
+429	Ca	1.0	_	0.0	Fe	0.5	Mo	0.5	monoclinic	['monoclinic']	0	1	Ca2Fe(MoO6)
+431	Ba	1.0	_	0.0	Ce	0.1	Zr	0.9	cubic	['cubic']	0	1	Ba(Ce0.1Zr0.9)O3
+432	Ba	1.0	_	0.0	Ce	0.4	Zr	0.6	trigonal	['trigonal', 'cubic']	1	2	Ba((Ce0.4Zr0.6)O3)
+433	Ba	1.0	_	0.0	Ce	0.8	Zr	0.2	orthorhombic	['orthorhombic', 'trigonal', 'cubic']	1	3	Ba((Ce0.8Zr0.2)O3)
+446	La	0.73	Nd	0.27	Ga	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(La0.73Nd0.27)(GaO3)
+447	La	0.68	Nd	0.32	Ga	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.68Nd0.32)(GaO3)
+448	La	0.63	Nd	0.37	Ga	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.63Nd0.37)GaO3
+449	La	0.56	Nd	0.44	Ga	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.56Nd0.44)GaO3
+450	La	0.47	Nd	0.53	Ga	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.47Nd0.53)GaO3
+451	Sr	1.0	_	0.0	Co	0.5	Nb	0.5	cubic	['cubic', 'tetragonal']	1	2	Sr((Co0.5Nb0.5)O3)
+452	Pb	1.0	_	0.0	Zr	0.2	Ti	0.8	tetragonal	['tetragonal']	0	1	Pb(Zr0.2Ti0.8)O3
+453	Pb	1.0	_	0.0	Zr	0.3	Ti	0.7	tetragonal	['tetragonal', 'cubic']	1	2	Pb(Zr0.3Ti0.7)O3
+457	La	0.6	Ca	0.4	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(La0.6Ca0.4)MnO3
+458	Pb	1.0	_	0.0	Fe	0.5	Ta	0.5	tetragonal	['tetragonal', 'cubic']	1	2	Pb((FeTa)O6)0.5
+459	Pb	1.0	_	0.0	Sc	0.48	Nb	0.52	cubic	['cubic']	0	1	Pb(Sc0.48Nb0.52)O3
+463	Ba	1.0	_	0.0	Nd	0.5	Ru	0.5	monoclinic	['monoclinic', 'cubic']	1	2	Ba2Nd(RuO6)
+464	Sr	1.0	_	0.0	Ho	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Sr2Ho(RuO6)
+466	Pb	1.0	_	0.0	Zr	0.1	Ti	0.9	tetragonal	['tetragonal']	0	1	Pb(Zr0.1Ti0.9)O3
+470	Pb	1.0	_	0.0	Zr	0.53	Ti	0.47	tetragonal	['tetragonal']	0	1	Pb(Zr0.53Ti0.47)O3
+471	La	1.0	_	0.0	Mn	0.5	Rh	0.5	orthorhombic	['orthorhombic']	0	1	La(Mn0.5Rh0.5)O3
+472	Sm	1.0	_	0.0	Ni	0.97	Co	0.03	orthorhombic	['orthorhombic']	0	1	Sm(Ni0.97Co0.03)O3
+473	Sm	1.0	_	0.0	Ni	0.925	Co	0.075	orthorhombic	['orthorhombic']	0	1	Sm(Ni0.925Co0.075)O3
+474	Sm	1.0	_	0.0	Ni	0.9	Co	0.1	orthorhombic	['orthorhombic']	0	1	Sm(Ni0.9Co0.1)O3
+475	Sm	1.0	_	0.0	Ni	0.8	Co	0.2	orthorhombic	['orthorhombic']	0	1	Sm(Ni0.8Co0.2)O3
+476	Sm	1.0	_	0.0	Ni	0.7	Co	0.3	orthorhombic	['orthorhombic']	0	1	Sm(Ni0.7Co0.3)O3
+477	Sm	1.0	_	0.0	Ni	0.5	Co	0.5	orthorhombic	['orthorhombic']	0	1	Sm(Ni0.5Co0.5)O3
+478	Sm	1.0	_	0.0	Ni	0.3	Co	0.7	orthorhombic	['orthorhombic']	0	1	Sm(Ni0.3Co0.7)O3
+479	Sm	1.0	_	0.0	Ni	0.1	Co	0.9	orthorhombic	['orthorhombic']	0	1	Sm(Ni0.1Co0.9)O3
+480	Ba	1.0	_	0.0	Yb	0.5	Ta	0.5	cubic	['cubic']	0	1	Ba2Yb(TaO6)
+481	Sr	0.4	K	0.6	Bi	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.4K0.6)BiO3
+487	Ba	1.0	_	0.0	Co	0.5	Nb	0.5	cubic	['cubic']	0	1	Ba(Co0.5Nb0.5)O3
+488	Ba	1.0	_	0.0	Ir	0.5	Co	0.5	trigonal	['trigonal']	0	1	Ba(Ir0.5Co0.5)O3
+489	Na	0.6	Sr	0.4	Ta	1.0	_	0.0	cubic	['cubic']	0	1	(Na0.6Sr0.4)(TaO3)
+490	Na	0.7	Sr	0.3	Ta	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Na0.7Sr0.3)(TaO3)
+491	Na	0.8	Sr	0.2	Ta	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Na0.8Sr0.2)(TaO3)
+492	Na	0.9	Sr	0.1	Ta	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Na0.9Sr0.1)(TaO3)
+493	Sr	1.0	_	0.0	Fe	0.5	Nb	0.5	orthorhombic	['orthorhombic', 'tetragonal', 'cubic']	1	3	Sr2Fe(NbO6)
+494	Ba	1.0	_	0.0	Bi	0.5	In	0.5	tetragonal	['tetragonal']	0	1	Ba(Bi0.5In0.5)O3
+495	La	0.93	Nd	0.07	Ga	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.93Nd0.07)(GaO3)
+496	La	0.88	Nd	0.12	Ga	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(La0.88Nd0.12)(GaO3)
+497	La	0.83	Nd	0.17	Ga	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.83Nd0.17)(GaO3)
+498	La	0.8	Nd	0.2	Ga	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.8Nd0.2)(GaO3)
+499	La	0.5	Li	0.5	Ti	1.0	_	0.0	trigonal	['trigonal', 'cubic', 'tetragonal']	1	3	(La0.5Li0.5)(TiO3)
+500	Ho	0.2	Ca	0.8	Mn	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Ho0.2Ca0.8)(MnO3)
+504	La	0.53	Ca	0.47	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.53Ca0.47)(MnO3)
+507	Tb	0.75	Ca	0.25	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Tb0.75Ca0.25)(MnO3)
+508	Tb	0.25	Ca	0.75	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Tb0.25Ca0.75)(MnO3)
+509	Tb	0.15	Ca	0.85	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'monoclinic']	1	2	(Tb0.15Ca0.85)(MnO3)
+510	Tb	0.85	Ca	0.15	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Tb0.85Ca0.15)(MnO3)
+511	Tb	0.67	Ca	0.33	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Tb0.67Ca0.33)(MnO3)
+512	Tb	0.35	Ca	0.65	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Tb0.35Ca0.65)(MnO3)
+515	Sm	0.1	Ca	0.9	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sm0.1Ca0.9)(MnO3)
+516	Pr	0.1	Sr	0.9	Mn	1.0	_	0.0	cubic	['cubic', 'tetragonal']	1	2	(Pr0.1Sr0.9)(MnO3)
+519	La	1.0	_	0.0	Mn	0.6	V	0.4	orthorhombic	['orthorhombic']	0	1	La(Mn0.6V0.4)O3
+520	La	1.0	_	0.0	Mn	0.5	V	0.5	orthorhombic	['orthorhombic', 'monoclinic']	1	2	La(Mn0.5V0.5)O3
+521	La	1.0	_	0.0	Mn	0.4	V	0.6	orthorhombic	['orthorhombic']	0	1	La(Mn0.4V0.6)O3
+522	La	1.0	_	0.0	Mn	0.7	Cu	0.3	orthorhombic	['orthorhombic']	0	1	La(Mn0.7Cu0.3)O3
+523	Pr	0.95	Sr	0.05	Ni	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.95Sr0.05)NiO3
+524	K	0.667	Th	0.33299999999999996	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(K0.667Th0.333)(TiO3)
+532	Pb	1.0	_	0.0	Hf	0.2	Ti	0.8	tetragonal	['tetragonal']	0	1	Pb(Hf0.2Ti0.8)O3
+535	La	1.0	_	0.0	Ni	0.8	Mo	0.2	orthorhombic	['orthorhombic']	0	1	La(Ni0.8Mo0.2)O3
+536	La	0.2	Sm	0.8	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.2Sm0.8)FeO3
+537	La	0.4	Sm	0.6	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.4Sm0.6)FeO3
+538	La	0.6	Sm	0.4	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.6Sm0.4)FeO3
+539	La	0.8	Sm	0.2	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.8Sm0.2)FeO3
+540	Pr	0.85	Na	0.15	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.85Na0.15)(MnO3)
+541	Pr	0.9	Na	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.9Na0.1)(MnO3)
+542	Pr	0.92	Na	0.08	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.92Na0.08)(MnO3)
+543	Pr	0.92	K	0.08	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.92K0.08)(MnO3)
+544	Pr	0.94	K	0.06	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.94K0.06)(MnO3)
+545	Nd	0.89	Na	0.11	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.89Na0.11)(MnO3)
+546	Nd	0.95	K	0.05	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.95K0.05)(MnO3)
+547	Ca	0.5	Sr	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.5Sr0.5)TiO3
+548	Ba	1.0	_	0.0	Nd	0.33299999999999996	Ru	0.667	hexagonal	['hexagonal']	0	1	Ba3Nd(Ru2O9)
+549	Sr	1.0	_	0.0	Sc	0.5	Bi	0.5	cubic	['cubic']	0	1	Sr2Sc(BiO6)
+550	La	0.9	Sm	0.1	Ga	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(La0.9Sm0.1)GaO3
+551	La	0.83	Sm	0.17	Ga	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.83Sm0.17)GaO3
+552	La	0.7	Sm	0.3	Ga	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.7Sm0.3)GaO3
+554	Ca	0.75	Sr	0.25	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.75Sr0.25)(TiO3)
+556	Ca	0.4	Sr	0.6	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.4Sr0.6)(TiO3)
+557	Ca	0.35	Sr	0.65	Ti	1.0	_	0.0	tetragonal	['tetragonal', 'orthorhombic']	1	2	(Ca0.35Sr0.65)(TiO3)
+562	La	0.7	Ba	0.3	Mn	1.0	_	0.0	trigonal	['trigonal', 'cubic', 'orthorhombic']	1	3	(La0.7Ba0.3)MnO3
+563	Sr	1.0	_	0.0	Ca	0.33299999999999996	Ru	0.667	monoclinic	['monoclinic']	0	1	Sr3Ca(Ru2O9)
+564	Ba	1.0	_	0.0	Tb	0.33299999999999996	Ru	0.667	hexagonal	['hexagonal']	0	1	Ba3Tb(Ru2O9)
+566	Pb	1.0	_	0.0	Mg	0.28300000000000003	Nb	0.7170000000000001	cubic	['cubic']	0	1	Pb(Mg0.283Nb0.717)O3
+567	Yb	1.0	_	0.0	Co	0.5	Mn	0.5	orthorhombic	['orthorhombic']	0	1	Yb2((CoMn)O6)
+568	La	0.65	Pb	0.35	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.65Pb0.35)(MnO3)
+573	Sr	1.0	_	0.0	Fe	0.5	W	0.5	monoclinic	['monoclinic', 'cubic']	1	2	Sr2Fe(WO6)
+574	Ba	1.0	_	0.0	Fe	0.5	W	0.5	tetragonal	['tetragonal', 'cubic']	1	2	Ba2(FeWO6)
+580	Sr	1.0	_	0.0	Tm	0.5	Ta	0.5	monoclinic	['monoclinic']	0	1	Sr2(TmTaO6)
+582	La	0.64	Sr	0.36	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.64Sr0.36)(MnO3)
+583	Sr	1.0	_	0.0	Mn	0.4	Nb	0.6	orthorhombic	['orthorhombic']	0	1	Sr2(Mn0.8Nb1.2)O6
+584	La	1.0	_	0.0	Co	0.5	Ti	0.5	monoclinic	['monoclinic']	0	1	La2Co(TiO6)
+586	La	1.0	_	0.0	Ni	0.5	Ti	0.5	monoclinic	['monoclinic', 'orthorhombic']	1	2	La2Ni(TiO6)
+589	La	0.9	Pb	0.1	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.9Pb0.1)MnO3
+590	La	0.2	Ca	0.8	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.2Ca0.8)MnO3
+591	La	0.15	Ca	0.85	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'monoclinic']	1	2	(La0.15Ca0.85)MnO3
+593	La	1.0	_	0.0	Ni	0.5	Ru	0.5	monoclinic	['monoclinic', 'orthorhombic']	1	2	La2Ni(RuO6)
+594	La	0.4	Ca	0.6	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.4Ca0.6)(TiO3)
+595	La	0.3	Ca	0.7	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.3Ca0.7)(TiO3)
+596	La	0.2	Ca	0.8	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.2Ca0.8)(TiO3)
+597	La	0.1	Ca	0.9	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.1Ca0.9)(TiO3)
+598	Ba	1.0	_	0.0	In	0.667	W	0.33299999999999996	cubic	['cubic']	0	1	Ba(In0.667W0.333)O3
+600	Sr	1.0	_	0.0	In	0.667	W	0.33299999999999996	orthorhombic	['orthorhombic']	0	1	Sr(In0.667W0.333)O3
+601	Ba	1.0	_	0.0	Y	0.667	Mo	0.33299999999999996	cubic	['cubic']	0	1	Ba(Y0.667Mo0.333)O3
+602	Ba	1.0	_	0.0	Y	0.667	W	0.33299999999999996	cubic	['cubic']	0	1	Ba(Y0.667W0.333)O3
+603	La	0.625	Ca	0.375	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.625Ca0.375)(MnO3)
+604	Pr	0.625	Ca	0.375	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.625Ca0.375)(MnO3)
+605	La	1.0	_	0.0	Mg	0.5	Ge	0.5	trigonal	['trigonal']	0	1	La2Mg(GeO6)
+606	Pb	1.0	_	0.0	Zr	0.515	Ti	0.485	tetragonal	['tetragonal']	0	1	Pb(Zr0.515Ti0.485)O3
+609	Pb	1.0	_	0.0	Zr	0.525	Ti	0.475	tetragonal	['tetragonal']	0	1	Pb(Zr0.525Ti0.475)O3
+610	Sr	1.0	_	0.0	Mn	0.5	Nb	0.5	cubic	['cubic']	0	1	Sr(Mn0.5Nb0.5)O3
+611	Ba	1.0	_	0.0	Y	0.5	Re	0.5	monoclinic	['monoclinic', 'cubic']	1	2	Ba2Y(ReO6)
+612	La	1.0	_	0.0	Mn	0.95	Ga	0.05	orthorhombic	['orthorhombic']	0	1	La(Mn0.95Ga0.05)O3
+614	La	1.0	_	0.0	Mn	0.9	Ga	0.1	orthorhombic	['orthorhombic']	0	1	La(Mn0.9Ga0.1)O3
+616	La	1.0	_	0.0	Mn	0.85	Ga	0.15	orthorhombic	['orthorhombic']	0	1	La(Mn0.85Ga0.15)O3
+618	La	1.0	_	0.0	Mn	0.7	Ga	0.3	orthorhombic	['orthorhombic']	0	1	La(Mn0.7Ga0.3)O3
+620	La	1.0	_	0.0	Mn	0.6	Ga	0.4	orthorhombic	['orthorhombic']	0	1	La(Mn0.6Ga0.4)O3
+622	La	1.0	_	0.0	Mn	0.5	Ga	0.5	orthorhombic	['orthorhombic']	0	1	La(Mn0.5Ga0.5)O3
+624	La	1.0	_	0.0	Mn	0.4	Ga	0.6	orthorhombic	['orthorhombic']	0	1	La(Mn0.4Ga0.6)O3
+626	La	1.0	_	0.0	Mn	0.2	Ga	0.8	orthorhombic	['orthorhombic']	0	1	La(Mn0.2Ga0.8)O3
+628	La	1.0	_	0.0	Mn	0.1	Ga	0.9	orthorhombic	['orthorhombic']	0	1	La(Mn0.1Ga0.9)O3
+630	Ba	0.8	Ca	0.2	Zr	1.0	_	0.0	tetragonal	['tetragonal', 'cubic']	1	2	(Ba0.8Ca0.2)(ZrO3)
+637	La	1.0	_	0.0	Li	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	La2Li(RuO6)
+639	Ba	1.0	_	0.0	Dy	0.667	Mo	0.33299999999999996	cubic	['cubic']	0	1	Ba(Dy0.667Mo0.333)O3
+640	Ba	1.0	_	0.0	Dy	0.667	W	0.33299999999999996	cubic	['cubic']	0	1	Ba(Dy0.667W0.333)O3
+641	Ba	1.0	_	0.0	Gd	0.667	W	0.33299999999999996	cubic	['cubic']	0	1	Ba(Gd0.667W0.333)O3
+642	Ba	1.0	_	0.0	Gd	0.667	Mo	0.33299999999999996	cubic	['cubic']	0	1	Ba(Gd0.667Mo0.333)O3
+643	Ba	1.0	_	0.0	Sm	0.667	W	0.33299999999999996	cubic	['cubic']	0	1	Ba(Sm0.667W0.333)O3
+644	Y	0.7	Ca	0.3	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.7Ca0.3)MnO3
+646	Y	0.5	Ca	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.5Ca0.5)MnO3
+649	Sr	1.0	_	0.0	Co	0.5	W	0.5	tetragonal	['tetragonal', 'monoclinic', 'cubic']	1	3	Sr2Co(WO6)
+652	La	1.0	_	0.0	Ni	0.5	Mn	0.5	monoclinic	['monoclinic', 'trigonal', 'orthorhombic']	1	3	La(Ni0.5Mn0.5)O3
+653	Sr	1.0	_	0.0	Mn	0.5	Mo	0.5	monoclinic	['monoclinic']	0	1	Sr2Mn(MoO6)
+654	Sr	1.0	_	0.0	Mn	0.5	W	0.5	monoclinic	['monoclinic']	0	1	Sr2(MnWO6)
+655	Ca	1.0	_	0.0	Mn	0.5	W	0.5	monoclinic	['monoclinic']	0	1	Ca2(MnWO6)
+657	La	1.0	_	0.0	Mg	0.667	Nb	0.33299999999999996	monoclinic	['monoclinic', 'cubic']	1	2	La(Mg0.667Nb0.333)O3
+659	Pb	0.1	Ca	0.9	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pb0.1Ca0.9)(TiO3)
+660	Pb	0.2	Ca	0.8	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pb0.2Ca0.8)(TiO3)
+661	Pb	0.3	Ca	0.7	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pb0.3Ca0.7)(TiO3)
+662	Pb	0.4	Ca	0.6	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pb0.4Ca0.6)(TiO3)
+663	Pb	0.58	Ca	0.42	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Pb0.58Ca0.42)(TiO3)
+664	Pb	0.578	Ca	0.42200000000000004	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pb0.578Ca0.422)(TiO3)
+665	Pb	0.61	Ca	0.39	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Pb0.61Ca0.39)(TiO3)
+666	La	1.0	_	0.0	Mg	0.6	Nb	0.4	monoclinic	['monoclinic']	0	1	La(Mg0.6Nb0.4)O3
+668	Pr	0.7	Ba	0.3	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.7Ba0.3)MnO3
+672	Nd	0.7	Ba	0.3	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.7Ba0.3)(MnO3)
+675	La	1.0	_	0.0	Cr	0.5	Ti	0.5	trigonal	['trigonal']	0	1	La(Cr0.5Ti0.5O3)
+676	Ca	1.0	_	0.0	Cr	0.5	Ti	0.5	orthorhombic	['orthorhombic']	0	1	Ca(Cr0.5Ti0.5O3)
+677	Li	1.0	_	0.0	Zr	0.5	Te	0.5	trigonal	['trigonal']	0	1	Li2Zr(TeO6)
+679	Ba	1.0	_	0.0	Ti	0.5	Mn	0.5	trigonal	['trigonal', 'hexagonal']	1	2	Ba((Ti0.5Mn0.5)O3)
+681	Ca	0.77	Sr	0.23	Te	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Ca0.77Sr0.23)(TeO3)
+682	Sr	0.85	Ca	0.15	C	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.85Ca0.15)(CO3)
+683	K	0.5	Y	0.5	C	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(KY)C2O6
+684	Bi	1.0	_	0.0	Fe	0.5	Al	0.5	trigonal	['trigonal']	0	1	Bi2Fe(AlO6)
+685	Ca	0.5	Sn	0.5	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(CaSn)(B2O6)
+688	Mg	0.4	Cd	0.6	C	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.4Cd0.6)(CO3)
+689	Mg	0.45	Cd	0.55	C	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.45Cd0.55)(CO3)
+690	Mg	0.55	Cd	0.45	C	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.55Cd0.45)(CO3)
+691	Y	0.5	Cr	0.5	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(YCr)(BO3)2
+692	Er	0.5	Cr	0.5	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(ErCr)(BO3)2
+693	Tm	0.5	Cr	0.5	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(TmCr)(BO3)2
+694	Yb	0.5	Cr	0.5	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(YbCr)(BO3)2
+695	Lu	0.5	Cr	0.5	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(LuCr)(B2O6)
+696	Ca	1.0	_	0.0	Mn	0.5	Nb	0.5	orthorhombic	['orthorhombic']	0	1	Ca2Mn(NbO6)
+697	Ca	1.0	_	0.0	Mn	0.5	Sb	0.5	orthorhombic	['orthorhombic', 'monoclinic']	1	2	Ca2Mn(SbO6)
+698	La	0.6	Sr	0.4	Mn	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic']	1	2	(La0.6Sr0.4)(MnO3)
+699	Pr	0.6	Sr	0.4	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'monoclinic']	1	2	(Pr0.6Sr0.4)(MnO3)
+700	Ba	1.0	_	0.0	Ho	0.5	Ru	0.5	cubic	['cubic']	0	1	Ba2(HoRuO6)
+703	Nd	0.7	Sr	0.3	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.7Sr0.3)(MnO3)
+704	Ba	1.0	_	0.0	Fe	0.667	W	0.33299999999999996	hexagonal	['hexagonal']	0	1	Ba3(Fe2WO9)
+709	Gd	0.95	Eu	0.05	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Gd0.95Eu0.05)(AlO3)
+710	Ca	1.0	_	0.0	Fe	0.5	Re	0.5	monoclinic	['monoclinic']	0	1	Ca2(FeReO6)
+713	Sr	1.0	_	0.0	Ho	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Sr2Ho(SbO6)
+714	Sr	1.0	_	0.0	Dy	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Sr2Dy(SbO6)
+715	La	1.0	_	0.0	Co	0.5	Ni	0.5	trigonal	['trigonal']	0	1	La(Co0.5Ni0.5)O3
+716	La	1.0	_	0.0	Co	0.5	Fe	0.5	trigonal	['trigonal', 'orthorhombic']	1	2	La(Co0.5Fe0.5)O3
+718	Ba	0.5	Sr	0.5	Pb	1.0	_	0.0	orthorhombic	['orthorhombic', 'cubic']	1	2	(Ba0.5Sr0.5)(PbO3)
+719	Tb	0.5	Sr	0.5	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Tb0.5Sr0.5)(CoO3)
+721	La	1.0	_	0.0	Mn	0.9	Mg	0.1	orthorhombic	['orthorhombic']	0	1	La(Mn0.9Mg0.1O3)
+722	La	1.0	_	0.0	Mn	0.8	Mg	0.2	orthorhombic	['orthorhombic']	0	1	La(Mn0.8Mg0.2O3)
+723	La	1.0	_	0.0	Mn	0.7	Mg	0.3	orthorhombic	['orthorhombic']	0	1	La(Mn0.7Mg0.3O3)
+724	Ba	1.0	_	0.0	Sm	0.5	Sb	0.5	cubic	['cubic']	0	1	Ba2Sm(SbO6)
+725	La	0.95	Nd	0.05	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.95Nd0.05)(CrO3)
+728	Sr	1.0	_	0.0	Lu	0.5	Bi	0.5	monoclinic	['monoclinic']	0	1	Sr2(LuBiO6)
+730	Sr	1.0	_	0.0	Co	0.5	U	0.5	monoclinic	['monoclinic', 'cubic']	1	2	Sr2Co(UO6)
+731	Pb	1.0	_	0.0	Hf	0.1	Ti	0.9	tetragonal	['tetragonal']	0	1	Pb(Hf0.1Ti0.9)O3
+735	Pb	1.0	_	0.0	Hf	0.3	Ti	0.7	tetragonal	['tetragonal']	0	1	Pb(Hf0.3Ti0.7)O3
+739	Sr	1.0	_	0.0	Ni	0.5	Os	0.5	tetragonal	['tetragonal']	0	1	Sr2Ni(OsO6)
+743	Ca	1.0	_	0.0	Ni	0.5	Os	0.5	monoclinic	['monoclinic']	0	1	Ca2(NiOsO6)
+747	Ba	1.0	_	0.0	Ca	0.33299999999999996	Ru	0.667	trigonal	['trigonal']	0	1	Ba3Ca(Ru2O9)
+749	Ba	1.0	_	0.0	Mg	0.5	W	0.5	cubic	['cubic']	0	1	Ba2Mg(WO6)
+751	Sr	1.0	_	0.0	Mg	0.5	W	0.5	tetragonal	['tetragonal', 'cubic', 'triclinic']	1	3	Sr2Mg(WO6)
+754	La	0.8	Sr	0.2	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.8Sr0.2)(MnO3)
+756	La	1.0	_	0.0	Co	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	La2(CoRuO6)
+758	Ca	1.0	_	0.0	Co	0.5	Te	0.5	monoclinic	['monoclinic']	0	1	Ca2(CoTeO6)
+759	Sr	1.0	_	0.0	Co	0.5	Te	0.5	monoclinic	['monoclinic']	0	1	Sr2(CoTeO6)
+763	Ba	1.0	_	0.0	Pr	0.5	Ir	0.5	cubic	['cubic', 'orthorhombic']	1	2	Ba2(PrIrO6)
+765	Ba	1.0	_	0.0	Bi	0.5	Ta	0.5	trigonal	['trigonal', 'cubic']	1	2	Ba2Bi(TaO6)
+767	Sr	1.0	_	0.0	Tb	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	Sr2(TbIr)O6
+768	Sr	1.0	_	0.0	Fe	0.6659999999999999	Mo	0.33399999999999996	tetragonal	['tetragonal']	0	1	Sr2Fe(Fe0.333Mo0.667)O6
+770	La	0.5	Ba	0.5	Co	1.0	_	0.0	cubic	['cubic']	0	1	(La0.5Ba0.5)(CoO3)
+771	La	1.0	_	0.0	Fe	0.5	Cr	0.5	orthorhombic	['orthorhombic']	0	1	La(Fe0.5Cr0.5)O3
+772	Sr	1.0	_	0.0	Co	0.5	Mo	0.5	cubic	['cubic', 'tetragonal']	1	2	Sr2(CoMoO6)
+776	La	0.8	Ag	0.2	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.8Ag0.2)MnO3
+780	La	0.9	Nd	0.1	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.9Nd0.1)(CrO3)
+781	La	0.8	Nd	0.2	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.8Nd0.2)(CrO3)
+782	La	0.75	Nd	0.25	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.75Nd0.25)(CrO3)
+787	La	0.85	Ca	0.15	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'monoclinic']	1	2	(La0.85Ca0.15)(MnO3)
+788	La	0.825	Ca	0.175	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.825Ca0.175)(MnO3)
+789	La	0.25	Ca	0.75	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.25Ca0.75)(MnO3)
+790	Bi	1.0	_	0.0	Ni	0.5	Mn	0.5	monoclinic	['monoclinic']	0	1	Bi2Ni(MnO6)
+791	Ca	1.0	_	0.0	Yb	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Ca2(YbRu)O6
+792	Sr	1.0	_	0.0	In	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Sr2(InSbO6)
+793	Sr	1.0	_	0.0	Y	0.5	Sb	0.5	monoclinic	['monoclinic', 'cubic']	1	2	Sr2(YSbO6)
+795	Sr	1.0	_	0.0	Mg	0.5	Mo	0.5	tetragonal	['tetragonal', 'triclinic', 'cubic']	1	3	Sr2(MgMoO6)
+796	Pr	1.0	_	0.0	Al	0.94	Cr	0.06	trigonal	['trigonal']	0	1	Pr(Al0.94Cr0.06)O3
+797	Nd	1.0	_	0.0	Al	0.9259999999999999	Cr	0.07400000000000001	trigonal	['trigonal']	0	1	Nd(Al0.926Cr0.074)O3
+798	Sm	1.0	_	0.0	Al	0.927	Cr	0.073	orthorhombic	['orthorhombic']	0	1	Sm(Al0.927Cr0.073)O3
+799	Eu	1.0	_	0.0	Al	0.98	Cr	0.02	orthorhombic	['orthorhombic']	0	1	Eu(Al0.98Cr0.02)O3
+800	Gd	1.0	_	0.0	Al	0.914	Cr	0.086	orthorhombic	['orthorhombic']	0	1	Gd(Al0.914Cr0.086)O3
+801	Dy	1.0	_	0.0	Al	0.9520000000000001	Cr	0.048	orthorhombic	['orthorhombic']	0	1	Dy(Al0.952Cr0.048)O3
+802	Ho	1.0	_	0.0	Al	0.97	Cr	0.03	orthorhombic	['orthorhombic']	0	1	Ho(Al0.97Cr0.03)O3
+803	Y	1.0	_	0.0	Al	0.971	Cr	0.028999999999999998	orthorhombic	['orthorhombic']	0	1	Y(Al0.971Cr0.029)O3
+804	Er	1.0	_	0.0	Al	0.972	Cr	0.027999999999999997	orthorhombic	['orthorhombic']	0	1	Er(Al0.972Cr0.028)O3
+805	Yb	1.0	_	0.0	Al	0.975	Cr	0.025	orthorhombic	['orthorhombic']	0	1	Yb(Al0.975Cr0.025)O3
+810	Ca	1.0	_	0.0	Lu	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Ca2Lu(RuO6)
+811	Ca	1.0	_	0.0	La	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Ca2La(RuO6)
+812	Ba	1.0	_	0.0	Cr	0.5	Mo	0.5	cubic	['cubic', 'hexagonal']	1	2	Ba2((CrMo)O6)
+814	Sr	0.57	Ca	0.43	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.57Ca0.43)(TiO3)
+815	Sr	0.6	Ca	0.4	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.6Ca0.4)(TiO3)
+816	Sr	1.0	_	0.0	Ta	0.5	Mn	0.5	cubic	['cubic']	0	1	Sr2(TaMnO6)
+822	La	1.0	_	0.0	Ni	0.9	Mn	0.1	trigonal	['trigonal']	0	1	La(Ni0.9Mn0.1)O3
+823	La	1.0	_	0.0	Ni	0.75	Mn	0.25	trigonal	['trigonal']	0	1	La(Ni0.75Mn0.25)O3
+830	La	1.0	_	0.0	Ni	0.25	Mn	0.75	orthorhombic	['orthorhombic']	0	1	La(Ni0.25Mn0.75)O3
+834	La	1.0	_	0.0	Ni	0.1	Mn	0.9	trigonal	['trigonal', 'orthorhombic']	1	2	La(Ni0.1Mn0.9)O3
+838	Ba	1.0	_	0.0	Fe	0.5	Re	0.5	tetragonal	['tetragonal', 'cubic']	1	2	Ba2(FeReO6)
+840	Ca	1.0	_	0.0	Mg	0.5	W	0.5	monoclinic	['monoclinic']	0	1	Ca2Mg(WO6)
+846	Ba	1.0	_	0.0	Y	0.5	Sb	0.5	cubic	['cubic']	0	1	Ba2(YSbO6)
+847	Sr	1.0	_	0.0	Ni	0.5	Mo	0.5	tetragonal	['tetragonal', 'cubic']	1	2	Sr2Ni(MoO6)
+851	Nd	0.7	Eu	0.3	Ni	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.7Eu0.3)(NiO3)
+856	Sr	1.0	_	0.0	Ni	0.5	Te	0.5	monoclinic	['monoclinic']	0	1	Sr2Ni(TeO6)
+859	Na	0.5	Nd	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Na0.5Nd0.5)(TiO3)
+860	Na	0.5	Pr	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic', 'tetragonal']	1	2	(Na0.5Pr0.5)(TiO3)
+862	La	1.0	_	0.0	Mg	0.5	Sn	0.5	monoclinic	['monoclinic']	0	1	La(Mg0.5Sn0.5)O3
+863	Sr	1.0	_	0.0	Fe	0.665	Te	0.335	cubic	['cubic']	0	1	Sr2(Fe1.33Te0.67)O6
+865	La	0.75	Sr	0.25	Cr	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal', 'cubic']	1	3	(La0.75Sr0.25)(CrO3)
+879	La	0.815	Ba	0.185	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.815Ba0.185)(MnO3)
+891	Pr	0.48	Sr	0.52	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.48Sr0.52)FeO3
+892	Pr	0.51	Sr	0.49	Fe	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Pr0.51Sr0.49)FeO3
+893	Ba	1.0	_	0.0	Nd	0.5	Nb	0.5	monoclinic	['monoclinic', 'cubic']	1	2	Ba2(NdNbO6)
+894	Ba	1.0	_	0.0	Nd	0.5	Sb	0.5	trigonal	['trigonal', 'cubic']	1	2	Ba2(NdSbO6)
+895	La	0.5	Ba	0.5	Mn	1.0	_	0.0	tetragonal	['tetragonal', 'cubic', 'orthorhombic']	1	3	(La0.5Ba0.5)(MnO3)
+898	La	0.875	Sr	0.125	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(La0.875Sr0.125)(MnO3)
+921	Ba	1.0	_	0.0	Cu	0.5	U	0.5	tetragonal	['tetragonal']	0	1	Ba2Cu(UO6)
+923	Ba	1.0	_	0.0	Ho	0.5	Ta	0.5	tetragonal	['tetragonal', 'cubic']	1	2	Ba2Ho(TaO6)
+926	La	0.9	Cd	0.1	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.9Cd0.1)(MnO3)
+927	La	0.8	Cd	0.2	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.8Cd0.2)(MnO3)
+928	La	0.7	Cd	0.3	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.7Cd0.3)(MnO3)
+929	La	0.6	Cd	0.4	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.6Cd0.4)(MnO3)
+930	La	0.5	Cd	0.5	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.5Cd0.5)(MnO3)
+931	La	1.0	_	0.0	Na	0.5	Ta	0.5	monoclinic	['monoclinic']	0	1	La2Na(TaO6)
+933	La	0.825	Ba	0.175	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.825Ba0.175)(MnO3)
+946	La	1.0	_	0.0	Cr	0.9	Mn	0.1	orthorhombic	['orthorhombic']	0	1	La((Cr0.9Mn0.1)O3)
+953	La	1.0	_	0.0	Cr	0.7	Mn	0.3	orthorhombic	['orthorhombic']	0	1	La((Cr0.7Mn0.3)O3)
+956	Ca	1.0	_	0.0	Ni	0.5	W	0.5	monoclinic	['monoclinic']	0	1	Ca2Ni(WO6)
+958	Ba	1.0	_	0.0	La	0.5	Ta	0.5	monoclinic	['monoclinic']	0	1	Ba2(LaTa)O6
+959	La	0.94	Nd	0.06	Ga	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.94Nd0.06)(GaO3)
+972	La	0.38	Nd	0.62	Ga	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.38Nd0.62)(GaO3)
+982	La	1.0	_	0.0	Mg	0.665	Ta	0.335	monoclinic	['monoclinic']	0	1	La2(Mg1.33Ta0.67)O6
+983	Ca	0.9	Ho	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.9Ho0.1)(MnO3)
+984	Ca	0.8	Ho	0.2	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.8Ho0.2)(MnO3)
+985	Ca	0.7	Ho	0.3	Mn	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Ca0.7Ho0.3)(MnO3)
+986	Ca	0.65	Ho	0.35	Mn	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Ca0.65Ho0.35)(MnO3)
+987	Ca	0.6	Ho	0.4	Mn	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Ca0.6Ho0.4)(MnO3)
+988	Pb	1.0	_	0.0	Fe	0.5	Re	0.5	tetragonal	['tetragonal']	0	1	Pb2(FeReO6)
+992	Sr	1.0	_	0.0	Er	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Sr2Er(RuO6)
+993	Ba	1.0	_	0.0	Ho	0.25	Ru	0.75	trigonal	['trigonal']	0	1	Ba4Ho(Ru3O12)
+994	Ba	1.0	_	0.0	Pr	0.25	Ru	0.75	monoclinic	['monoclinic']	0	1	Ba4Pr(Ru3O12)
+995	Ba	1.0	_	0.0	Tb	0.25	Ru	0.75	trigonal	['trigonal']	0	1	Ba4Tb(Ru3O12)
+998	Sr	1.0	_	0.0	Co	0.75	Re	0.25	cubic	['cubic']	0	1	Sr4(Co3ReO12)
+999	Sr	1.0	_	0.0	Fe	0.75	Re	0.25	cubic	['cubic']	0	1	Sr((Fe0.75Re0.25)O3)
+1000	Ba	0.9	Sr	0.1	Co	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(Ba0.9Sr0.1)CoO3
+1001	Ba	0.8	Sr	0.2	Co	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(Ba0.8Sr0.2)CoO3
+1002	Ba	0.5	Sr	0.5	Co	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(Ba0.5Sr0.5)CoO3
+1003	Ba	0.3	Sr	0.7	Co	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(Ba0.3Sr0.7)CoO3
+1004	Ba	0.2	Sr	0.8	Co	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(Ba0.2Sr0.8)CoO3
+1005	Ba	1.0	_	0.0	Ni	0.5	Te	0.5	hexagonal	['hexagonal', 'trigonal']	1	2	Ba2Ni(TeO6)
+1007	Ba	1.0	_	0.0	Ir	0.5	Mn	0.5	trigonal	['trigonal']	0	1	Ba(Ir0.5Mn0.5O3)
+1009	K	0.5	Na	0.5	Nb	1.0	_	0.0	tetragonal	['tetragonal', 'orthorhombic']	1	2	(K0.50Na0.50)(NbO3)
+1020	Ca	0.9	Y	0.1	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.9Y0.1)(TiO3)
+1022	La	0.67	Sr	0.33	Mn	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic']	1	2	(La0.67Sr0.33)(MnO3)
+1023	Sr	0.7	Ce	0.3	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.7Ce0.3)(MnO3)
+1024	Nd	1.0	_	0.0	Ni	0.5	Mn	0.5	monoclinic	['monoclinic']	0	1	Nd2Ni(MnO6)
+1025	Sm	1.0	_	0.0	Ni	0.5	Mn	0.5	monoclinic	['monoclinic']	0	1	Sm2Ni(MnO6)
+1026	Sr	0.65	Pr	0.35	Mn	1.0	_	0.0	tetragonal	['tetragonal', 'cubic']	1	2	(Sr0.65Pr0.35)(MnO3)
+1032	Nd	0.9	Gd	0.1	Al	1.0	_	0.0	trigonal	['trigonal']	0	1	(Nd0.9Gd0.1)(AlO3)
+1033	Nd	0.85	Gd	0.15	Al	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic']	1	2	(Nd0.85Gd0.15)(AlO3)
+1035	Nd	0.8	Gd	0.2	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.8Gd0.2)(AlO3)
+1036	Nd	0.75	Gd	0.25	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.75Gd0.25)(AlO3)
+1037	Nd	0.7	Gd	0.3	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.7Gd0.3)(AlO3)
+1038	Nd	0.6	Gd	0.4	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.6Gd0.4)(AlO3)
+1039	Nd	0.5	Gd	0.5	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.5Gd0.5)(AlO3)
+1040	Nd	0.4	Gd	0.6	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.4Gd0.6)(AlO3)
+1041	Nd	0.3	Gd	0.7	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.3Gd0.7)(AlO3)
+1042	Nd	0.1	Gd	0.9	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.1Gd0.9)(AlO3)
+1043	Ba	0.1	Sr	0.9	Sn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ba0.1Sr0.9)(SnO3)
+1044	Ba	0.25	Sr	0.75	Sn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ba0.25Sr0.75)(SnO3)
+1045	Ba	0.35	Sr	0.65	Sn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ba0.35Sr0.65)(SnO3)
+1046	Ba	0.5	Sr	0.5	Sn	1.0	_	0.0	tetragonal	['tetragonal', 'cubic']	1	2	(Ba0.5Sr0.5)(SnO3)
+1047	Ba	0.575	Sr	0.425	Sn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Ba0.575Sr0.425)(SnO3)
+1048	Ba	0.75	Sr	0.25	Sn	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.75Sr0.25)(SnO3)
+1049	Ba	0.9	Sr	0.1	Sn	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.9Sr0.1)(SnO3)
+1050	Mn	1.0	_	0.0	Fe	0.5	Sb	0.5	monoclinic	['monoclinic', 'trigonal']	1	2	Mn2(FeSb)O6
+1051	Ba	1.0	_	0.0	Zr	0.74	Ti	0.26	cubic	['cubic']	0	1	Ba(Zr0.74Ti0.26)O3
+1052	Sr	1.0	_	0.0	In	0.5	Ta	0.5	monoclinic	['monoclinic', 'cubic']	1	2	Sr2In(TaO6)
+1053	Y	1.0	_	0.0	Mn	0.5	Cr	0.5	orthorhombic	['orthorhombic', 'monoclinic']	1	2	Y(Mn0.5Cr0.5)O3
+1055	Y	0.5	Dy	0.5	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.5Dy0.5)(FeO3)
+1056	Y	0.5	Er	0.5	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.5Er0.5)(FeO3)
+1057	Y	0.96	Eu	0.04	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.96Eu0.04)(AlO3)
+1059	Na	1.0	_	0.0	Ta	0.1	Nb	0.9	orthorhombic	['orthorhombic']	0	1	Na((Ta0.1Nb0.9)O3)
+1060	Ba	1.0	_	0.0	Sm	0.5	Os	0.5	cubic	['cubic']	0	1	Ba2Sm(OsO6)
+1061	La	0.99	Ba	0.01	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.99Ba0.01)(CoO3)
+1062	La	0.97	Ba	0.03	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.97Ba0.03)(CoO3)
+1063	La	0.95	Ba	0.05	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.95Ba0.05)(CoO3)
+1065	Bi	1.0	_	0.0	Fe	0.7	Mn	0.3	orthorhombic	['orthorhombic', 'trigonal']	1	2	Bi(Fe0.7Mn0.3)O3
+1067	Na	0.5	Ce	0.5	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(NaCe)(Ti2O6)
+1068	Na	0.5	La	0.5	Ti	1.0	_	0.0	trigonal	['trigonal', 'cubic', 'tetragonal', 'orthorhombic']	1	4	(NaLa)(Ti2O6)
+1069	Sr	1.0	_	0.0	Fe	0.5	Ir	0.5	monoclinic	['monoclinic', 'triclinic']	1	2	Sr2Fe(IrO6)
+1073	Y	1.0	_	0.0	Co	0.48	Mn	0.52	monoclinic	['monoclinic']	0	1	Y((Co0.48Mn0.52)O3)
+1076	Nd	0.88	Ca	0.12	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.88Ca0.12)(MnO3)
+1077	Sr	0.2	Ca	0.8	Sn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.2Ca0.8)(SnO3)
+1078	Sr	0.4	Ca	0.6	Sn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.4Ca0.6)(SnO3)
+1079	Sr	0.6	Ca	0.4	Sn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.6Ca0.4)(SnO3)
+1080	Sr	0.8	Ca	0.2	Sn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.8Ca0.2)(SnO3)
+1081	Sr	0.2	Ba	0.8	Sn	1.0	_	0.0	cubic	['cubic']	0	1	(Sr0.2Ba0.8)(SnO3)
+1082	Sr	0.6	Ba	0.4	Sn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.6Ba0.4)(SnO3)
+1083	Sr	0.8	Ba	0.2	Sn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.8Ba0.2)(SnO3)
+1084	Ba	1.0	_	0.0	Fe	0.5	Mo	0.5	cubic	['cubic']	0	1	Ba2Fe(MoO6)
+1085	La	1.0	_	0.0	Co	0.8	Rh	0.2	orthorhombic	['orthorhombic']	0	1	La(Co0.8Rh0.2)O3
+1086	Ba	0.98	Ca	0.02	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.98Ca0.02)(TiO3)
+1087	Ba	0.94	Ca	0.06	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.94Ca0.06)(TiO3)
+1088	Ba	0.9	Ca	0.1	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.9Ca0.1)(TiO3)
+1089	Ba	0.86	Ca	0.14	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.86Ca0.14)(TiO3)
+1090	Ba	0.82	Ca	0.18	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.82Ca0.18)(TiO3)
+1093	Sr	1.0	_	0.0	Ti	0.5	Mn	0.5	cubic	['cubic']	0	1	Sr(Ti0.5Mn0.5)O3
+1094	Ca	1.0	_	0.0	Ti	0.5	Mn	0.5	orthorhombic	['orthorhombic', 'tetragonal']	1	2	Ca(Ti0.5Mn0.5)O3
+1095	Nd	0.95	Sr	0.05	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.95Sr0.05)(CrO3)
+1097	Nd	0.9	Sr	0.1	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.9Sr0.1)(CrO3)
+1099	Nd	0.85	Sr	0.15	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.85Sr0.15)(CrO3)
+1101	Ba	1.0	_	0.0	Na	0.3	Ru	0.7	trigonal	['trigonal']	0	1	Ba3(Na0.9Ru2.1)O9
+1102	Ca	1.0	_	0.0	Mn	0.665	W	0.335	monoclinic	['monoclinic']	0	1	Ca2(Mn1.33W0.67)O6
+1103	Ca	1.0	_	0.0	Mn	0.665	Nb	0.335	monoclinic	['monoclinic']	0	1	Ca2(Mn1.33Nb0.67)O6
+1104	Sm	0.9	Eu	0.1	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sm0.9Eu0.1)(AlO3)
+1105	Sm	0.7	Eu	0.3	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sm0.7Eu0.3)(AlO3)
+1106	Sm	0.4	Eu	0.6	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sm0.4Eu0.6)(AlO3)
+1107	Sm	0.2	Eu	0.8	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sm0.2Eu0.8)(AlO3)
+1108	Sm	0.9	Gd	0.1	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sm0.9Gd0.1)(AlO3)
+1109	Sm	0.7	Gd	0.3	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sm0.7Gd0.3)(AlO3)
+1110	Sm	0.4	Gd	0.6	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sm0.4Gd0.6)(AlO3)
+1111	Sm	0.2	Gd	0.8	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sm0.2Gd0.8)(AlO3)
+1112	Bi	0.5	Sr	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'tetragonal']	1	2	(Bi0.5Sr0.5)(MnO3)
+1116	Ba	1.0	_	0.0	Cu	0.5	Os	0.5	tetragonal	['tetragonal']	0	1	Ba2Cu(OsO6)
+1117	Bi	0.5	Na	0.5	Ti	1.0	_	0.0	cubic	['cubic', 'trigonal']	1	2	(Bi0.5Na0.5)(TiO3)
+1118	Sr	1.0	_	0.0	Mo	0.92	Co	0.08	cubic	['cubic']	0	1	Sr(Mo0.92Co0.08)O3
+1120	Mg	0.9390000000000001	Fe	0.061	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg0.939Fe0.061)(SiO3)
+1121	Sr	1.0	_	0.0	Mn	0.5	Ti	0.5	cubic	['cubic']	0	1	Sr((Mn0.5Ti0.5)O3)
+1122	Pb	1.0	_	0.0	Sc	0.5	Nb	0.5	trigonal	['trigonal', 'cubic']	1	2	Pb(Sc0.5Nb0.5)O3
+1125	Sr	1.0	_	0.0	Lu	0.5	Nb	0.5	monoclinic	['monoclinic']	0	1	Sr2Lu(NbO6)
+1126	Bi	0.7	Dy	0.3	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.7Dy0.3)(FeO3)
+1131	Nd	1.0	_	0.0	Co	0.5	Mn	0.5	monoclinic	['monoclinic']	0	1	Nd2Co(MnO6)
+1133	Ba	1.0	_	0.0	Fe	0.33399999999999996	Mo	0.6659999999999999	cubic	['cubic']	0	1	Ba2(Fe0.667Mo1.333)O6
+1135	Sr	1.0	_	0.0	Y	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Sr2Y(RuO6)
+1136	Bi	0.9	La	0.1	Ni	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.9La0.1)NiO3
+1137	Bi	0.8	La	0.2	Ni	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.8La0.2)NiO3
+1139	La	0.63	Sr	0.37	Mn	1.0	_	0.0	trigonal	['trigonal', 'cubic']	1	2	(La0.63Sr0.37)(MnO3)
+1141	Sr	1.0	_	0.0	Yb	0.5	Nb	0.5	monoclinic	['monoclinic']	0	1	Sr2Yb(NbO6)
+1142	Sr	1.0	_	0.0	Yb	0.5	Ta	0.5	monoclinic	['monoclinic']	0	1	Sr2Yb(TaO6)
+1143	Sr	1.0	_	0.0	Yb	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Sr2Yb(SbO6)
+1145	La	1.0	_	0.0	Mn	0.5	Fe	0.5	orthorhombic	['orthorhombic']	0	1	La2(MnFe)O6
+1146	Bi	0.84	La	0.16	Fe	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(Bi0.84La0.16)(FeO3)
+1147	Ca	0.9	La	0.1	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.9La0.1)(TiO3)
+1149	Ca	1.0	_	0.0	Ti	0.9	Sn	0.1	orthorhombic	['orthorhombic']	0	1	Ca((Ti0.9Sn0.1)O3)
+1150	Ca	1.0	_	0.0	Ti	0.8	Sn	0.2	orthorhombic	['orthorhombic']	0	1	Ca((Ti0.8Sn0.2)O3)
+1151	Ca	1.0	_	0.0	Ti	0.7	Sn	0.3	orthorhombic	['orthorhombic']	0	1	Ca((Ti0.7Sn0.3)O3)
+1152	Ca	1.0	_	0.0	Ti	0.6	Sn	0.4	orthorhombic	['orthorhombic']	0	1	Ca((Ti0.6Sn0.4)O3)
+1153	Ca	1.0	_	0.0	Ti	0.5	Sn	0.5	orthorhombic	['orthorhombic']	0	1	Ca((Ti0.5Sn0.5)O3)
+1154	Ca	1.0	_	0.0	Ti	0.4	Sn	0.6	orthorhombic	['orthorhombic']	0	1	Ca((Ti0.4Sn0.6)O3)
+1155	Ca	1.0	_	0.0	Ti	0.3	Sn	0.7	orthorhombic	['orthorhombic']	0	1	Ca((Ti0.3Sn0.7)O3)
+1156	Ca	1.0	_	0.0	Ti	0.2	Sn	0.8	orthorhombic	['orthorhombic']	0	1	Ca((Ti0.2Sn0.8)O3)
+1157	Ca	1.0	_	0.0	Ti	0.1	Sn	0.9	orthorhombic	['orthorhombic']	0	1	Ca((Ti0.1Sn0.9)O3)
+1158	La	1.0	_	0.0	Cu	0.5	Mn	0.5	orthorhombic	['orthorhombic']	0	1	La(Cu0.5Mn0.5)O3
+1159	Y	1.0	_	0.0	Cr	0.5	Mn	0.5	orthorhombic	['orthorhombic']	0	1	Y(Cr0.5Mn0.5)O3
+1160	Ba	1.0	_	0.0	Ti	0.98	Ce	0.02	tetragonal	['tetragonal', 'orthorhombic']	1	2	Ba((Ti0.98Ce0.02)O3)
+1162	Ba	1.0	_	0.0	Ti	0.93	Ce	0.07	orthorhombic	['orthorhombic']	0	1	Ba((Ti0.93Ce0.07)O3)
+1163	La	1.0	_	0.0	Cr	0.95	Cu	0.05	orthorhombic	['orthorhombic']	0	1	La((Cr0.95Cu0.05)O3)
+1164	La	1.0	_	0.0	Cr	0.9	Cu	0.1	orthorhombic	['orthorhombic']	0	1	La((Cr0.9Cu0.1)O3)
+1165	La	1.0	_	0.0	Cr	0.85	Cu	0.15	orthorhombic	['orthorhombic']	0	1	La((Cr0.85Cu0.15)O3)
+1166	La	1.0	_	0.0	Cr	0.8	Cu	0.2	orthorhombic	['orthorhombic']	0	1	La((Cr0.8Cu0.2)O3)
+1174	Y	0.25	Mn	0.75	V	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.25Mn0.75)VO3
+1175	Lu	0.25	Mn	0.75	V	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Lu0.25Mn0.75)VO3
+1176	Ca	1.0	_	0.0	Fe	0.5	Os	0.5	monoclinic	['monoclinic']	0	1	Ca2(FeOs)O6
+1177	Bi	0.8	La	0.2	Fe	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal', 'cubic']	1	3	(Bi0.8La0.2)(FeO3)
+1178	Eu	1.0	_	0.0	Co	0.5	Mn	0.5	orthorhombic	['orthorhombic']	0	1	Eu(Co0.5Mn0.5)O3
+1181	Ca	1.0	_	0.0	Mg	0.5	Os	0.5	monoclinic	['monoclinic']	0	1	Ca2(MgOs)O6
+1183	Sr	1.0	_	0.0	Mg	0.5	Os	0.5	tetragonal	['tetragonal']	0	1	Sr2(MgOs)O6
+1185	Yb	0.5	Dy	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Yb0.5Dy0.5)(MnO3)
+1186	Sr	1.0	_	0.0	Ni	0.335	Sb	0.665	monoclinic	['monoclinic']	0	1	Sr2(Ni0.67Sb1.33)O6
+1188	Ba	1.0	_	0.0	Lu	0.5	Sb	0.5	cubic	['cubic']	0	1	Ba2Lu(SbO6)
+1189	Ba	1.0	_	0.0	La	0.5	Bi	0.5	monoclinic	['monoclinic']	0	1	Ba2La(BiO6)
+1190	La	0.9	Pr	0.1	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.9Pr0.1)(FeO3)
+1191	La	0.8	Pr	0.2	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.8Pr0.2)(FeO3)
+1192	La	0.7	Pr	0.3	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.7Pr0.3)(FeO3)
+1193	La	0.6	Pr	0.4	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.6Pr0.4)(FeO3)
+1194	La	0.5	Pr	0.5	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.5Pr0.5)(FeO3)
+1195	Pr	0.25	Ce	0.75	Sc	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.25Ce0.75)(ScO3)
+1196	Pr	0.5	Ce	0.5	Sc	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.5Ce0.5)(ScO3)
+1197	Pr	0.75	Ce	0.25	Sc	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.75Ce0.25)(ScO3)
+1200	Sr	1.0	_	0.0	In	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	Sr2In(IrO6)
+1203	La	1.0	_	0.0	Co	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	La2(CoIrO6)
+1204	La	0.5	Sr	0.5	Mn	1.0	_	0.0	tetragonal	['tetragonal', 'cubic', 'trigonal']	1	3	(La0.5Sr0.5)(MnO3)
+1205	Ba	1.0	_	0.0	Ca	0.5	W	0.5	cubic	['cubic']	0	1	Ba2Ca(WO6)
+1206	Sr	1.0	_	0.0	Ca	0.5	W	0.5	monoclinic	['monoclinic', 'cubic']	1	2	Sr2Ca(WO6)
+1208	Ba	1.0	_	0.0	Zn	0.5	Te	0.5	cubic	['cubic']	0	1	Ba2Zn(TeO6)
+1209	Ba	1.0	_	0.0	Co	0.5	Sb	0.5	cubic	['cubic']	0	1	Ba2(CoSb)O6
+1213	Y	1.0	_	0.0	Co	0.675	Pt	0.325	orthorhombic	['orthorhombic']	0	1	Y(Co.675Pt.325)O3
+1214	Dy	1.0	_	0.0	Co	0.679	Pt	0.321	orthorhombic	['orthorhombic']	0	1	Dy(Co.679Pt.321)O3
+1215	La	1.0	_	0.0	Li	0.5	Mo	0.5	monoclinic	['monoclinic']	0	1	La2Li(MoO6)
+1218	Ho	1.0	_	0.0	Fe	0.5	Co	0.5	orthorhombic	['orthorhombic']	0	1	Ho2Fe(CoO6)
+1220	La	1.0	_	0.0	Fe	0.6	Co	0.4	orthorhombic	['orthorhombic']	0	1	La2(Fe1.2Co0.8)O6
+1221	Pr	0.7	Ca	0.3	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.7Ca0.3)(MnO3)
+1222	Pr	0.65	Ca	0.35	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	Pr0.65Ca0.35(MnO3)
+1223	Pr	0.6	Ca	0.4	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'monoclinic']	1	2	Pr0.60Ca0.40(MnO3)
+1224	Pr	0.55	Ca	0.45	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	Pr0.55Ca0.45(MnO3)
+1225	Pr	0.5	Ca	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	Pr0.50Ca0.50(MnO3)
+1226	Ba	0.15	Sr	0.85	Tc	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	Ba0.15Sr0.85(TcO3)
+1227	Ba	0.25	Sr	0.75	Tc	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Ba0.25Sr0.75)TcO3
+1228	Mn	1.0	_	0.0	V	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Mn2V(SbO6)
+1229	Sr	1.0	_	0.0	Ni	0.5	Ir	0.5	monoclinic	['monoclinic', 'cubic']	1	2	Sr2Ni(IrO6)
+1230	Na	0.5	Bi	0.5	V	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Na0.5Bi0.5)VO3
+1231	K	0.5	Bi	0.5	V	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(K0.5Bi0.5)VO3
+1233	Ho	0.1	Bi	0.9	Fe	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(Ho0.1Bi0.9)FeO3
+1234	Ho	0.15	Bi	0.85	Fe	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(Ho0.15Bi0.85)FeO3
+1235	Ho	0.2	Bi	0.8	Fe	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(Ho0.2Bi0.8)FeO3
+1236	Tm	0.5	Ca	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Tm0.5Ca0.5)MnO3
+1237	Lu	0.5	Ca	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Lu0.5Ca0.5)MnO3
+1238	Ba	1.0	_	0.0	Sm	0.5	Mo	0.5	cubic	['cubic', 'tetragonal']	1	2	Ba2Sm(MoO6)
+1239	Ba	1.0	_	0.0	Gd	0.5	Mo	0.5	triclinic	['triclinic', 'cubic']	1	2	Ba2Gd(MoO6)
+1241	Y	1.0	_	0.0	Fe	0.5	Cr	0.5	orthorhombic	['orthorhombic']	0	1	Y(Fe0.5Cr0.5)O3
+1244	La	0.55	Sr	0.45	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.55Sr0.45)MnO3
+1246	La	0.45	Sr	0.55	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(La0.45Sr0.55)MnO3
+1247	La	0.4	Sr	0.6	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(La0.4Sr0.6)MnO3
+1248	La	0.3	Sr	0.7	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(La0.3Sr0.7)MnO3
+1249	La	0.2	Sr	0.8	Mn	1.0	_	0.0	cubic	['cubic', 'trigonal']	1	2	(La0.2Sr0.8)MnO3
+1250	La	0.1	Sr	0.9	Mn	1.0	_	0.0	cubic	['cubic', 'hexagonal', 'trigonal']	1	3	(La0.1Sr0.9)MnO3
+1252	La	0.8	Y	0.2	Sc	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.8Y0.2)ScO3
+1253	La	0.6	Y	0.4	Sc	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.6Y0.4)ScO3
+1254	La	0.4	Y	0.6	Sc	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.4Y0.6)ScO3
+1255	La	0.2	Y	0.8	Sc	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.2Y0.8)ScO3
+1256	La	0.875	Sm	0.125	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.875Sm0.125)CrO3
+1257	La	0.75	Sm	0.25	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.75Sm0.25)CrO3
+1258	La	0.625	Sm	0.375	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.625Sm0.375)CrO3
+1259	La	0.5	Sm	0.5	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.5Sm0.5)CrO3
+1260	La	0.25	Sm	0.75	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.25Sm0.75)CrO3
+1261	Ba	1.0	_	0.0	Bi	0.25	Ir	0.75	monoclinic	['monoclinic']	0	1	Ba4(BiIr3)O12
+1262	In	1.0	_	0.0	Ni	0.5	Mn	0.5	monoclinic	['monoclinic']	0	1	In2Ni(MnO6)
+1263	Bi	1.0	_	0.0	Fe	0.5	Co	0.5	tetragonal	['tetragonal']	0	1	Bi(Fe0.5Co0.5)O3
+1264	Sr	0.5	Sn	0.5	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(SrSn)B2O6
+1266	Y	0.6	Cd	0.4	V	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.6Cd0.4)(VO3)
+1272	Sr	1.0	_	0.0	Cr	0.5	Nb	0.5	cubic	['cubic']	0	1	Sr2((CrNb)O6)
+1274	Nd	1.0	_	0.0	Mg	0.5	Sn	0.5	monoclinic	['monoclinic']	0	1	Nd((MgSn)0.5O3)
+1275	Pb	1.0	_	0.0	Mn	0.5	Nb	0.5	cubic	['cubic']	0	1	Pb((Mn0.5Nb0.5)O3)
+1278	Bi	1.0	_	0.0	Mn	0.97	Al	0.03	monoclinic	['monoclinic']	0	1	Bi((Mn0.97Al0.03)O3)
+1280	Bi	1.0	_	0.0	Mn	0.9	Al	0.1	monoclinic	['monoclinic']	0	1	Bi((Mn0.9Al0.1)O3)
+1282	Sr	1.0	_	0.0	Ru	0.9	Cu	0.1	orthorhombic	['orthorhombic']	0	1	Sr(Ru0.9Cu0.1)O3
+1283	Sr	1.0	_	0.0	Mn	0.5	Sb	0.5	tetragonal	['tetragonal', 'cubic']	1	2	Sr2(MnSbO6)
+1288	Sr	1.0	_	0.0	Fe	0.5	Re	0.5	tetragonal	['tetragonal']	0	1	Sr2Fe(ReO6)
+1291	Tb	1.0	_	0.0	Ni	0.5	Mn	0.5	monoclinic	['monoclinic']	0	1	Tb2(NiMnO6)
+1292	Bi	0.5	Sr	0.5	Cr	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.5Sr0.5)(CrO3)
+1296	Pb	1.0	_	0.0	Sc	0.5	Sb	0.5	cubic	['cubic']	0	1	Pb2Sc(SbO6)
+1297	La	1.0	_	0.0	Fe	0.95	Cu	0.05	orthorhombic	['orthorhombic']	0	1	La(Fe0.95Cu0.05O3)
+1298	La	1.0	_	0.0	Fe	0.9	Cu	0.1	orthorhombic	['orthorhombic']	0	1	La(Fe0.9Cu0.1O3)
+1299	La	1.0	_	0.0	Fe	0.8	Cu	0.2	orthorhombic	['orthorhombic']	0	1	La(Fe0.8Cu0.2O3)
+1302	Ca	0.9	La	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.9La0.1)(MnO3)
+1303	Ca	0.9	Pr	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.9Pr0.1)(MnO3)
+1304	Ca	0.9	Nd	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.9Nd0.1)(MnO3)
+1305	Ca	0.9	Sm	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.9Sm0.1)(MnO3)
+1306	Ca	0.9	Eu	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.9Eu0.1)(MnO3)
+1307	Ca	0.9	Gd	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.9Gd0.1)(MnO3)
+1308	Ca	0.9	Tb	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.9Tb0.1)(MnO3)
+1309	Ca	0.9	Dy	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.9Dy0.1)(MnO3)
+1311	Ca	0.9	Er	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.9Er0.1)(MnO3)
+1312	Ca	0.9	Yb	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.9Yb0.1)(MnO3)
+1313	Sr	0.9	Pr	0.1	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.9Pr0.1)(TiO3)
+1314	Sr	0.87	Pr	0.13	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.87Pr0.13)(TiO3)
+1315	Sr	0.85	Pr	0.15	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.85Pr0.15)(TiO3)
+1316	Sr	0.83	Pr	0.17	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.83Pr0.17)(TiO3)
+1318	La	0.9	Nd	0.1	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.9Nd0.1)(CoO3)
+1319	La	0.8	Nd	0.2	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.8Nd0.2)(CoO3)
+1320	La	0.7	Nd	0.3	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.7Nd0.3)(CoO3)
+1321	La	0.6	Nd	0.4	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.6Nd0.4)(CoO3)
+1322	La	0.5	Nd	0.5	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.5Nd0.5)(CoO3)
+1323	La	1.0	_	0.0	Cr	0.9	Co	0.1	orthorhombic	['orthorhombic']	0	1	La((Cr0.9Co0.1)O3)
+1324	La	1.0	_	0.0	Cr	0.8	Co	0.2	orthorhombic	['orthorhombic']	0	1	La((Cr0.8Co0.2)O3)
+1325	La	1.0	_	0.0	Cr	0.7	Co	0.3	trigonal	['trigonal']	0	1	La((Cr0.7Co0.3)O3)
+1326	La	1.0	_	0.0	Fe	0.667	Mo	0.33299999999999996	orthorhombic	['orthorhombic']	0	1	La(Fe0.667Mo0.333)O3
+1327	Nd	1.0	_	0.0	Fe	0.667	Mo	0.33299999999999996	orthorhombic	['orthorhombic']	0	1	Nd(Fe0.667Mo0.333)O3
+1328	Pb	1.0	_	0.0	Fe	0.012	Ti	0.988	tetragonal	['tetragonal']	0	1	Pb((Fe0.012Ti0.988)O3)
+1329	Ca	1.0	_	0.0	Mn	0.965	Mo	0.035	orthorhombic	['orthorhombic']	0	1	Ca(Mn0.965Mo0.035)O3
+1330	Ca	1.0	_	0.0	Mn	0.9620000000000001	Mo	0.038	orthorhombic	['orthorhombic']	0	1	Ca(Mn0.962Mo0.038)O3
+1331	Li	0.5	La	0.5	Ti	1.0	_	0.0	trigonal	['trigonal', 'cubic']	1	2	Li0.5La0.5(TiO3)
+1346	Ca	1.0	_	0.0	Mn	0.1	Ru	0.9	orthorhombic	['orthorhombic']	0	1	Ca((Mn0.1Ru0.9)O3)
+1347	Ca	1.0	_	0.0	Mn	0.2	Ru	0.8	orthorhombic	['orthorhombic']	0	1	Ca((Mn0.2Ru0.8)O3)
+1348	Ca	1.0	_	0.0	Mn	0.3	Ru	0.7	orthorhombic	['orthorhombic']	0	1	Ca((Mn0.3Ru0.7)O3)
+1349	Ca	1.0	_	0.0	Mn	0.4	Ru	0.6	orthorhombic	['orthorhombic']	0	1	Ca((Mn0.4Ru0.6)O3)
+1350	Ca	1.0	_	0.0	Mn	0.6	Ru	0.4	orthorhombic	['orthorhombic']	0	1	Ca((Mn0.6Ru0.4)O3)
+1351	Ca	1.0	_	0.0	Mn	0.7	Ru	0.3	orthorhombic	['orthorhombic']	0	1	Ca((Mn0.7Ru0.3)O3)
+1353	Ca	1.0	_	0.0	Mn	0.98	Nb	0.02	orthorhombic	['orthorhombic', 'cubic']	1	2	Ca((Mn0.98Nb0.02)O3)
+1358	La	1.0	_	0.0	Ni	0.574	Fe	0.426	trigonal	['trigonal', 'cubic']	1	2	La(Ni0.574Fe0.426)O3
+1361	La	1.0	_	0.0	Ni	0.57	Fe	0.43	trigonal	['trigonal', 'cubic']	1	2	La(Ni0.57Fe0.43)O3
+1366	Ca	1.0	_	0.0	Ru	0.85	Cr	0.15	orthorhombic	['orthorhombic']	0	1	Ca((Ru0.85Cr0.15)O3)
+1368	La	0.75	Sr	0.25	Mn	1.0	_	0.0	trigonal	['trigonal', 'cubic']	1	2	(La0.75Sr0.25)(MnO3)
+1376	La	1.0	_	0.0	Co	0.99	Ti	0.01	trigonal	['trigonal']	0	1	La((Co0.99Ti0.01)O3)
+1377	La	1.0	_	0.0	Co	0.9	Ti	0.1	trigonal	['trigonal']	0	1	La((Co0.9Ti0.1)O3)
+1378	La	1.0	_	0.0	Co	0.8	Ti	0.2	trigonal	['trigonal']	0	1	La((Co0.8Ti0.2)O3)
+1379	La	1.0	_	0.0	Co	0.7	Ti	0.3	orthorhombic	['orthorhombic']	0	1	La((Co0.7Ti0.3)O3)
+1381	La	1.0	_	0.0	Cu	0.5	Rh	0.5	orthorhombic	['orthorhombic']	0	1	La(Cu0.5Rh0.5)O3
+1382	Sr	1.0	_	0.0	Fe	0.5	Sb	0.5	monoclinic	['monoclinic', 'tetragonal', 'cubic']	1	3	Sr2(FeSbO6)
+1383	Ca	1.0	_	0.0	Fe	0.5	Sb	0.5	monoclinic	['monoclinic', 'orthorhombic']	1	2	Ca2(FeSbO6)
+1392	Pr	0.76	La	0.24	Al	1.0	_	0.0	monoclinic	['monoclinic', 'orthorhombic', 'trigonal']	1	3	(Pr0.76La0.24)(AlO3)
+1395	Pr	0.16	La	0.84	Al	1.0	_	0.0	cubic	['cubic']	0	1	(Pr0.16La0.84)(AlO3)
+1396	La	0.67	Pb	0.33	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.67Pb0.33)(MnO3)
+1397	Ca	1.0	_	0.0	V	0.5	Mo	0.5	orthorhombic	['orthorhombic']	0	1	Ca((V0.5Mo0.5)O3)
+1401	Sr	1.0	_	0.0	Mg	0.5	U	0.5	monoclinic	['monoclinic']	0	1	Sr2Mg(UO6)
+1402	Sr	1.0	_	0.0	Cd	0.5	U	0.5	monoclinic	['monoclinic']	0	1	Sr2Cd(UO6)
+1403	La	1.0	_	0.0	Li	0.5	Re	0.5	monoclinic	['monoclinic']	0	1	La2Li(ReO6)
+1404	Pr	0.5	Ca	0.5	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.5Ca0.5)(CoO3)
+1418	Ag	1.0	_	0.0	Nb	0.5	Ta	0.5	orthorhombic	['orthorhombic']	0	1	Ag((Nb0.5Ta0.5)O3)
+1419	Pb	1.0	_	0.0	Co	0.5	Te	0.5	trigonal	['trigonal', 'monoclinic', 'cubic']	1	3	Pb2Co(TeO6)
+1422	Ca	1.0	_	0.0	Sm	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Ca2Sm(SbO6)
+1423	Ca	1.0	_	0.0	Mn	0.5	Re	0.5	monoclinic	['monoclinic']	0	1	Ca2Mn(ReO6)
+1424	La	1.0	_	0.0	Na	0.5	Os	0.5	monoclinic	['monoclinic']	0	1	La2Na(OsO6)
+1425	Pr	1.0	_	0.0	Na	0.5	Os	0.5	monoclinic	['monoclinic']	0	1	Pr2Na(OsO6)
+1426	Nd	1.0	_	0.0	Na	0.5	Os	0.5	monoclinic	['monoclinic']	0	1	Nd2Na(OsO6)
+1427	Sr	1.0	_	0.0	Y	0.5	Ta	0.5	monoclinic	['monoclinic', 'cubic']	1	2	Sr2Y(TaO6)
+1428	Ca	1.0	_	0.0	Fe	0.667	W	0.33299999999999996	monoclinic	['monoclinic']	0	1	Ca(Fe0.667W0.333)O3
+1430	Ba	1.0	_	0.0	Ca	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2(CaRe)O6
+1431	Ba	1.0	_	0.0	Ca	0.5	Os	0.5	cubic	['cubic']	0	1	Ba2(CaOs)O6
+1432	Nd	0.7	Pb	0.3	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.7Pb0.3)MnO3
+1434	Ba	1.0	_	0.0	In	0.5	Nb	0.5	cubic	['cubic']	0	1	Ba2In(NbO6)
+1436	Ca	1.0	_	0.0	Al	0.5	Nb	0.5	monoclinic	['monoclinic']	0	1	Ca2Al(NbO6)
+1437	Ca	1.0	_	0.0	Cr	0.5	Ta	0.5	monoclinic	['monoclinic']	0	1	Ca2Cr(TaO6)
+1438	Sr	1.0	_	0.0	Sc	0.5	Nb	0.5	monoclinic	['monoclinic']	0	1	Sr2Sc(NbO6)
+1440	Ba	1.0	_	0.0	La	0.5	Nb	0.5	monoclinic	['monoclinic']	0	1	Ba2La(NbO6)
+1442	Ba	1.0	_	0.0	Tb	0.5	Nb	0.5	tetragonal	['tetragonal', 'cubic']	1	2	Ba2Tb(NbO6)
+1443	Ba	1.0	_	0.0	Bi	0.5	Sb	0.5	monoclinic	['monoclinic', 'cubic', 'trigonal']	1	3	Ba2Bi(SbO6)
+1444	Cd	0.8	Na	0.2	V	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Cd0.8Na0.2)VO3
+1445	La	1.0	_	0.0	Ni	0.53	V	0.47	orthorhombic	['orthorhombic']	0	1	La(Ni0.53V0.47)O3
+1446	La	1.0	_	0.0	Co	0.55	V	0.45	orthorhombic	['orthorhombic']	0	1	La(Co0.55V0.45)O3
+1448	Bi	0.58	Ca	0.42	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.58Ca0.42)MnO3
+1449	Ba	1.0	_	0.0	Fe	0.6629999999999999	Te	0.337	hexagonal	['hexagonal']	0	1	Ba3(Fe1.99Te1.01)O9
+1451	Ba	1.0	_	0.0	Fe	0.46	Os	0.54	hexagonal	['hexagonal']	0	1	Ba2(Fe0.92Os1.08)O6
+1452	Ba	1.0	_	0.0	Co	0.385	Os	0.615	hexagonal	['hexagonal']	0	1	Ba2(Co0.77Os1.23)O6
+1453	La	1.0	_	0.0	Cr	0.7	Ni	0.3	orthorhombic	['orthorhombic']	0	1	La(Cr0.7Ni0.3)O3
+1454	La	1.0	_	0.0	Cr	0.4	Ni	0.6	orthorhombic	['orthorhombic']	0	1	La(Cr0.4Ni0.6)O3
+1455	La	1.0	_	0.0	Cr	0.3	Ni	0.7	orthorhombic	['orthorhombic', 'trigonal']	1	2	La(Cr0.3Ni0.7)O3
+1457	La	1.0	_	0.0	Cr	0.2	Ni	0.8	trigonal	['trigonal']	0	1	La(Cr0.2Ni0.8)O3
+1458	La	1.0	_	0.0	Cr	0.1	Ni	0.9	trigonal	['trigonal']	0	1	La(Cr0.1Ni0.9)O3
+1459	Sr	1.0	_	0.0	Zn	0.5	Re	0.5	tetragonal	['tetragonal', 'monoclinic']	1	2	Sr2Zn(ReO6)
+1462	Pr	0.79	Na	0.21	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.79Na0.21)MnO3
+1463	Ba	1.0	_	0.0	In	0.667	U	0.33299999999999996	cubic	['cubic']	0	1	Ba(In0.667U0.333)O3
+1465	Sr	1.0	_	0.0	In	0.6659999999999999	U	0.33399999999999996	monoclinic	['monoclinic']	0	1	Sr2In(In0.333U0.667)O6
+1466	K	0.3	Na	0.7	Nb	1.0	_	0.0	monoclinic	['monoclinic', 'tetragonal', 'trigonal']	1	3	(K0.30Na0.70)(NbO3)
+1468	Nd	1.0	_	0.0	Ti	0.5	Cu	0.5	orthorhombic	['orthorhombic']	0	1	Nd2(TiCu)O6
+1469	Sm	1.0	_	0.0	Ti	0.5	Cu	0.5	orthorhombic	['orthorhombic']	0	1	Sm2(TiCu)O6
+1470	Eu	1.0	_	0.0	Ti	0.5	Cu	0.5	orthorhombic	['orthorhombic']	0	1	Eu2(TiCu)O6
+1471	Gd	1.0	_	0.0	Ti	0.5	Cu	0.5	orthorhombic	['orthorhombic']	0	1	Gd2(TiCu)O6
+1472	Ba	1.0	_	0.0	Ho	0.667	Mo	0.33299999999999996	tetragonal	['tetragonal', 'monoclinic']	1	2	Ba(Ho0.667Mo0.333)O3
+1473	Ba	1.0	_	0.0	Er	0.667	Mo	0.33299999999999996	tetragonal	['tetragonal']	0	1	Ba(Er0.667Mo0.333)O3
+1474	Ca	1.0	_	0.0	Fe	0.6	W	0.4	monoclinic	['monoclinic']	0	1	Ca2Fe(Fe0.2W0.8)O6
+1475	Ca	1.0	_	0.0	Fe	0.615	W	0.385	monoclinic	['monoclinic']	0	1	Ca2Fe(Fe0.23W0.77)O6
+1476	Ca	1.0	_	0.0	Fe	0.65	W	0.35	monoclinic	['monoclinic']	0	1	Ca2(Fe1.3W0.7)O6
+1477	Ca	1.0	_	0.0	Fe	0.665	W	0.335	monoclinic	['monoclinic']	0	1	Ca2(Fe1.33W0.67)O6
+1478	Nd	0.35	Sr	0.65	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Nd0.35Sr0.65)(MnO3)
+1480	Ba	1.0	_	0.0	La	0.5	Ir	0.5	triclinic	['triclinic', 'cubic']	1	2	Ba2La(IrO6)
+1481	Ba	1.0	_	0.0	Eu	0.25	Ru	0.75	monoclinic	['monoclinic']	0	1	Ba4Eu(Ru3O12)
+1482	Ba	1.0	_	0.0	Bi	0.5	Ir	0.5	cubic	['cubic']	0	1	Ba2(BiIr)O6
+1483	Ba	1.0	_	0.0	Bi	0.33299999999999996	Ir	0.667	monoclinic	['monoclinic']	0	1	Ba3(BiIr2O9)
+1484	Ba	1.0	_	0.0	La	0.33299999999999996	Ir	0.667	hexagonal	['hexagonal']	0	1	Ba3(LaIr2)O9
+1485	Ca	0.956	Nd	0.044000000000000004	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.956Nd0.044)TiO3
+1486	Pr	0.67	Ba	0.33	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.67Ba0.33)MnO3
+1487	Pr	0.67	Sr	0.33	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.67Sr0.33)MnO3
+1488	Bi	0.75	La	0.25	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.75La0.25)(FeO3)
+1490	Sr	1.0	_	0.0	V	0.5	Mo	0.5	cubic	['cubic']	0	1	Sr(V0.5Mo0.5)O3
+1494	Pb	0.5	La	0.5	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pb0.5La0.5)(FeO3)
+1495	Sr	0.9	Ce	0.1	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.9Ce0.1)(MnO3)
+1496	Sr	0.85	Ce	0.15	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.85Ce0.15)(MnO3)
+1497	Sr	0.8	Ce	0.2	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.8Ce0.2)(MnO3)
+1498	Sr	0.75	Ce	0.25	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.75Ce0.25)(MnO3)
+1501	La	1.0	_	0.0	Ni	0.6	Fe	0.4	trigonal	['trigonal']	0	1	La(Ni0.6Fe0.4)O3
+1503	Ho	1.0	_	0.0	Mn	0.5	Ni	0.5	monoclinic	['monoclinic']	0	1	Ho2Mn(NiO6)
+1505	Sr	0.9	Ce	0.1	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.90Ce0.10)(TiO3)
+1511	Pb	1.0	_	0.0	Mg	0.5	U	0.5	monoclinic	['monoclinic']	0	1	Pb2Mg(UO6)
+1512	Pb	1.0	_	0.0	Ca	0.5	U	0.5	monoclinic	['monoclinic']	0	1	Pb2Ca(UO6)
+1513	Pb	1.0	_	0.0	Cd	0.5	U	0.5	monoclinic	['monoclinic']	0	1	Pb2Cd(UO6)
+1518	Sr	1.0	_	0.0	In	0.485	Re	0.515	monoclinic	['monoclinic']	0	1	Sr2(In0.97Re1.03)O6
+1519	Sm	0.6	Y	0.4	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sm0.6Y0.4)(MnO3)
+1521	Pb	1.0	_	0.0	Co	0.33299999999999996	Nb	0.667	cubic	['cubic']	0	1	Pb(Co0.333Nb0.667)O3
+1522	Nd	1.0	_	0.0	Ni	0.75	Mn	0.25	orthorhombic	['orthorhombic']	0	1	Nd(Ni0.75Mn0.25)O3
+1523	Nd	1.0	_	0.0	Ni	0.25	Mn	0.75	orthorhombic	['orthorhombic']	0	1	Nd(Ni0.25Mn0.75)O3
+1524	Ca	0.99	La	0.01	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.99La0.01)(TiO3)
+1525	Ca	1.0	_	0.0	Ti	0.99	Nb	0.01	orthorhombic	['orthorhombic']	0	1	Ca((Ti0.99Nb0.01)O3)
+1534	Ba	1.0	_	0.0	Cu	0.46	Nb	0.54	hexagonal	['hexagonal']	0	1	Ba4(Cu1.84Nb2.16)O12
+1535	Bi	1.0	_	0.0	Fe	0.75	Mn	0.25	orthorhombic	['orthorhombic', 'trigonal']	1	2	Bi(Fe0.75Mn0.25)O3
+1539	Bi	0.9	La	0.1	Mn	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Bi0.9La0.1)(MnO3)
+1542	Bi	0.8	La	0.2	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.8La0.2)(MnO3)
+1545	La	1.0	_	0.0	Cr	0.75	Mg	0.25	orthorhombic	['orthorhombic', 'trigonal']	1	2	La(Cr0.75Mg0.25)O3
+1547	Ba	1.0	_	0.0	Mo	0.175	Ti	0.825	cubic	['cubic']	0	1	Ba((Mo0.175Ti0.825)O3)
+1548	Sr	1.0	_	0.0	Ru	0.8	Ni	0.2	orthorhombic	['orthorhombic']	0	1	Sr(Ru0.8Ni0.2)O3
+1550	Ba	1.0	_	0.0	Zn	0.5	W	0.5	cubic	['cubic']	0	1	Ba2Zn(WO6)
+1551	Sr	1.0	_	0.0	Cu	0.33299999999999996	Nb	0.667	tetragonal	['tetragonal']	0	1	Sr(Cu0.333Nb0.667)O3
+1553	Sr	1.0	_	0.0	Cu	0.5	W	0.5	tetragonal	['tetragonal']	0	1	Sr2Cu(WO6)
+1554	Sr	1.0	_	0.0	Cu	0.5	Mo	0.5	tetragonal	['tetragonal']	0	1	Sr2Cu(MoO6)
+1555	Sr	1.0	_	0.0	Mo	0.94	Fe	0.06	tetragonal	['tetragonal', 'orthorhombic']	1	2	Sr(Mo0.94Fe0.06)O3
+1557	Sr	1.0	_	0.0	Mo	0.855	Fe	0.145	tetragonal	['tetragonal', 'orthorhombic']	1	2	Sr(Mo0.855Fe0.145)O3
+1559	Ba	1.0	_	0.0	Ce	0.5	Nb	0.5	monoclinic	['monoclinic', 'cubic']	1	2	Ba2Ce(NbO6)
+1560	Ba	1.0	_	0.0	Ce	0.5	Ta	0.5	monoclinic	['monoclinic']	0	1	Ba2Ce(TaO6)
+1591	Bi	1.0	_	0.0	Mn	0.2	Fe	0.8	trigonal	['trigonal']	0	1	Bi(Mn0.2Fe0.8)O3
+1592	Bi	1.0	_	0.0	Mn	0.1	Fe	0.9	trigonal	['trigonal']	0	1	Bi(Mn0.1Fe0.9)O3
+1593	Li	0.6	Cu	0.4	Ta	1.0	_	0.0	trigonal	['trigonal']	0	1	(Li1.2Cu.8)Ta2O6
+1594	Bi	0.93	La	0.07	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.93La0.07)(FeO3)
+1595	Li	0.12	Na	0.88	Nb	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic', 'tetragonal']	1	3	(Li0.12Na0.88)(NbO3)
+1596	Pb	1.0	_	0.0	Hf	0.583	Ti	0.41700000000000004	trigonal	['trigonal']	0	1	Pb(Hf0.583Ti0.417)O3
+1598	Bi	0.8	Ca	0.2	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.8Ca0.2)(FeO3)
+1600	Bi	0.9	Ca	0.1	Fe	1.0	_	0.0	trigonal	['trigonal', 'cubic']	1	2	(Bi0.9Ca0.1)(FeO3)
+1601	Bi	0.88	Sm	0.12	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.88Sm0.12)(FeO3)
+1602	Bi	1.0	_	0.0	Ga	0.4	Cr	0.6	trigonal	['trigonal']	0	1	Bi(Ga0.4Cr0.6)O3
+1603	Bi	1.0	_	0.0	Mg	0.5	Ti	0.5	trigonal	['trigonal', 'tetragonal']	1	2	Bi(Mg0.5Ti0.5)O3
+1604	Bi	0.87	La	0.13	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.87La0.13)(FeO3)
+1606	Bi	0.98	Dy	0.02	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.98Dy0.02)(FeO3)
+1607	Bi	0.95	Dy	0.05	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.95Dy0.05)(FeO3)
+1613	Li	0.1	Ag	0.9	Nb	1.0	_	0.0	trigonal	['trigonal']	0	1	(Li0.1Ag0.9)NbO3
+1614	Ho	0.05	Bi	0.95	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Ho0.05Bi0.95)FeO3
+1618	Bi	1.0	_	0.0	Co	0.2	Fe	0.8	trigonal	['trigonal']	0	1	Bi(Co0.2Fe0.8)O3
+1619	Bi	1.0	_	0.0	Fe	0.8	Co	0.2	trigonal	['trigonal']	0	1	Bi(Fe0.8Co0.2)O3
+1621	Li	1.0	_	0.0	Nb	0.7	Ta	0.3	trigonal	['trigonal']	0	1	Li(Nb0.70Ta0.30)O3
+1622	Li	1.0	_	0.0	Nb	0.47	Ta	0.53	trigonal	['trigonal']	0	1	Li(Nb0.47Ta0.53)O3
+1623	Li	1.0	_	0.0	Nb	0.11	Ta	0.89	trigonal	['trigonal']	0	1	Li(Nb0.11Ta0.89)O3
+1624	Li	1.0	_	0.0	Nb	0.08	Ta	0.92	trigonal	['trigonal']	0	1	Li(Nb0.08Ta0.92)O3
+1625	Li	1.0	_	0.0	Nb	0.4	Ta	0.6	trigonal	['trigonal']	0	1	Li(Nb0.40Ta0.60)O3
+1626	Li	1.0	_	0.0	Nb	0.36	Ta	0.64	trigonal	['trigonal']	0	1	Li(Nb0.36Ta0.64)O3
+1627	Bi	0.93	K	0.07	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.93K0.07)(FeO3)
+1628	Li	0.2	Na	0.8	Nb	1.0	_	0.0	trigonal	['trigonal']	0	1	(Li0.20Na0.80)NbO3
+1629	Li	0.96	Na	0.04	Nb	1.0	_	0.0	trigonal	['trigonal']	0	1	(Li0.96Na0.04)NbO3
+1630	Bi	0.9	Pb	0.1	Fe	1.0	_	0.0	trigonal	['trigonal', 'cubic']	1	2	(Bi0.9Pb0.1)FeO3
+1635	Mn	1.0	_	0.0	Fe	0.5	Nb	0.5	trigonal	['trigonal']	0	1	Mn2Fe(NbO6)
+1636	Mn	1.0	_	0.0	Fe	0.5	Ta	0.5	trigonal	['trigonal']	0	1	Mn2Fe(TaO6)
+1645	Li	0.92	Cu	0.08	Nb	1.0	_	0.0	trigonal	['trigonal']	0	1	(Li0.92Cu0.08)(NbO3)
+1646	Li	0.86	Cu	0.14	Nb	1.0	_	0.0	trigonal	['trigonal']	0	1	(Li0.86Cu0.14)(NbO3)
+1647	Li	0.76	Cu	0.24	Nb	1.0	_	0.0	trigonal	['trigonal']	0	1	(Li0.76Cu0.24)(NbO3)
+1648	Bi	1.0	_	0.0	Fe	0.99	Nb	0.01	trigonal	['trigonal']	0	1	Bi((Fe0.99Nb0.01)O3)
+1649	Bi	0.7	Ca	0.3	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.7Ca0.3)(FeO3)
+1650	Bi	0.7	Sr	0.3	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.7Sr0.3)(FeO3)
+1651	Bi	0.7	Pb	0.3	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.7Pb0.3)(FeO3)
+1652	Bi	0.7	Ba	0.3	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.7Ba0.3)(FeO3)
+1653	Bi	0.95	Eu	0.05	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.95Eu0.05)(FeO3)
+1655	Bi	0.85	La	0.15	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.85La0.15)(FeO3)
+1657	Bi	0.9	Gd	0.1	Fe	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic']	1	2	(Bi0.9Gd0.1)(FeO3)
+1658	Bi	0.8	Ba	0.2	Fe	1.0	_	0.0	trigonal	['trigonal', 'tetragonal']	1	2	(Bi0.8Ba0.2)(FeO3)
+1659	Bi	0.88	Ba	0.12	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.88Ba0.12)(FeO3)
+1660	Bi	0.98	Y	0.02	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.98Y0.02)(FeO3)
+1661	Bi	0.95	Y	0.05	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.95Y0.05)(FeO3)
+1662	Bi	0.9	Y	0.1	Fe	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic']	1	2	(Bi0.9Y0.1)(FeO3)
+1664	Bi	0.98	Mg	0.02	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.98Mg0.02)(FeO3)
+1665	Bi	0.95	Mg	0.05	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.95Mg0.05)(FeO3)
+1666	Bi	0.98	Al	0.02	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.98Al0.02)(FeO3)
+1670	Bi	0.815	La	0.185	Fe	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic']	1	2	(Bi0.815La0.185)(FeO3)
+1672	Bi	1.0	_	0.0	Fe	0.95	Mn	0.05	trigonal	['trigonal']	0	1	Bi((Fe0.95Mn0.05)O3)
+1673	Bi	1.0	_	0.0	Fe	0.9	Mn	0.1	trigonal	['trigonal']	0	1	Bi((Fe0.9Mn0.1)O3)
+1674	Bi	0.95	La	0.05	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.95La0.05)(FeO3)
+1676	Bi	0.8	Sr	0.2	Fe	1.0	_	0.0	trigonal	['trigonal', 'triclinic']	1	2	(Bi0.8Sr0.2)(FeO3)
+1677	Bi	0.95	Ho	0.05	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.95Ho0.05)(FeO3)
+1678	Bi	0.9	Ho	0.1	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.9Ho0.1)(FeO3)
+1679	Bi	1.0	_	0.0	Fe	0.9	Ti	0.1	trigonal	['trigonal']	0	1	Bi(Fe0.9Ti0.1)O3
+1680	Bi	0.95	Ca	0.05	Fe	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic']	1	2	(Bi0.95Ca0.05)(FeO3)
+1681	Bi	0.95	Pr	0.05	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.95Pr0.05)(FeO3)
+1684	Bi	0.99	Dy	0.01	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.99Dy0.01)(FeO3)
+1686	Bi	0.9	Dy	0.1	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.9Dy0.1)(FeO3)
+1687	Bi	0.9	Nd	0.1	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.9Nd0.1)(FeO3)
+1688	Bi	0.875	Pr	0.125	Fe	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic']	1	2	(Bi0.875Pr0.125)(FeO3)
+1689	Bi	1.0	_	0.0	Fe	0.98	Co	0.02	trigonal	['trigonal']	0	1	Bi((Fe0.98Co0.02)O3)
+1698	Bi	0.9	La	0.1	Fe	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic']	1	2	(Bi0.9La0.1)(FeO3)
+1699	Bi	0.825	Sm	0.175	Fe	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic']	1	2	(Bi0.825Sm0.175)(FeO3)
+1703	Bi	0.93	Y	0.07	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.93Y0.07)(FeO3)
+1705	Bi	0.9	Ba	0.1	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.9Ba0.1)(FeO3)
+1706	Bi	0.825	La	0.175	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.825La0.175)(FeO3)
+1707	Pb	1.0	_	0.0	Zr	0.75	Ti	0.25	trigonal	['trigonal']	0	1	Pb(Zr0.75Ti0.25)O3
+1709	Bi	0.95	Gd	0.05	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.95Gd0.05)FeO3
+1711	Bi	0.983	Ca	0.017	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.983Ca0.017)FeO3
+1712	Bi	0.9359999999999999	Ca	0.064	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.936Ca0.064)FeO3
+1713	Bi	0.883	Ca	0.11699999999999999	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.883Ca0.117)FeO3
+1714	Bi	0.8420000000000001	Ca	0.158	Fe	1.0	_	0.0	trigonal	['trigonal', 'cubic']	1	2	(Bi0.842Ca0.158)FeO3
+1715	Bi	0.7929999999999999	Ca	0.207	Fe	1.0	_	0.0	trigonal	['trigonal', 'cubic']	1	2	(Bi0.793Ca0.207)FeO3
+1718	Bi	0.89	Sm	0.11	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.89Sm0.11)FeO3
+1720	Bi	0.87	Sm	0.13	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.87Sm0.13)FeO3
+1724	Bi	0.8	Dy	0.2	Fe	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic']	1	2	(Bi0.8Dy0.2)FeO3
+1726	Bi	1.0	_	0.0	Fe	0.95	Ni	0.05	trigonal	['trigonal']	0	1	Bi(Fe0.95Ni0.05)O3
+1727	Pb	1.0	_	0.0	Zr	0.35	Ti	0.65	trigonal	['trigonal', 'tetragonal']	1	2	Pb(Zr0.35Ti0.65)O3
+1728	Bi	0.97	Ho	0.03	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.97Ho0.03)FeO3
+1730	Bi	0.925	Ho	0.075	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.925Ho0.075)FeO3
+1733	Bi	0.8	Nd	0.2	Fe	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic', 'triclinic']	1	3	(Bi0.8Nd0.2)(FeO3)
+1738	Bi	1.0	_	0.0	Fe	0.875	Mn	0.125	trigonal	['trigonal']	0	1	Bi(Fe0.875Mn0.125)O3
+1741	Bi	0.95	Sm	0.05	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.95Sm0.05)FeO3
+1742	Bi	0.9	Sm	0.1	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.9Sm0.1)FeO3
+1743	Bi	0.875	Sm	0.125	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.875Sm0.125)FeO3
+1752	K	0.05	Na	0.95	Nb	1.0	_	0.0	trigonal	['trigonal']	0	1	(K0.05Na0.95)(NbO3)
+1763	Bi	0.85	Sr	0.15	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Bi0.85Sr0.15)FeO3
+1764	Mg	0.5	Sn	0.5	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(MgSn)B2O6
+1765	Ba	1.0	_	0.0	Ru	0.9	Mn	0.1	hexagonal	['hexagonal']	0	1	Ba(Ru0.9Mn0.1)O3
+1766	Ba	1.0	_	0.0	Ru	0.8	Mn	0.2	hexagonal	['hexagonal']	0	1	Ba(Ru0.8Mn0.2)O3
+1767	Ba	1.0	_	0.0	Ru	0.7	Mn	0.3	hexagonal	['hexagonal']	0	1	Ba(Ru0.7Mn0.3)O3
+1768	Ba	1.0	_	0.0	Ru	0.6	Mn	0.4	hexagonal	['hexagonal']	0	1	Ba(Ru0.6Mn0.4)O3
+1770	Na	1.0	_	0.0	Se	0.5	Mo	0.5	cubic	['cubic']	0	1	Na2Se(MoO6)
+1771	Mn	1.0	_	0.0	Fe	0.5	W	0.5	trigonal	['trigonal']	0	1	Mn2Fe(WO6)
+1772	Ba	1.0	_	0.0	Nd	0.5	Mo	0.5	cubic	['cubic', 'triclinic']	1	2	Ba2(NdMo)O6
+1773	Sr	1.0	_	0.0	Cr	0.6	Mo	0.4	cubic	['cubic']	0	1	Sr2(Cr1.2Mo0.8)O6
+1774	Ba	1.0	_	0.0	Mn	0.5	W	0.5	cubic	['cubic']	0	1	Ba2(MnW)O6
+1775	Ba	1.0	_	0.0	Tm	0.5	Ru	0.5	cubic	['cubic']	0	1	Ba2Tm(RuO6)
+1776	Ba	1.0	_	0.0	Yb	0.5	Ru	0.5	cubic	['cubic']	0	1	Ba2(YbRuO6)
+1777	Ba	1.0	_	0.0	Er	0.5	Ru	0.5	cubic	['cubic']	0	1	Ba2(ErRu)O6
+1778	Ba	1.0	_	0.0	Bi	0.5	Y	0.5	cubic	['cubic']	0	1	Ba2(BiY)O6
+1779	Ba	1.0	_	0.0	Ce	0.5	Pt	0.5	cubic	['cubic']	0	1	Ba2(CePt)O6
+1780	Pb	1.0	_	0.0	Mg	0.5	W	0.5	cubic	['cubic', 'orthorhombic']	1	2	Pb2Mg(WO6)
+1782	Ba	1.0	_	0.0	Bi	0.5	Dy	0.5	cubic	['cubic']	0	1	Ba2Bi(DyO6)
+1783	Sr	1.0	_	0.0	Cr	0.5	Ta	0.5	cubic	['cubic']	0	1	Sr2(CrTa)O6
+1785	Ca	1.0	_	0.0	Ti	0.5	Si	0.5	cubic	['cubic']	0	1	Ca2Ti(SiO6)
+1788	Ba	1.0	_	0.0	Ho	0.5	Sb	0.5	cubic	['cubic']	0	1	Ba2Ho(SbO6)
+1789	Ba	1.0	_	0.0	Tl	0.5	Sb	0.5	cubic	['cubic', 'orthorhombic']	1	2	Ba(Tl0.5Sb0.5)O3
+1790	Ba	1.0	_	0.0	Fe	0.5	Nb	0.5	cubic	['cubic']	0	1	Ba2Fe(NbO6)
+1791	Pb	1.0	_	0.0	Sc	0.5	Ta	0.5	cubic	['cubic']	0	1	Pb2Sc(TaO6)
+1792	Ba	1.0	_	0.0	Co	0.5	Mo	0.5	cubic	['cubic']	0	1	Ba2Co(MoO6)
+1793	Ba	1.0	_	0.0	Co	0.5	W	0.5	cubic	['cubic']	0	1	Ba2(CoWO6)
+1794	Sr	1.0	_	0.0	Ga	0.5	Ta	0.5	cubic	['cubic']	0	1	Sr2Ga(TaO6)
+1797	Ba	1.0	_	0.0	Ni	0.5	Mo	0.5	cubic	['cubic']	0	1	Ba2Ni(MoO6)
+1798	Ba	1.0	_	0.0	Mg	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2Mg(ReO6)
+1799	Ba	1.0	_	0.0	Mn	0.5	Mo	0.5	cubic	['cubic']	0	1	Ba2(MnMoO6)
+1801	Ba	1.0	_	0.0	Fe	0.6	W	0.4	cubic	['cubic']	0	1	Ba2(Fe(Fe0.2W0.8)O6)
+1803	Ba	1.0	_	0.0	Dy	0.5	Sb	0.5	cubic	['cubic', 'trigonal']	1	2	Ba2Dy(SbO6)
+1804	Ba	1.0	_	0.0	Y	0.5	Ir	0.5	cubic	['cubic']	0	1	Ba2Y(IrO6)
+1812	Sr	1.0	_	0.0	Ga	0.5	Sb	0.5	cubic	['cubic']	0	1	Sr2Ga(SbO6)
+1818	Ba	1.0	_	0.0	Y	0.5	Ta	0.5	cubic	['cubic']	0	1	Ba2Y(TaO6)
+1821	Ba	1.0	_	0.0	Zn	0.5	U	0.5	cubic	['cubic']	0	1	Ba2Zn(UO6)
+1822	Ba	1.0	_	0.0	Cd	0.5	U	0.5	cubic	['cubic']	0	1	Ba2Cd(UO6)
+1823	Ba	1.0	_	0.0	Pb	0.5	U	0.5	cubic	['cubic']	0	1	Ba2Pb(UO6)
+1826	Sr	1.0	_	0.0	Fe	0.6	Mo	0.4	cubic	['cubic', 'tetragonal']	1	2	Sr2(Fe1.20Mo0.80)O6
+1827	Sr	1.0	_	0.0	Fe	0.585	Mo	0.415	cubic	['cubic']	0	1	Sr2(Fe1.17Mo0.83)O6
+1829	Ba	1.0	_	0.0	Ni	0.5	U	0.5	cubic	['cubic']	0	1	Ba2Ni(UO6)
+1833	Ba	1.0	_	0.0	Y	0.5	Nb	0.5	cubic	['cubic']	0	1	Ba2Y(NbO6)
+1837	Sr	1.0	_	0.0	Cr	0.5	Mo	0.5	cubic	['cubic']	0	1	Sr2Cr(MoO6)
+1843	Ba	1.0	_	0.0	Mg	0.5	Te	0.5	cubic	['cubic']	0	1	Ba2Mg(TeO6)
+1845	Sr	1.0	_	0.0	Y	0.5	Ir	0.5	cubic	['cubic']	0	1	Sr2Y(IrO6)
+1846	Ba	1.0	_	0.0	Lu	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2Lu(ReO6)
+1852	Ba	1.0	_	0.0	Y	0.5	Ru	0.5	cubic	['cubic']	0	1	Ba2Y(RuO6)
+1854	Pb	1.0	_	0.0	Mn	0.5	W	0.5	cubic	['cubic']	0	1	Pb2Mn(WO6)
+1855	Sr	1.0	_	0.0	Co	0.5	Ta	0.5	cubic	['cubic']	0	1	Sr2(CoTa)O6
+1857	Sr	1.0	_	0.0	Al	0.5	Sb	0.5	cubic	['cubic']	0	1	Sr2(AlSb)O6
+1859	Sr	1.0	_	0.0	Mn	0.5	Ta	0.5	cubic	['cubic']	0	1	Sr2(MnTaO6)
+1860	Ba	1.0	_	0.0	Tb	0.5	Sb	0.5	cubic	['cubic']	0	1	Ba2(TbSb)O6
+1865	Ba	1.0	_	0.0	Nd	0.5	Ir	0.5	cubic	['cubic']	0	1	Ba2Nd(IrO6)
+1866	Ba	1.0	_	0.0	In	0.5	Sb	0.5	cubic	['cubic']	0	1	Ba2(InSbO6)
+1871	Ba	1.0	_	0.0	Sc	0.5	Ir	0.5	cubic	['cubic']	0	1	Ba2Sc(IrO6)
+1873	Ba	1.0	_	0.0	Sc	0.5	Os	0.5	cubic	['cubic']	0	1	Ba2Sc(OsO6)
+1874	Ba	1.0	_	0.0	In	0.5	Os	0.5	cubic	['cubic']	0	1	Ba2In(OsO6)
+1875	Ba	1.0	_	0.0	Mg	0.5	Os	0.5	cubic	['cubic']	0	1	Ba2Mg(OsO6)
+1876	Ba	1.0	_	0.0	Zn	0.5	Os	0.5	cubic	['cubic']	0	1	Ba2Zn(OsO6)
+1877	Ba	1.0	_	0.0	Cd	0.5	Os	0.5	cubic	['cubic']	0	1	Ba2Cd(OsO6)
+1881	Ba	1.0	_	0.0	Ca	0.5	Mo	0.5	cubic	['cubic']	0	1	Ba2Ca(MoO6)
+1882	Ba	1.0	_	0.0	Ca	0.5	Te	0.5	cubic	['cubic']	0	1	Ba2Ca(TeO6)
+1885	Ba	1.0	_	0.0	Lu	0.5	Ta	0.5	cubic	['cubic']	0	1	Ba2Lu(TaO6)
+1889	Ba	1.0	_	0.0	Fe	0.67	U	0.33	cubic	['cubic']	0	1	Ba(Fe0.67U0.33O3)
+1890	Ba	1.0	_	0.0	Mn	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2Mn(ReO6)
+1891	Sr	1.0	_	0.0	Co	0.67	Te	0.33	cubic	['cubic']	0	1	Sr(Co0.67Te0.33O3)
+1892	Ba	1.0	_	0.0	Fe	0.5	U	0.5	cubic	['cubic']	0	1	Ba2Fe(UO6)
+1893	Ba	1.0	_	0.0	Mn	0.5	U	0.5	cubic	['cubic']	0	1	Ba2Mn(UO6)
+1894	Ba	1.0	_	0.0	Mg	0.5	U	0.5	cubic	['cubic']	0	1	Ba2Mg(UO6)
+1895	Ba	1.0	_	0.0	La	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2La(ReO6)
+1896	Ba	1.0	_	0.0	Sm	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2Sm(ReO6)
+1897	Ba	1.0	_	0.0	Eu	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2Eu(ReO6)
+1898	Ba	1.0	_	0.0	Tb	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2Tb(ReO6)
+1899	Ba	1.0	_	0.0	Dy	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2Dy(ReO6)
+1900	Ba	1.0	_	0.0	Ho	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2Ho(ReO6)
+1901	Ba	1.0	_	0.0	Tm	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2Tm(ReO6)
+1902	Ba	1.0	_	0.0	Yb	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2Yb(ReO6)
+1903	Sr	1.0	_	0.0	Gd	0.5	Re	0.5	cubic	['cubic']	0	1	Sr2Gd(ReO6)
+1904	Sr	1.0	_	0.0	Tb	0.5	Re	0.5	cubic	['cubic']	0	1	Sr2Tb(ReO6)
+1905	Sr	1.0	_	0.0	Dy	0.5	Re	0.5	cubic	['cubic']	0	1	Sr2Dy(ReO6)
+1906	Sr	1.0	_	0.0	Ho	0.5	Re	0.5	cubic	['cubic']	0	1	Sr2Ho(ReO6)
+1907	Sr	1.0	_	0.0	Y	0.5	Re	0.5	cubic	['cubic']	0	1	Sr2Y(ReO6)
+1908	Sr	1.0	_	0.0	Er	0.5	Re	0.5	cubic	['cubic']	0	1	Sr2Er(ReO6)
+1909	Sr	1.0	_	0.0	Tm	0.5	Re	0.5	cubic	['cubic']	0	1	Sr2Tm(ReO6)
+1910	Sr	1.0	_	0.0	Yb	0.5	Re	0.5	cubic	['cubic']	0	1	Sr2Yb(ReO6)
+1911	Ba	1.0	_	0.0	U	0.5	Fe	0.5	cubic	['cubic']	0	1	Ba2(UFe)O6
+1913	Ba	1.0	_	0.0	Ni	0.5	W	0.5	cubic	['cubic']	0	1	Ba2Ni(WO6)
+1914	Ba	1.0	_	0.0	Fe	0.667	U	0.33299999999999996	cubic	['cubic']	0	1	Ba(Fe0.6667U0.3333O3)
+1915	Sr	1.0	_	0.0	Fe	0.6659999999999999	U	0.33399999999999996	cubic	['cubic']	0	1	Sr2(Fe1.333U0.667O6)
+1916	Sr	1.0	_	0.0	Ni	0.5	W	0.5	cubic	['cubic', 'tetragonal']	1	2	Sr2Ni(WO6)
+1918	Sr	1.0	_	0.0	Zn	0.5	W	0.5	cubic	['cubic', 'tetragonal']	1	2	Sr2Zn(WO6)
+1921	Sr	1.0	_	0.0	Zn	0.5	Mo	0.5	cubic	['cubic', 'tetragonal']	1	2	Sr2Zn(MoO6)
+1922	Sr	1.0	_	0.0	Co	0.67	W	0.33	cubic	['cubic']	0	1	Sr(Co0.67W0.33O3)
+1926	Ba	1.0	_	0.0	Eu	0.5	Sb	0.5	cubic	['cubic']	0	1	Ba2Eu(SbO6)
+1929	Ba	1.0	_	0.0	Er	0.5	Sb	0.5	cubic	['cubic']	0	1	Ba2Er(SbO6)
+1930	Ba	1.0	_	0.0	Yb	0.5	Sb	0.5	cubic	['cubic']	0	1	Ba2Yb(SbO6)
+1933	Ba	1.0	_	0.0	Sr	0.5	Np	0.5	cubic	['cubic']	0	1	Ba2Sr(NpO6)
+1934	Ba	1.0	_	0.0	Co	0.5	U	0.5	cubic	['cubic']	0	1	Ba2Co(UO6)
+1936	Sr	1.0	_	0.0	Mn	0.5	U	0.5	cubic	['cubic']	0	1	Sr2Mn(UO6)
+1937	Sr	1.0	_	0.0	Fe	0.5	U	0.5	cubic	['cubic']	0	1	Sr2Fe(UO6)
+1939	Sr	1.0	_	0.0	Ni	0.5	U	0.5	cubic	['cubic']	0	1	Sr2Ni(UO6)
+1940	Sr	1.0	_	0.0	Cd	0.5	W	0.5	cubic	['cubic', 'monoclinic']	1	2	Sr2Cd(WO6)
+1942	Sr	1.0	_	0.0	Ca	0.5	Mo	0.5	cubic	['cubic']	0	1	Sr2Ca(MoO6)
+1946	Ba	1.0	_	0.0	Pr	0.5	Pt	0.5	cubic	['cubic']	0	1	Ba2Pr(PtO6)
+1947	Ca	1.0	_	0.0	Fe	0.5	W	0.5	cubic	['cubic']	0	1	Ca2Fe(WO6)
+1948	Ca	1.0	_	0.0	Pd	0.5	W	0.5	cubic	['cubic']	0	1	Ca2Pd(WO6)
+1952	Sr	1.0	_	0.0	Fe	0.65	Mo	0.35	cubic	['cubic']	0	1	Sr2(Fe1.3Mo0.7)O6
+1957	Ba	1.0	_	0.0	Ni	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2Ni(ReO6)
+1960	Ba	1.0	_	0.0	Co	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2Co(ReO6)
+1961	Ba	1.0	_	0.0	Zn	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2Zn(ReO6)
+1963	Ba	1.0	_	0.0	Cd	0.5	Re	0.5	cubic	['cubic']	0	1	Ba2Cd(ReO6)
+1971	Sr	1.0	_	0.0	Zr	0.5	Mn	0.5	cubic	['cubic']	0	1	Sr2Zr(MnO6)
+1972	La	1.0	_	0.0	Ni	0.75	Mo	0.25	cubic	['cubic', 'monoclinic']	1	2	La(Ni0.75Mo0.25)O3
+1973	La	1.0	_	0.0	Ni	0.75	W	0.25	cubic	['cubic']	0	1	La(Ni0.75W0.25)O3
+1974	La	1.0	_	0.0	Co	0.75	Re	0.25	cubic	['cubic']	0	1	La(Co0.75Re0.25)O3
+1975	La	1.0	_	0.0	Ni	0.75	Re	0.25	cubic	['cubic']	0	1	La(Ni0.75Re0.25)O3
+1982	Ba	1.0	_	0.0	Yb	0.5	Nb	0.5	cubic	['cubic']	0	1	Ba2Yb(NbO6)
+1983	Ba	1.0	_	0.0	Er	0.5	Nb	0.5	cubic	['cubic']	0	1	Ba2Er(NbO6)
+1986	Ba	1.0	_	0.0	Lu	0.5	Ru	0.5	cubic	['cubic']	0	1	Ba2Lu(RuO6)
+1996	Ba	1.0	_	0.0	Sr	0.5	U	0.5	cubic	['cubic', 'monoclinic']	1	2	Ba2Sr(UO6)
+1997	Sr	1.0	_	0.0	Fe	0.5	Os	0.5	cubic	['cubic']	0	1	Sr2Fe(OsO6)
+1999	Ba	1.0	_	0.0	Sc	0.5	Ru	0.5	cubic	['cubic']	0	1	Ba2Sc(RuO6)
+2003	Ba	1.0	_	0.0	Te	0.6	Li	0.4	cubic	['cubic']	0	1	Ba4(Te2.4Li1.6)O12
+2010	Sr	1.0	_	0.0	Fe	0.5	Ta	0.5	tetragonal	['tetragonal', 'cubic', 'orthorhombic']	1	3	Sr((Fe0.5Ta0.5)O3)
+2012	Ba	0.8	Pb	0.2	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Ba0.8Pb0.2)(TiO3)
+2016	Sr	1.0	_	0.0	Ta	0.5	V	0.5	cubic	['cubic']	0	1	Sr(Ta.5V.5)O3
+2022	Ba	1.0	_	0.0	La	0.5	Ru	0.5	triclinic	['triclinic', 'monoclinic']	1	2	Ba2La(RuO6)
+2024	Na	0.9	K	0.1	Nb	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Na0.9K0.1)NbO3
+2025	La	0.8	Y	0.2	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.8Y0.2)TiO3
+2026	La	0.7	Y	0.3	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.7Y0.3)TiO3
+2027	La	0.6	Y	0.4	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.6Y0.4)TiO3
+2028	La	0.4	Y	0.6	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.4Y0.6)TiO3
+2029	La	0.3	Y	0.7	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.3Y0.7)TiO3
+2030	La	0.2	Y	0.8	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.2Y0.8)TiO3
+2031	Mg	0.9	Fe	0.1	Si	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg.9Fe.1)(SiO3)
+2032	La	0.9	Sr	0.1	Cr	1.0	_	0.0	cubic	['cubic', 'orthorhombic']	1	2	(La0.9Sr0.1)CrO3
+2033	La	0.8	Sr	0.2	Cr	1.0	_	0.0	cubic	['cubic', 'orthorhombic']	1	2	La0.8Sr0.2(CrO3)
+2034	La	0.6	Sr	0.4	Cr	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.6Sr0.4)CrO3
+2035	Ba	1.0	_	0.0	Ce	0.7	Zr	0.3	cubic	['cubic']	0	1	Ba(Ce0.7Zr0.3)O3
+2036	Ba	1.0	_	0.0	Zr	0.5	Sn	0.5	cubic	['cubic']	0	1	Ba(Zr0.5Sn0.5O3)
+2037	La	0.7	Sr	0.3	Co	1.0	_	0.0	trigonal	['trigonal', 'monoclinic']	1	2	(La0.7Sr0.3)CoO3
+2038	La	0.45	Sr	0.55	Co	1.0	_	0.0	cubic	['cubic']	0	1	(La0.45Sr0.55)CoO3
+2039	Ba	1.0	_	0.0	Fe	0.5	Ta	0.5	cubic	['cubic', 'trigonal']	1	2	Ba(FeTaO6)0.5
+2041	Ba	1.0	_	0.0	Mn	0.5	Ta	0.5	cubic	['cubic']	0	1	Ba(MnTaO6)0.5
+2042	Ba	1.0	_	0.0	Mn	0.5	Nb	0.5	cubic	['cubic']	0	1	Ba(MnNbO6)0.5
+2050	Sr	1.0	_	0.0	Ga	0.5	Nb	0.5	cubic	['cubic']	0	1	Sr(GaNbO6).5
+2052	Sr	1.0	_	0.0	In	0.5	Nb	0.5	cubic	['cubic']	0	1	Sr(InNbO6).5
+2053	Ba	1.0	_	0.0	Sc	0.5	Nb	0.5	cubic	['cubic']	0	1	Ba(ScNbO6)0.5
+2057	Ba	1.0	_	0.0	Sm	0.5	Nb	0.5	cubic	['cubic']	0	1	Ba(SmNbO6)0.5
+2058	Ba	1.0	_	0.0	Eu	0.5	Nb	0.5	cubic	['cubic', 'tetragonal']	1	2	Ba(EuNbO6)0.5
+2059	Ba	1.0	_	0.0	Gd	0.5	Nb	0.5	cubic	['cubic']	0	1	Ba(GdNbO6)0.5
+2061	Ba	1.0	_	0.0	Dy	0.5	Nb	0.5	cubic	['cubic']	0	1	Ba(DyNbO6)0.5
+2062	Ba	1.0	_	0.0	Ho	0.5	Nb	0.5	cubic	['cubic']	0	1	Ba(HoNbO6)0.5
+2064	Ba	1.0	_	0.0	Tm	0.5	Nb	0.5	cubic	['cubic']	0	1	Ba(TmNbO6)0.5
+2066	Ba	1.0	_	0.0	Lu	0.5	Nb	0.5	cubic	['cubic']	0	1	Ba(LuNbO6)0.5
+2070	Pb	1.0	_	0.0	Mg	0.33299999999999996	Nb	0.667	cubic	['cubic']	0	1	Pb(Mg0.333Nb0.667)O3
+2072	Ba	1.0	_	0.0	Sc	0.5	Ta	0.5	cubic	['cubic']	0	1	Ba(ScTaO6)0.5
+2078	Pb	1.0	_	0.0	Yb	0.5	Nb	0.5	cubic	['cubic']	0	1	Pb(YbNbO6)0.5
+2079	Pb	1.0	_	0.0	Yb	0.5	Ta	0.5	cubic	['cubic']	0	1	Pb(YbTaO6)0.5
+2083	Pb	1.0	_	0.0	Fe	0.667	W	0.33299999999999996	cubic	['cubic']	0	1	Pb(Fe0.667W0.333)O3
+2085	Sr	1.0	_	0.0	Ti	0.5	Mo	0.5	cubic	['cubic', 'triclinic']	1	2	Sr(TiMoO6)0.5
+2088	La	1.0	_	0.0	Ni	0.95	Zn	0.05	trigonal	['trigonal']	0	1	La(Ni0.95Zn0.05)O3
+2092	La	0.4	Ca	0.6	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.4Ca0.6)(MnO3)
+2096	Pr	0.44	Sr	0.56	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Pr0.44Sr0.56)(MnO3)
+2101	Pr	0.5	Sr	0.5	Mn	1.0	_	0.0	tetragonal	['tetragonal', 'orthorhombic']	1	2	(Pr0.5Sr0.5)(MnO3)
+2106	La	0.05	Ca	0.95	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.05Ca0.95)(TiO3)
+2107	Pr	0.55	Sr	0.45	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.55Sr0.45)(MnO3)
+2108	Pr	0.52	Sr	0.48	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Pr0.52Sr0.48)(MnO3)
+2110	Pr	0.46	Sr	0.54	Mn	1.0	_	0.0	tetragonal	['tetragonal', 'orthorhombic']	1	2	(Pr0.46Sr0.54)(MnO3)
+2111	Pr	0.4	Sr	0.6	Mn	1.0	_	0.0	tetragonal	['tetragonal', 'orthorhombic']	1	2	(Pr0.4Sr0.6)(MnO3)
+2112	Pr	0.35	Sr	0.65	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Pr0.35Sr0.65)(MnO3)
+2113	Pr	0.3	Sr	0.7	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Pr0.3Sr0.7)(MnO3)
+2114	Pr	0.25	Sr	0.75	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Pr0.25Sr0.75)(MnO3)
+2115	Pr	0.15	Sr	0.85	Mn	1.0	_	0.0	cubic	['cubic', 'tetragonal']	1	2	(Pr0.15Sr0.85)(MnO3)
+2123	La	0.67	Ca	0.33	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.67Ca0.33)(MnO3)
+2134	La	0.33	Ca	0.67	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.33Ca0.67)MnO3
+2141	Nd	0.67	Ca	0.33	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.67Ca0.33)(MnO3)
+2142	Nd	1.0	_	0.0	Mg	0.5	Ti	0.5	monoclinic	['monoclinic']	0	1	Nd2Mg(TiO6)
+2143	Sr	1.0	_	0.0	Sm	0.5	Nb	0.5	monoclinic	['monoclinic']	0	1	Sr2(SmNb)O6
+2144	Gd	0.95	Er	0.05	Sc	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Gd.95Er.05)ScO3
+2145	Sr	1.0	_	0.0	Ca	0.5	U	0.5	monoclinic	['monoclinic']	0	1	Sr2Ca(UO6)
+2148	Sr	0.9	La	0.1	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Sr.9La.1)TiO3
+2149	Sr	0.8	La	0.2	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Sr.8La.2)TiO3
+2151	Sr	0.7	La	0.3	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Sr.7La.3)TiO3
+2152	Sr	0.6	La	0.4	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Sr.6La.4)TiO3
+2153	Pr	0.8	Ba	0.2	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr.8Ba.2)MnO3
+2154	Pr	0.65	Ba	0.35	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.65Ba0.35)MnO3
+2155	La	1.0	_	0.0	Li	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	La2Li(SbO6)
+2156	Ba	0.8	K	0.2	Bi	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ba0.8K0.2)BiO3
+2157	La	1.0	_	0.0	Ir	0.5	Zn	0.5	monoclinic	['monoclinic']	0	1	La2(IrZnO6)
+2159	La	0.531	K	0.469	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(La0.531K0.469)(TiO3)
+2160	La	0.6709999999999999	Rb	0.32899999999999996	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(La0.671Rb0.329)(TiO3)
+2161	La	0.6729999999999999	Ag	0.327	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(La0.673Ag0.327)(TiO3)
+2162	La	0.514	Tl	0.486	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(La0.514Tl0.486)(TiO3)
+2163	Ce	0.5	K	0.5	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Ce0.5K0.5)(TiO3)
+2164	Na	0.67	Th	0.33	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Na0.67Th0.33)(TiO3)
+2168	La	1.0	_	0.0	Ni	0.8	W	0.2	orthorhombic	['orthorhombic']	0	1	La(Ni0.8W0.2)O3
+2170	La	0.9	Ca	0.1	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.9Ca0.1)(CrO3)
+2171	La	0.8	Ca	0.2	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.8Ca0.2)(CrO3)
+2172	La	0.7	Ca	0.3	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.7Ca0.3)(CrO3)
+2173	La	1.0	_	0.0	Ni	0.9	W	0.1	orthorhombic	['orthorhombic']	0	1	La(Ni0.9W0.1)O3
+2174	Ba	0.4	K	0.6	Bi	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.4K0.6)(BiO3)
+2175	Ba	0.321	K	0.679	Bi	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.321K0.679)(BiO3)
+2177	Nd	0.7	Ca	0.3	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'monoclinic']	1	2	(Nd0.7Ca0.3)(MnO3)
+2183	La	1.0	_	0.0	Ni	0.95	Sb	0.05	orthorhombic	['orthorhombic']	0	1	La((Ni0.95Sb0.05)O3)
+2184	La	1.0	_	0.0	Ni	0.8	Sb	0.2	orthorhombic	['orthorhombic']	0	1	La(Ni0.8Sb0.2)O3
+2188	Tb	1.0	_	0.0	Fe	0.9690000000000001	Al	0.031	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.969Al0.031)O3)
+2189	Tb	1.0	_	0.0	Fe	0.948	Al	0.052000000000000005	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.948Al0.052)O3)
+2190	Tb	1.0	_	0.0	Fe	0.89	Al	0.11	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.890Al0.110)O3)
+2191	Tb	1.0	_	0.0	Fe	0.8290000000000001	Al	0.171	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.829Al0.171)O3)
+2192	Tb	1.0	_	0.0	Fe	0.591	Al	0.409	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.591Al0.409)O3)
+2193	Tb	1.0	_	0.0	Fe	0.523	Al	0.47700000000000004	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.523Al0.477)O3)
+2194	Tb	1.0	_	0.0	Fe	0.40399999999999997	Al	0.596	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.404Al0.596)O3)
+2195	Tb	1.0	_	0.0	Fe	0.324	Al	0.6759999999999999	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.324Al0.676)O3)
+2196	Tb	1.0	_	0.0	Fe	0.175	Al	0.825	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.175Al0.825)O3)
+2197	Tb	1.0	_	0.0	Fe	0.5	Al	0.5	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.5Al0.5)O3)
+2201	Tb	1.0	_	0.0	Fe	0.4	Al	0.6	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.4Al0.6)O3)
+2205	Ca	1.0	_	0.0	Nd	0.5	Nb	0.5	monoclinic	['monoclinic']	0	1	Ca2Nd(NbO6)
+2206	Ca	1.0	_	0.0	Ho	0.5	Nb	0.5	monoclinic	['monoclinic']	0	1	Ca2Ho(NbO6)
+2207	Ca	1.0	_	0.0	Er	0.5	Nb	0.5	monoclinic	['monoclinic']	0	1	Ca2Er(NbO6)
+2208	Ca	1.0	_	0.0	Lu	0.5	Nb	0.5	monoclinic	['monoclinic']	0	1	Ca2Lu(NbO6)
+2209	Ca	1.0	_	0.0	Fe	0.5	Nb	0.5	orthorhombic	['orthorhombic', 'monoclinic']	1	2	Ca2Fe(NbO6)
+2211	La	0.6	Sr	0.4	Co	1.0	_	0.0	cubic	['cubic', 'trigonal']	1	2	(La0.6Sr0.4)CoO3
+2214	Nd	0.5	Ca	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.5Ca0.5)(MnO3)
+2215	Nd	0.6	Ca	0.4	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.6Ca0.4)(MnO3)
+2217	La	0.9	Na	0.1	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.9Na0.1)MnO3
+2218	Ba	1.0	_	0.0	Cu	0.5	W	0.5	tetragonal	['tetragonal']	0	1	Ba2Cu(WO6)
+2220	Sr	1.0	_	0.0	Cu	0.5	Te	0.5	tetragonal	['tetragonal']	0	1	Sr2Cu(TeO6)
+2224	Nd	0.67	Sr	0.33	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.67Sr0.33)(MnO3)
+2225	La	1.0	_	0.0	Ni	0.9	Ti	0.1	trigonal	['trigonal']	0	1	La(Ni0.9Ti0.1)O3
+2227	Tl	0.5	Na	0.5	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Tl0.5Na0.5)(TiO3)
+2228	Ba	0.5920000000000001	Sr	0.408	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.592Sr0.408)TiO3
+2229	Sm	1.0	_	0.0	Mn	0.5	Ti	0.5	monoclinic	['monoclinic']	0	1	Sm2(MnTiO6)
+2230	Sr	1.0	_	0.0	Ce	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	Sr2(CeIrO6)
+2238	La	0.21	Nd	0.79	Ga	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.21Nd0.79)(GaO3)
+2239	Pr	0.8	Sr	0.2	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.8Sr0.2)FeO3
+2241	Pr	0.5	Sr	0.5	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.5Sr0.5)FeO3
+2243	La	0.8	Eu	0.2	Ni	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.8Eu0.2)(NiO3)
+2244	La	0.6	Eu	0.4	Ni	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.6Eu0.4)(NiO3)
+2245	La	0.4	Eu	0.6	Ni	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.4Eu0.6)(NiO3)
+2246	La	0.2	Eu	0.8	Ni	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.2Eu0.8)(NiO3)
+2248	La	0.925	Ba	0.075	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.925Ba0.075)MnO3
+2249	La	0.9	Ba	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'cubic']	1	2	(La0.9Ba0.1)MnO3
+2250	La	0.875	Ba	0.125	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.875Ba0.125)MnO3
+2251	La	0.85	Ba	0.15	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.85Ba0.15)MnO3
+2252	La	0.82	Ba	0.18	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.82Ba0.18)MnO3
+2253	La	0.8	Ba	0.2	Mn	1.0	_	0.0	trigonal	['trigonal', 'cubic']	1	2	(La0.8Ba0.2)MnO3
+2254	La	0.775	Ba	0.225	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.775Ba0.225)MnO3
+2255	La	0.75	Ba	0.25	Mn	1.0	_	0.0	trigonal	['trigonal', 'cubic']	1	2	(La0.75Ba0.25)MnO3
+2257	La	0.025	Sr	0.975	Mn	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(La0.025Sr0.975)MnO3
+2262	La	0.39	Pr	0.61	Ga	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.39Pr0.61)(GaO3)
+2267	La	0.19	Pr	0.81	Ga	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.19Pr0.81)(GaO3)
+2275	La	0.5	Sr	0.5	Co	1.0	_	0.0	trigonal	['trigonal', 'cubic']	1	2	(La0.5Sr0.5)(CoO3)
+2276	La	1.0	_	0.0	Ni	0.95	Mo	0.05	trigonal	['trigonal']	0	1	La(Ni0.95Mo0.05)O3
+2277	La	1.0	_	0.0	Ni	0.9	Mo	0.1	orthorhombic	['orthorhombic']	0	1	La(Ni0.9Mo0.1)O3
+2278	La	1.0	_	0.0	Ni	0.85	Mo	0.15	orthorhombic	['orthorhombic']	0	1	La(Ni0.85Mo0.15)O3
+2285	La	0.667	Ca	0.33299999999999996	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.667Ca0.333)MnO3
+2287	Pr	0.7	Sr	0.3	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.7Sr0.3)MnO3
+2289	Pr	0.975	Na	0.025	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.975Na0.025)(MnO3)
+2290	Pr	0.95	Na	0.05	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.95Na0.05)(MnO3)
+2291	Pr	0.925	Na	0.075	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.925Na0.075)(MnO3)
+2292	Pr	0.8	Na	0.2	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.8Na0.2)(MnO3)
+2295	Sr	1.0	_	0.0	Fe	0.55	Mo	0.45	tetragonal	['tetragonal']	0	1	Sr2(Fe1.1Mo0.9)O6
+2296	Sr	1.0	_	0.0	Fe	0.525	Mo	0.475	tetragonal	['tetragonal']	0	1	Sr2(Fe1.05Mo0.95)O6
+2298	Sr	1.0	_	0.0	Fe	0.475	Mo	0.525	tetragonal	['tetragonal']	0	1	Sr2(Fe0.95Mo1.05)O6
+2299	Sr	1.0	_	0.0	Fe	0.45	Mo	0.55	tetragonal	['tetragonal']	0	1	Sr2(Fe0.9Mo1.1)O6
+2300	Sr	1.0	_	0.0	Fe	0.4	Mo	0.6	tetragonal	['tetragonal']	0	1	Sr2(Fe0.8Mo1.2)O6
+2301	Pr	0.9	Ba	0.1	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.9Ba0.1)CoO3
+2302	Pr	0.8	Ba	0.2	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.8Ba0.2)CoO3
+2303	Pr	0.7	Ba	0.3	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.7Ba0.3)CoO3
+2304	Pr	0.6	Ba	0.4	Co	1.0	_	0.0	orthorhombic	['orthorhombic', 'tetragonal']	1	2	(Pr0.6Ba0.4)CoO3
+2306	Pr	0.5	Ba	0.5	Co	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Pr0.5Ba0.5)CoO3
+2307	Pr	0.9	Ca	0.1	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.9Ca0.1)CoO3
+2308	Pr	0.8	Ca	0.2	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.8Ca0.2)CoO3
+2309	La	0.85	Sr	0.15	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.85Sr0.15)CoO3
+2316	Pb	0.434	Ca	0.5660000000000001	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pb0.434Ca0.566)(TiO3)
+2317	La	0.98	Sr	0.02	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.98Sr0.02)MnO3
+2318	La	0.96	Sr	0.04	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.96Sr0.04)MnO3
+2319	La	0.94	Sr	0.06	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.94Sr0.06)MnO3
+2320	La	0.92	Sr	0.08	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.92Sr0.08)MnO3
+2321	La	0.9	Sr	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(La0.9Sr0.1)MnO3
+2322	La	0.88	Sr	0.12	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.88Sr0.12)MnO3
+2323	La	0.86	Sr	0.14	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.86Sr0.14)MnO3
+2324	La	0.82	Sr	0.18	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.82Sr0.18)MnO3
+2326	La	1.0	_	0.0	Ga	0.5	Mn	0.5	orthorhombic	['orthorhombic']	0	1	La(Ga0.5Mn0.5)O3
+2327	La	1.0	_	0.0	Ga	0.5	Fe	0.5	orthorhombic	['orthorhombic']	0	1	La(Ga0.5Fe0.5)O3
+2328	La	1.0	_	0.0	Ga	0.5	Co	0.5	trigonal	['trigonal']	0	1	La(Ga0.5Co0.5)O3
+2329	La	1.0	_	0.0	Ga	0.5	Ni	0.5	trigonal	['trigonal']	0	1	La(Ga0.5Ni0.5)O3
+2331	La	0.667	Sr	0.33299999999999996	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.667Sr0.333)MnO3
+2332	La	0.667	Ba	0.33299999999999996	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.667Ba0.333)MnO3
+2333	Tb	1.0	_	0.0	Fe	0.985	Al	0.015	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.985Al0.015)O3)
+2334	Tb	1.0	_	0.0	Fe	0.97	Al	0.03	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.97Al0.03)O3)
+2335	Tb	1.0	_	0.0	Fe	0.94	Al	0.06	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.94Al0.06)O3)
+2336	Tb	1.0	_	0.0	Fe	0.9	Al	0.1	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.9Al0.1)O3)
+2337	Tb	1.0	_	0.0	Fe	0.8	Al	0.2	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.8Al0.2)O3)
+2338	Tb	1.0	_	0.0	Fe	0.7	Al	0.3	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.7Al0.3)O3)
+2339	Tb	1.0	_	0.0	Fe	0.6	Al	0.4	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.6Al0.4)O3)
+2342	Tb	1.0	_	0.0	Fe	0.3	Al	0.7	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.3Al0.7)O3)
+2343	Tb	1.0	_	0.0	Fe	0.2	Al	0.8	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.2Al0.8)O3)
+2344	Tb	1.0	_	0.0	Fe	0.97	Ga	0.03	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.97Ga0.03)O3)
+2345	Tb	1.0	_	0.0	Fe	0.94	Ga	0.06	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.94Ga0.06)O3)
+2346	Tb	1.0	_	0.0	Fe	0.9	Ga	0.1	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.9Ga0.1)O3)
+2347	Tb	1.0	_	0.0	Fe	0.85	Ga	0.15	orthorhombic	['orthorhombic']	0	1	Tb((Fe0.85Ga0.15)O3)
+2348	Er	1.0	_	0.0	Fe	0.97	Al	0.03	orthorhombic	['orthorhombic']	0	1	Er((Fe0.97Al0.03)O3)
+2349	Er	1.0	_	0.0	Fe	0.94	Al	0.06	orthorhombic	['orthorhombic']	0	1	Er((Fe0.94Al0.06)O3)
+2350	Er	1.0	_	0.0	Fe	0.9	Al	0.1	orthorhombic	['orthorhombic']	0	1	Er((Fe0.9Al0.1)O3)
+2351	Er	1.0	_	0.0	Fe	0.85	Al	0.15	orthorhombic	['orthorhombic']	0	1	Er((Fe0.85Al0.15)O3)
+2352	Er	1.0	_	0.0	Fe	0.8	Al	0.2	orthorhombic	['orthorhombic']	0	1	Er((Fe0.8Al0.2)O3)
+2353	Li	0.5	Al	0.5	Si	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(LiAl)Si2O6
+2354	Li	0.5	Fe	0.5	Si	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(LiFe)Si2O6
+2355	Li	1.0	_	0.0	Ge	0.5	Te	0.5	orthorhombic	['orthorhombic']	0	1	Li2Ge(TeO6)
+2356	Ga	0.75	Al	0.25	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Ga0.75Al0.25)FeO3
+2357	Ga	0.5	Al	0.5	Fe	1.0	_	0.0	trigonal	['trigonal']	0	1	(Ga0.5Al0.5)FeO3
+2358	Ca	0.134	Fe	0.866	Si	1.0	_	0.0	triclinic	['triclinic']	0	1	(Ca0.94Fe6.06)Si7O21
+2359	Mg	0.49	Mn	0.51	Si	1.0	_	0.0	triclinic	['triclinic']	0	1	(Mg0.49Mn0.51)(SiO3)
+2360	Mg	0.38	Mn	0.62	Si	1.0	_	0.0	triclinic	['triclinic']	0	1	(Mg0.38Mn0.62)(SiO3)
+2361	Ni	1.0	_	0.0	Sc	0.5	Sb	0.5	trigonal	['trigonal']	0	1	Ni2Sc(SbO6)
+2362	Ga	0.9	Cr	0.1	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ga0.9Cr0.1)FeO3
+2363	Ga	0.9	Mn	0.1	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ga0.9Mn0.1)FeO3
+2364	Bi	1.0	_	0.0	Cd	0.5	Ge	0.5	monoclinic	['monoclinic']	0	1	Bi2Cd(GeO6)
+2365	K	1.0	_	0.0	Se	0.5	Mo	0.5	monoclinic	['monoclinic']	0	1	K2(SeMoO6)
+2366	K	0.5	Fe	0.5	Se	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(KFe)(SeO3)2
+2367	Na	0.5	Fe	0.5	Se	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(NaFe)(SeO3)2
+2368	Bi	0.5	As	0.5	Cu	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(BiAs)(Cu2O6)
+2369	Bi	0.5	P	0.5	Zn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(BiP)(Zn2O6)
+2370	K	0.5	Y	0.5	Se	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(KY)(SeO3)2
+2371	Rb	0.5	Y	0.5	Se	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(RbY)(SeO3)2
+2372	Na	0.5	Sc	0.5	Se	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(NaSc)(SeO3)2
+2373	Na	0.5	Ga	0.5	Se	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(NaGa)(SeO3)2
+2375	Ca	0.2	Mn	0.8	Si	1.0	_	0.0	triclinic	['triclinic']	0	1	(CaMn4)(SiO3)5
+2377	Mn	1.0	_	0.0	Fe	0.5	Mo	0.5	trigonal	['trigonal']	0	1	Mn2Fe(MoO6)
+2378	Pb	1.0	_	0.0	Bi	0.5	V	0.5	monoclinic	['monoclinic']	0	1	Pb2Bi(VO4)O2
+2379	Rb	1.0	_	0.0	Se	0.5	Mo	0.5	orthorhombic	['orthorhombic']	0	1	Rb2(SeMoO6)
+2381	Mg	0.9	Zn	0.1	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.9Zn0.1)(TiO3)
+2382	Mg	0.8	Zn	0.2	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.8Zn0.2)(TiO3)
+2383	Mg	0.7	Zn	0.3	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.7Zn0.3)(TiO3)
+2384	Mg	0.6	Zn	0.4	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.6Zn0.4)(TiO3)
+2385	Mg	0.5	Zn	0.5	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.5Zn0.5)(TiO3)
+2386	Mg	0.4	Zn	0.6	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.4Zn0.6)(TiO3)
+2387	Mg	0.3	Zn	0.7	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.3Zn0.7)(TiO3)
+2388	Mg	0.2	Zn	0.8	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.2Zn0.8)(TiO3)
+2389	Mn	0.9	Mg	0.1	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mn0.9Mg0.1)(TiO3)
+2390	Mn	0.8	Mg	0.2	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mn0.8Mg0.2)(TiO3)
+2391	Mn	0.7	Mg	0.3	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mn0.7Mg0.3)(TiO3)
+2392	Mn	0.6	Mg	0.4	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mn0.6Mg0.4)(TiO3)
+2393	Mn	0.5	Mg	0.5	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mn0.5Mg0.5)(TiO3)
+2394	Mn	0.4	Mg	0.6	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mn0.4Mg0.6)(TiO3)
+2395	Ni	0.5	Mn	0.5	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Ni.5Mn.5)TiO3
+2396	Ni	0.5	Mg	0.5	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Ni.5Mg.5)TiO3
+2397	Mn	0.9	Zn	0.1	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mn.9Zn.1)TiO3
+2398	Mn	0.7	Zn	0.3	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mn.7Zn.3)TiO3
+2399	Mn	0.5	Zn	0.5	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mn.5Zn.5)TiO3
+2400	Mn	0.3	Zn	0.7	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mn.3Zn.7)TiO3
+2401	Mn	0.2	Zn	0.8	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mn.2Zn.8)TiO3
+2402	Mg	0.46	Mn	0.54	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.460Mn0.54)TiO3
+2403	Zn	0.54	Mg	0.46	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Zn0.54Mg0.46)TiO3
+2404	Mn	1.0	_	0.0	Cr	0.5	Sb	0.5	trigonal	['trigonal']	0	1	Mn2Cr(SbO6)
+2405	Fe	0.2	Mn	0.8	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Fe0.2Mn0.8)(TiO3)
+2406	Fe	0.4	Mn	0.6	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Fe0.4Mn0.6)(TiO3)
+2407	Fe	0.5	Mn	0.5	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Fe0.5Mn0.5)(TiO3)
+2408	Fe	0.6	Mn	0.4	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Fe0.6Mn0.4)(TiO3)
+2409	Fe	0.8	Mn	0.2	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Fe0.8Mn0.2)(TiO3)
+2410	Fe	0.6	Co	0.4	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Fe.60Co.40)TiO3
+2413	Mn	0.67	Ni	0.33	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mn0.67Ni0.33)TiO3
+2414	Mn	0.5	Ni	0.5	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mn0.5Ni0.5)TiO3
+2415	Mn	0.32	Ni	0.68	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mn0.32Ni0.68)TiO3
+2416	Mn	1.0	_	0.0	Ti	0.8	Ru	0.2	trigonal	['trigonal']	0	1	Mn((Ti0.8Ru0.2)O3)
+2418	Mg	0.95	Zn	0.05	Ti	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg0.95Zn0.05)TiO3
+2426	Sr	1.0	_	0.0	Y	0.5	Os	0.5	monoclinic	['monoclinic']	0	1	Sr2Y(OsO6)
+2431	Ho	1.0	_	0.0	Ni	0.5	Mn	0.5	monoclinic	['monoclinic']	0	1	Ho2Ni(MnO6)
+2432	Er	1.0	_	0.0	Ni	0.5	Mn	0.5	monoclinic	['monoclinic']	0	1	Er2Ni(MnO6)
+2433	Tm	1.0	_	0.0	Ni	0.5	Mn	0.5	monoclinic	['monoclinic']	0	1	Tm2Ni(MnO6)
+2434	La	0.4	Sr	0.6	Co	1.0	_	0.0	cubic	['cubic']	0	1	(La0.4Sr0.6)CoO3
+2435	Ca	1.0	_	0.0	Mn	0.9	Mo	0.1	orthorhombic	['orthorhombic']	0	1	Ca4(Mn3.6Mo0.4)O12
+2436	Ca	1.0	_	0.0	Mn	0.88	Mo	0.12	orthorhombic	['orthorhombic']	0	1	Ca4(Mn3.52Mo0.48)O12
+2437	Ca	1.0	_	0.0	Mn	0.92	Mo	0.08	orthorhombic	['orthorhombic']	0	1	Ca4(Mn3.68Mo0.32)O12
+2438	Pb	1.0	_	0.0	Zr	0.65	Ti	0.35	cubic	['cubic']	0	1	Pb(Zr0.65Ti0.35)O3
+2441	Sr	1.0	_	0.0	Tm	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Sr2Tm(SbO6)
+2443	Sr	1.0	_	0.0	Gd	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Sr2Gd(SbO6)
+2444	Sr	1.0	_	0.0	Er	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Sr2Er(SbO6)
+2445	Sr	1.0	_	0.0	Eu	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Sr2Eu(SbO6)
+2446	Sr	1.0	_	0.0	Nd	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Sr2Nd(SbO6)
+2459	Ba	1.0	_	0.0	Sn	0.065	Ti	0.935	orthorhombic	['orthorhombic']	0	1	Ba2(Sn0.13Ti1.87)O6
+2460	Ba	1.0	_	0.0	Sn	0.05	Ti	0.95	cubic	['cubic', 'tetragonal']	1	2	Ba1(Sn0.05Ti0.95)O3
+2462	Ba	1.0	_	0.0	Ti	0.975	Sn	0.025	orthorhombic	['orthorhombic']	0	1	Ba(Ti0.975Sn0.025)O3
+2463	Ba	1.0	_	0.0	Ti	0.94	Sn	0.06	orthorhombic	['orthorhombic', 'tetragonal']	1	2	Ba(Ti0.94Sn0.06)O3
+2464	Ba	1.0	_	0.0	Ti	0.93	Sn	0.07	tetragonal	['tetragonal']	0	1	Ba(Ti0.93Sn0.07)O3
+2465	Ba	1.0	_	0.0	Ti	0.92	Sn	0.08	orthorhombic	['orthorhombic']	0	1	Ba(Ti0.92Sn0.08)O3
+2466	Ba	1.0	_	0.0	Sn	0.09	Ti	0.91	cubic	['cubic']	0	1	Ba(Sn0.09Ti0.91)O3
+2467	Ba	1.0	_	0.0	Ti	0.88	Sn	0.12	cubic	['cubic']	0	1	Ba(Ti0.88Sn0.12)O3
+2468	Ba	1.0	_	0.0	Ti	0.85	Sn	0.15	cubic	['cubic']	0	1	Ba(Ti0.85Sn0.15)O3
+2469	Ba	1.0	_	0.0	Sn	0.16	Ti	0.84	cubic	['cubic']	0	1	Ba1(Sn0.16Ti0.84)O3
+2471	Gd	1.0	_	0.0	Co	0.5	Fe	0.5	orthorhombic	['orthorhombic']	0	1	Gd(Co0.50Fe0.50)O3
+2473	Pr	1.0	_	0.0	Co	0.5	Fe	0.5	orthorhombic	['orthorhombic']	0	1	Pr(Co0.50Fe0.50)O3
+2474	Eu	1.0	_	0.0	Co	0.5	Fe	0.5	orthorhombic	['orthorhombic']	0	1	Eu(Co0.50Fe0.50)O3
+2475	Ca	1.0	_	0.0	Cr	0.44	Mo	0.56	orthorhombic	['orthorhombic']	0	1	Ca(Cr0.44Mo0.56)O3
+2480	Na	0.5	Tb	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(NaTb)0.5TiO3
+2481	Na	0.5	Eu	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(NaEu)0.5TiO3
+2482	Ce	0.5	La	0.5	Al	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal', 'cubic', 'tetragonal']	1	4	(Ce0.5La0.5)AlO3
+2485	Ce	0.5	Nd	0.5	Al	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Ce0.5Nd0.5)AlO3
+2486	Ce	0.7	Nd	0.3	Al	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(Ce0.7Nd0.3)AlO3
+2489	Ba	1.0	_	0.0	Sr	0.5	W	0.5	monoclinic	['monoclinic']	0	1	Ba2Sr(WO6)
+2490	La	0.5	Na	0.5	Ti	1.0	_	0.0	tetragonal	['tetragonal', 'trigonal']	1	2	(LaNa)0.5TiO3
+2492	Gd	0.5	Na	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(GdNa)0.5TiO3
+2493	Lu	0.5	Na	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(LuNa)0.5TiO3
+2494	Y	0.5	Na	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(YNa)0.5TiO3
+2503	Sr	1.0	_	0.0	Co	0.5	Sb	0.5	trigonal	['trigonal']	0	1	Sr2(CoSb)O6
+2505	La	1.0	_	0.0	Ni	0.5	Fe	0.5	orthorhombic	['orthorhombic', 'trigonal']	1	2	La(Ni0.5Fe0.5)O3
+2510	Ca	1.0	_	0.0	Mn	0.5	Ta	0.5	monoclinic	['monoclinic']	0	1	Ca2(MnTaO6)
+2511	Ba	1.0	_	0.0	Pr	0.5	Sn	0.5	trigonal	['trigonal']	0	1	Ba2(PrSn)O6
+2514	Bi	1.0	_	0.0	Mn	0.7	Sc	0.3	monoclinic	['monoclinic']	0	1	Bi(Mn0.7Sc0.3O3)
+2515	Bi	1.0	_	0.0	Mn	0.5	Sc	0.5	monoclinic	['monoclinic']	0	1	Bi(Mn0.5Sc0.5O3)
+2516	Bi	1.0	_	0.0	Mn	0.6	Sc	0.4	monoclinic	['monoclinic']	0	1	Bi(Mn0.6Sc0.4O3)
+2517	Bi	1.0	_	0.0	Mn	0.3	Sc	0.7	monoclinic	['monoclinic']	0	1	Bi(Mn0.3Sc0.7O3)
+2518	Ca	0.9	Ce	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.9Ce0.1)(MnO3)
+2519	Nd	0.95	Sr	0.05	Ni	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.95Sr0.05)(NiO3)
+2520	Nd	0.95	Th	0.05	Ni	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.95Th0.05)(NiO3)
+2524	Sr	1.0	_	0.0	La	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Sr2La(SbO6)
+2525	La	0.95	Ca	0.05	Co	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(La0.95Ca0.05)CoO3
+2526	La	0.9	Ca	0.1	Co	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(La0.9Ca0.1)CoO3
+2527	La	0.8	Ca	0.2	Co	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(La0.8Ca0.2)CoO3
+2528	La	0.7	Ca	0.3	Co	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(La0.7Ca0.3)CoO3
+2529	La	0.95	Sr	0.05	Co	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(La0.95Sr0.05)CoO3
+2530	La	0.9	Sr	0.1	Co	1.0	_	0.0	monoclinic	['monoclinic', 'trigonal']	1	2	(La0.9Sr0.1)CoO3
+2531	La	0.8	Sr	0.2	Co	1.0	_	0.0	monoclinic	['monoclinic', 'trigonal']	1	2	(La0.8Sr0.2)CoO3
+2533	Ca	1.0	_	0.0	In	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Ca2(InSbO6)
+2535	La	1.0	_	0.0	Co	0.885	Fe	0.115	trigonal	['trigonal']	0	1	La(Co0.885Fe0.115)O3
+2536	La	1.0	_	0.0	Co	0.888	Fe	0.11199999999999999	trigonal	['trigonal']	0	1	La(Co0.888Fe0.112)O3
+2537	Ca	1.0	_	0.0	Co	0.5	Nb	0.5	monoclinic	['monoclinic']	0	1	Ca2Co(NbO6)
+2539	Sr	0.67	La	0.33	Ti	1.0	_	0.0	orthorhombic	['orthorhombic', 'cubic']	1	2	(Sr0.67La0.33)(TiO3)
+2542	Nd	0.9	Ca	0.1	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.9Ca0.1)CoO3
+2543	Nd	0.8	Ca	0.2	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.8Ca0.2)CoO3
+2545	Bi	1.0	_	0.0	Mn	0.667	Ni	0.33299999999999996	orthorhombic	['orthorhombic']	0	1	Bi2(Mn1.334Ni0.666)O6
+2546	Sr	0.84	La	0.16	Ru	1.0	_	0.0	cubic	['cubic']	0	1	(Sr0.84La0.16)(RuO3)
+2547	Li	0.05	Na	0.95	Nb	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Li0.05Na0.95)NbO3
+2548	Bi	1.0	_	0.0	Zn	0.5	V	0.5	tetragonal	['tetragonal']	0	1	Bi(Zn0.5V0.5)O3
+2549	Sc	1.0	_	0.0	Ni	0.5	Mn	0.5	monoclinic	['monoclinic']	0	1	Sc2Ni(MnO6)
+2550	Pr	1.0	_	0.0	Zn	0.5	Ti	0.5	monoclinic	['monoclinic']	0	1	Pr2(ZnTi)O6
+2551	Gd	1.0	_	0.0	Zn	0.5	Ti	0.5	monoclinic	['monoclinic']	0	1	Gd2(ZnTi)O6
+2552	Ba	1.0	_	0.0	Ti	0.96	Sn	0.04	tetragonal	['tetragonal', 'orthorhombic']	1	2	Ba(Ti0.96Sn0.04)O3
+2554	Tb	1.0	_	0.0	Mn	0.9	Fe	0.1	orthorhombic	['orthorhombic']	0	1	Tb(Mn0.9Fe0.1)O3
+2555	Tb	1.0	_	0.0	Mn	0.7	Fe	0.3	orthorhombic	['orthorhombic']	0	1	Tb(Mn0.7Fe0.3)O3
+2556	Tb	1.0	_	0.0	Mn	0.5	Fe	0.5	orthorhombic	['orthorhombic']	0	1	Tb(Mn0.5Fe0.5)O3
+2557	Tb	1.0	_	0.0	Mn	0.3	Fe	0.7	orthorhombic	['orthorhombic']	0	1	Tb(Mn0.3Fe0.7)O3
+2558	Tb	1.0	_	0.0	Mn	0.1	Fe	0.9	orthorhombic	['orthorhombic']	0	1	Tb(Mn0.1Fe0.9)O3
+2564	Sr	1.0	_	0.0	Cr	0.5	Re	0.5	tetragonal	['tetragonal']	0	1	Sr2(CrRe)O6
+2565	Sr	1.0	_	0.0	Fe	0.67	Te	0.33	tetragonal	['tetragonal']	0	1	Sr(Fe0.67Te0.33)O3
+2567	Sr	0.94	Ca	0.06	Mo	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.94Ca0.06)MoO3
+2568	Sr	0.9	Ca	0.1	Mo	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.9Ca0.1)MoO3
+2569	Sr	0.86	Ca	0.14	Mo	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.86Ca0.14)MoO3
+2570	Sr	0.84	Ca	0.16	Mo	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.84Ca0.16)MoO3
+2571	Sr	0.82	Ca	0.18	Mo	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.82Ca0.18)MoO3
+2574	Ba	1.0	_	0.0	Ce	0.8	Pr	0.2	orthorhombic	['orthorhombic']	0	1	Ba(Ce0.8Pr0.2)O3
+2576	Ba	1.0	_	0.0	Ce	0.6	Pr	0.4	orthorhombic	['orthorhombic']	0	1	Ba(Ce0.6Pr0.4)O3
+2578	Ba	1.0	_	0.0	Ce	0.4	Pr	0.6	orthorhombic	['orthorhombic']	0	1	Ba(Ce0.4Pr0.6)O3
+2580	Ba	1.0	_	0.0	Ce	0.2	Pr	0.8	orthorhombic	['orthorhombic']	0	1	Ba(Ce0.2Pr0.8)O3
+2582	Ba	1.0	_	0.0	Sc	0.425	Ru	0.575	trigonal	['trigonal']	0	1	Ba2(Sc0.85Ru0.15)RuO6
+2583	Bi	0.5	Y	0.5	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.5Y0.5)CrO3
+2584	Bi	0.8	Y	0.2	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.8Y0.2)CrO3
+2585	Bi	0.95	Y	0.05	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.95Y0.05)CrO3
+2586	La	0.9	Gd	0.1	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	La0.9Gd0.1(MnO3)
+2587	La	0.8	Gd	0.2	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	La0.8Gd0.2(MnO3)
+2588	La	0.7	Gd	0.3	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	La0.7Gd0.3(MnO3)
+2589	Bi	1.0	_	0.0	Mn	0.7	Cr	0.3	monoclinic	['monoclinic']	0	1	Bi(Mn0.7Cr0.3)O3
+2590	Bi	1.0	_	0.0	Mn	0.6	Cr	0.4	monoclinic	['monoclinic']	0	1	Bi(Mn0.6Cr0.4)O3
+2591	Bi	1.0	_	0.0	Mn	0.5	Cr	0.5	monoclinic	['monoclinic']	0	1	Bi(Mn0.5Cr0.5)O3
+2592	Bi	1.0	_	0.0	Mn	0.4	Cr	0.6	monoclinic	['monoclinic']	0	1	Bi(Mn0.4Cr0.6)O3
+2593	Bi	1.0	_	0.0	Mn	0.3	Cr	0.7	monoclinic	['monoclinic']	0	1	Bi(Mn0.3Cr0.7)O3
+2594	Bi	1.0	_	0.0	Mn	0.2	Cr	0.8	monoclinic	['monoclinic']	0	1	Bi(Mn0.2Cr0.8)O3
+2595	Y	0.75	Ca	0.25	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.75Ca0.25)MnO3
+2597	Dy	0.75	Ca	0.25	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Dy0.75Ca0.25)MnO3
+2598	Ho	0.75	Ca	0.25	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ho0.75Ca0.25)MnO3
+2599	Er	0.75	Ca	0.25	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Er0.75Ca0.25)MnO3
+2600	Nd	0.5	Ba	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.5Ba0.5)MnO3
+2601	Sr	1.0	_	0.0	Pr	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Sr2Pr(SbO6)
+2603	Sr	1.0	_	0.0	Sm	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Sr2Sm(SbO6)
+2612	Sr	1.0	_	0.0	Lu	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Sr2Lu(SbO6)
+2613	Pr	0.9	Sr	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.9Sr0.1)MnO3
+2614	Pr	0.8	Sr	0.2	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.8Sr0.2)MnO3
+2620	Nd	0.95	Tb	0.05	Al	1.0	_	0.0	trigonal	['trigonal']	0	1	(Nd0.95Tb0.05)AlO3
+2621	Nd	0.9	Tb	0.1	Al	1.0	_	0.0	trigonal	['trigonal']	0	1	(Nd0.90Tb0.10)AlO3
+2622	Nd	0.85	Tb	0.15	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.85Tb0.15)AlO3
+2623	Nd	0.8	Tb	0.2	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.8Tb0.2)AlO3
+2624	Nd	0.75	Tb	0.25	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.75Tb0.25)AlO3
+2625	Nd	0.7	Tb	0.3	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.7Tb0.3)AlO3
+2626	Nd	0.6	Tb	0.4	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.6Tb0.4)AlO3
+2627	Nd	0.5	Tb	0.5	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.5Tb0.5)AlO3
+2628	Nd	0.3	Tb	0.7	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.3Tb0.7)AlO3
+2629	Nd	0.97	Dy	0.03	Al	1.0	_	0.0	trigonal	['trigonal']	0	1	(Nd0.97Dy0.03)AlO3
+2631	La	1.0	_	0.0	Co	0.667	Ni	0.33299999999999996	trigonal	['trigonal']	0	1	La(Co0.667Ni0.333)O3
+2633	Sm	1.0	_	0.0	Fe	0.5	Mn	0.5	orthorhombic	['orthorhombic']	0	1	Sm(Fe0.5Mn0.5)O3
+2634	La	0.9	Li	0.1	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.90Li0.10)MnO3
+2635	Ba	0.8	Sr	0.2	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Ba0.8Sr0.2)TiO3
+2637	Yb	1.0	_	0.0	Cr	0.95	Ru	0.05	orthorhombic	['orthorhombic']	0	1	Yb(Cr0.95Ru0.05)O3
+2638	Yb	1.0	_	0.0	Cr	0.9	Ru	0.1	orthorhombic	['orthorhombic']	0	1	Yb(Cr0.9Ru0.1)O3
+2639	Yb	1.0	_	0.0	Cr	0.85	Ru	0.15	orthorhombic	['orthorhombic']	0	1	Yb(Cr0.85Ru0.15)O3
+2640	La	1.0	_	0.0	Li	0.5	Ta	0.5	monoclinic	['monoclinic']	0	1	La2Li(TaO6)
+2641	Mg	0.78	Fe	0.22	Ge	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Mg0.78Fe0.22)GeO3
+2643	Bi	0.8	Sm	0.2	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.8Sm0.2)FeO3
+2644	La	0.78	Ca	0.22	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.78Ca0.22)MnO3
+2647	Sm	0.55	Sr	0.45	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sm0.55Sr0.45)MnO3
+2648	Y	1.0	_	0.0	Co	0.5	Mn	0.5	monoclinic	['monoclinic']	0	1	Y2Co(MnO6)
+2649	Ba	1.0	_	0.0	Zr	0.25	Ti	0.75	cubic	['cubic']	0	1	Ba(Zr0.25Ti0.75)O3
+2650	La	0.6	Ba	0.4	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(La0.6Ba0.4)MnO3
+2652	Ba	1.0	_	0.0	Tb	0.95	Bi	0.05	triclinic	['triclinic']	0	1	Ba(Tb0.95Bi0.05)O3
+2653	Ba	1.0	_	0.0	Tb	0.9	Bi	0.1	triclinic	['triclinic']	0	1	Ba(Tb0.90Bi0.10)O3
+2654	Ba	1.0	_	0.0	Tb	0.85	Bi	0.15	triclinic	['triclinic']	0	1	Ba(Tb0.85Bi0.15)O3
+2655	Ba	1.0	_	0.0	Tb	0.75	Bi	0.25	triclinic	['triclinic']	0	1	Ba(Tb0.75Bi0.25)O3
+2657	Ba	1.0	_	0.0	Tb	0.8	Bi	0.2	triclinic	['triclinic']	0	1	Ba(Tb0.80Bi0.20)O3
+2660	Nd	0.9	Sr	0.1	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.9Sr0.1)CoO3
+2661	Nd	0.85	Sr	0.15	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.85Sr0.15)CoO3
+2662	Nd	0.8	Sr	0.2	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.8Sr0.2)CoO3
+2663	Nd	0.7	Sr	0.3	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.7Sr0.3)CoO3
+2664	Nd	0.6	Sr	0.4	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.6Sr0.4)CoO3
+2665	Nd	0.5	Sr	0.5	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.5Sr0.5)CoO3
+2668	La	1.0	_	0.0	Mn	0.7	Ru	0.3	trigonal	['trigonal']	0	1	La(Mn0.7Ru0.3)O3
+2669	La	1.0	_	0.0	Mn	0.6	Ru	0.4	trigonal	['trigonal']	0	1	La(Mn0.6Ru0.4)O3
+2670	La	1.0	_	0.0	Co	0.95	Ni	0.05	trigonal	['trigonal', 'monoclinic']	1	2	La(Co0.95Ni0.05)O3
+2671	La	1.0	_	0.0	Co	0.9	Ni	0.1	trigonal	['trigonal']	0	1	La(Co0.9Ni0.1)O3
+2672	La	1.0	_	0.0	Co	0.8	Ni	0.2	trigonal	['trigonal']	0	1	La(Co0.8Ni0.2)O3
+2673	La	1.0	_	0.0	Co	0.7	Ni	0.3	trigonal	['trigonal']	0	1	La(Co0.7Ni0.3)O3
+2674	La	1.0	_	0.0	Co	0.6	Ni	0.4	trigonal	['trigonal']	0	1	La(Co0.6Ni0.4)O3
+2676	Dy	0.9	K	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Dy0.9K0.1)MnO3
+2677	Dy	0.8	K	0.2	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Dy0.8K0.2)MnO3
+2678	Dy	0.7	K	0.3	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Dy0.7K0.3)MnO3
+2679	La	1.0	_	0.0	Ga	0.9	Fe	0.1	orthorhombic	['orthorhombic']	0	1	La(Ga0.9Fe0.1)O3
+2680	La	1.0	_	0.0	Ga	0.7	Fe	0.3	orthorhombic	['orthorhombic']	0	1	La(Ga0.7Fe0.3)O3
+2681	La	1.0	_	0.0	Ga	0.6	Fe	0.4	orthorhombic	['orthorhombic']	0	1	La(Ga0.6Fe0.4)O3
+2682	Ho	0.33	Gd	0.67	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ho0.33Gd0.67)CrO3
+2683	Nd	0.8	Ca	0.2	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.8Ca0.2)MnO3
+2688	Nd	0.4	Ca	0.6	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.4Ca0.6)MnO3
+2689	Nd	0.2	Ca	0.8	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.2Ca0.8)MnO3
+2692	Ba	0.95	Pb	0.05	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Ba0.95Pb0.05)TiO3
+2695	Pr	0.9	Y	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.9Y0.1)MnO3
+2697	Pr	0.6	Y	0.4	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.6Y0.4)MnO3
+2699	Ba	1.0	_	0.0	Zr	0.05	Ti	0.95	orthorhombic	['orthorhombic']	0	1	Ba(Zr0.05Ti0.95)O3
+2700	Gd	1.0	_	0.0	Mn	0.9	Cr	0.1	orthorhombic	['orthorhombic']	0	1	Gd(Mn0.9Cr0.1)O3
+2701	Gd	1.0	_	0.0	Mn	0.8	Cr	0.2	orthorhombic	['orthorhombic']	0	1	Gd(Mn0.8Cr0.2)O3
+2702	Pr	0.75	Sr	0.25	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.75Sr0.25)MnO3
+2704	Pr	0.65	Sr	0.35	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.65Sr0.35)MnO3
+2707	La	1.0	_	0.0	K	0.5	Nb	0.5	monoclinic	['monoclinic']	0	1	La2K(NbO6)
+2709	Sr	0.925	Ce	0.075	Mn	1.0	_	0.0	cubic	['cubic']	0	1	(Sr0.925Ce0.075)MnO3
+2715	Sr	0.65	Ce	0.35	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.65Ce0.35)MnO3
+2716	Sr	0.6	Ce	0.4	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.6Ce0.4)MnO3
+2717	Y	0.95	Ca	0.05	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.95Ca0.05)(TiO3)
+2718	Y	0.9	Ca	0.1	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.9Ca0.1)(TiO3)
+2719	Y	0.85	Ca	0.15	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.85Ca0.15)(TiO3)
+2720	Y	0.8	Ca	0.2	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.8Ca0.2)(TiO3)
+2721	Y	0.7	Ca	0.3	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.7Ca0.3)(TiO3)
+2722	Y	0.62	Ca	0.38	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.62Ca0.38)(TiO3)
+2723	Y	0.5	Ca	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.5Ca0.5)(TiO3)
+2724	Y	0.25	Ca	0.75	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.25Ca0.75)(TiO3)
+2726	La	0.7	Ag	0.3	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.7Ag0.3)(MnO3)
+2727	La	1.0	_	0.0	Cr	0.9	Ti	0.1	orthorhombic	['orthorhombic']	0	1	La((Cr0.90Ti0.10)O3)
+2733	Bi	0.85	Sm	0.15	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.85Sm0.15)FeO3
+2735	La	0.875	Na	0.125	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.875Na0.125)(MnO3)
+2738	Ca	0.98	Dy	0.02	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.98Dy0.02)(MnO3)
+2740	Sr	1.0	_	0.0	Ta	0.01	Ti	0.99	cubic	['cubic']	0	1	Sr(Ta0.01Ti0.99)O3
+2741	Sr	1.0	_	0.0	Ta	0.05	Ti	0.95	cubic	['cubic']	0	1	Sr(Ta0.05Ti0.95)O3
+2742	Sr	1.0	_	0.0	Ta	0.1	Ti	0.9	cubic	['cubic']	0	1	Sr(Ta0.1Ti0.9)O3
+2743	Ca	0.75	Sr	0.25	Hf	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.75Sr0.25)(HfO3)
+2744	Ca	0.5	Sr	0.5	Hf	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.5Sr0.5)(HfO3)
+2745	Ca	0.25	Sr	0.75	Hf	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.25Sr0.75)(HfO3)
+2752	Bi	0.85	Nd	0.15	Fe	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Bi0.85Nd0.15)(FeO3)
+2753	Ba	0.4	Sr	0.6	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.4Sr0.6)(TiO3)
+2754	Ba	0.2	Sr	0.8	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.2Sr0.8)(TiO3)
+2755	Sr	1.0	_	0.0	Mn	0.166	U	0.8340000000000001	orthorhombic	['orthorhombic']	0	1	Sr(Mn0.166U0.834)O3
+2756	Sr	1.0	_	0.0	Fe	0.128	U	0.872	orthorhombic	['orthorhombic']	0	1	Sr(Fe0.128U0.872)O3
+2757	Sr	1.0	_	0.0	Co	0.212	U	0.7879999999999999	orthorhombic	['orthorhombic']	0	1	Sr(Co0.212U0.788)O3
+2758	Sr	1.0	_	0.0	Ni	0.20600000000000002	U	0.794	orthorhombic	['orthorhombic']	0	1	Sr(Ni0.206U0.794)O3
+2759	Sr	1.0	_	0.0	Zn	0.23600000000000002	U	0.764	orthorhombic	['orthorhombic']	0	1	Sr(Zn0.236U0.764)O3
+2762	Ca	0.8	Sm	0.2	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.8Sm0.2)(MnO3)
+2764	Ca	0.7	Sm	0.3	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.7Sm0.3)(MnO3)
+2766	Ca	0.6	Sm	0.4	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.6Sm0.4)(MnO3)
+2777	Sr	1.0	_	0.0	Gd	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Sr2Gd(RuO6)
+2785	Sr	1.0	_	0.0	Eu	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Sr2Eu(RuO6)
+2788	La	0.65	Ba	0.35	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.65Ba0.35)(MnO3)
+2789	Bi	1.0	_	0.0	Fe	0.85	Mn	0.15	orthorhombic	['orthorhombic']	0	1	Bi((Fe0.85Mn0.15)O3)
+2793	La	0.3	Sr	0.7	Co	1.0	_	0.0	cubic	['cubic']	0	1	(La0.3Sr0.7)CoO3
+2794	La	0.2	Sr	0.8	Co	1.0	_	0.0	cubic	['cubic']	0	1	(La0.2Sr0.8)CoO3
+2795	La	0.1	Sr	0.9	Co	1.0	_	0.0	cubic	['cubic']	0	1	(La0.1Sr0.9)CoO3
+2796	La	1.0	_	0.0	Cr	0.95	Mg	0.05	orthorhombic	['orthorhombic']	0	1	La(Cr0.95Mg0.05)O3
+2797	La	1.0	_	0.0	Cr	0.9	Mg	0.1	orthorhombic	['orthorhombic']	0	1	La(Cr0.9Mg0.1)O3
+2798	La	1.0	_	0.0	Cr	0.85	Mg	0.15	orthorhombic	['orthorhombic']	0	1	La(Cr0.85Mg0.15)O3
+2799	La	1.0	_	0.0	Cr	0.8	Mg	0.2	orthorhombic	['orthorhombic']	0	1	La(Cr0.8Mg0.2)O3
+2800	La	0.95	Al	0.05	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.95Al0.05)(FeO3)
+2801	La	0.9	Al	0.1	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.9Al0.1)(FeO3)
+2802	La	0.85	Al	0.15	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.85Al0.15)(FeO3)
+2803	La	0.8	Al	0.2	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.8Al0.2)(FeO3)
+2805	Sr	1.0	_	0.0	Ti	0.9	Zr	0.1	tetragonal	['tetragonal']	0	1	Sr((Ti0.9Zr0.1)O3)
+2806	Sr	1.0	_	0.0	Ti	0.8	Zr	0.2	tetragonal	['tetragonal']	0	1	Sr((Ti0.8Zr0.2)O3)
+2807	Sr	1.0	_	0.0	Ti	0.7	Zr	0.3	tetragonal	['tetragonal']	0	1	Sr((Ti0.70Zr0.30)O3)
+2808	Sr	1.0	_	0.0	Ti	0.6	Zr	0.4	tetragonal	['tetragonal']	0	1	Sr((Ti0.60Zr0.40)O3)
+2809	Sr	1.0	_	0.0	Ti	0.5	Zr	0.5	tetragonal	['tetragonal']	0	1	Sr((Ti0.50Zr0.50)O3)
+2810	Sr	1.0	_	0.0	Ti	0.4	Zr	0.6	orthorhombic	['orthorhombic']	0	1	Sr((Ti0.40Zr0.60)O3)
+2811	Sr	1.0	_	0.0	Ti	0.3	Zr	0.7	orthorhombic	['orthorhombic']	0	1	Sr((Ti0.30Zr0.70)O3)
+2812	Sr	1.0	_	0.0	Ti	0.2	Zr	0.8	orthorhombic	['orthorhombic']	0	1	Sr((Ti0.20Zr0.80)O3)
+2813	Sr	1.0	_	0.0	Ti	0.1	Zr	0.9	orthorhombic	['orthorhombic']	0	1	Sr((Ti0.10Zr0.90)O3)
+2817	Eu	0.5	Sr	0.5	Co	1.0	_	0.0	cubic	['cubic']	0	1	(Eu0.5Sr0.5)CoO3
+2818	Eu	0.75	Y	0.25	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Eu0.75Y0.25)(MnO3)
+2825	La	0.85	Ag	0.15	Mn	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic']	1	2	(La0.85Ag0.15)(MnO3)
+2829	Ho	0.5	Ca	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ho0.5Ca0.5)(MnO3)
+2830	La	0.9	K	0.1	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.9K0.1)(MnO3)
+2831	La	0.875	K	0.125	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.875K0.125)(MnO3)
+2834	Ba	0.99	Sr	0.01	Sn	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.99Sr0.01)(SnO3)
+2835	Ba	0.95	Sr	0.05	Sn	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.95Sr0.05)(SnO3)
+2843	Ca	0.99	Cu	0.01	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.99Cu0.01)(TiO3)
+2844	Ca	0.98	Cu	0.02	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.98Cu0.02)(TiO3)
+2845	La	0.32	Eu	0.68	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.32Eu0.68)(MnO3)
+2846	Eu	0.8	Y	0.2	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Eu0.8Y0.2)(MnO3)
+2847	Dy	1.0	_	0.0	Mn	0.5	Co	0.5	orthorhombic	['orthorhombic']	0	1	Dy(Mn0.5Co0.5)O3
+2853	Bi	0.7	La	0.3	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.7La0.3)(FeO3)
+2857	Sr	0.98	Pr	0.02	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Sr0.98Pr0.02)(TiO3)
+2858	Sr	0.95	Pr	0.05	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Sr0.95Pr0.05)(TiO3)
+2861	Sr	1.0	_	0.0	Ir	0.8	Co	0.2	orthorhombic	['orthorhombic']	0	1	Sr((Ir0.8Co0.2)O3)
+2862	Sr	1.0	_	0.0	Ir	0.75	Co	0.25	orthorhombic	['orthorhombic']	0	1	Sr((Ir0.75Co0.25)O3)
+2863	Sr	1.0	_	0.0	Ir	0.8	Ni	0.2	orthorhombic	['orthorhombic']	0	1	Sr((Ir0.8Ni0.2)O3)
+2864	Sr	1.0	_	0.0	Ir	0.78	Ni	0.22	orthorhombic	['orthorhombic']	0	1	Sr((Ir0.78Ni0.22)O3)
+2865	Sr	1.0	_	0.0	Ir	0.8	Zn	0.2	orthorhombic	['orthorhombic']	0	1	Sr((Ir0.8Zn0.2)O3)
+2866	Sr	1.0	_	0.0	Ir	0.75	Zn	0.25	orthorhombic	['orthorhombic']	0	1	Sr((Ir0.75Zn0.25)O3)
+2867	Sr	0.9	Pr	0.1	Mn	1.0	_	0.0	cubic	['cubic']	0	1	(Sr0.9Pr0.1)(MnO3)
+2868	Sr	0.85	Pr	0.15	Mn	1.0	_	0.0	cubic	['cubic']	0	1	(Sr0.85Pr0.15)(MnO3)
+2869	Sr	0.825	Pr	0.175	Mn	1.0	_	0.0	cubic	['cubic']	0	1	(Sr0.825Pr0.175)(MnO3)
+2870	Sr	0.8	Pr	0.2	Mn	1.0	_	0.0	cubic	['cubic']	0	1	(Sr0.8Pr0.2)(MnO3)
+2871	Sr	0.75	Pr	0.25	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.75Pr0.25)(MnO3)
+2872	Sr	0.7	Pr	0.3	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.7Pr0.3)(MnO3)
+2874	Sr	0.6	Pr	0.4	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.6Pr0.4)(MnO3)
+2875	Sr	0.55	Pr	0.45	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.55Pr0.45)(MnO3)
+2876	Sr	0.525	Pr	0.475	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.525Pr0.475)(MnO3)
+2877	Sr	0.5	Pr	0.5	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.5Pr0.5)(MnO3)
+2878	Sr	0.475	Pr	0.525	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.475Pr0.525)(MnO3)
+2879	Sr	0.45	Pr	0.55	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.45Pr0.55)(MnO3)
+2880	Sr	0.425	Pr	0.575	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.425Pr0.575)(MnO3)
+2881	Sr	0.4	Pr	0.6	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.4Pr0.6)(MnO3)
+2883	Pr	0.6	Sr	0.4	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.6Sr0.4)(FeO3)
+2885	La	0.667	Zn	0.33299999999999996	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.667Zn0.333)(MnO3)
+2886	Bi	0.89	Ca	0.11	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.89Ca0.11)(FeO3)
+2887	Bi	0.86	Ca	0.14	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.86Ca0.14)(FeO3)
+2889	Ca	1.0	_	0.0	Ti	0.5	Cr	0.5	orthorhombic	['orthorhombic']	0	1	Ca2((TiCr)O6)
+2894	La	0.25	Sr	0.75	Mn	1.0	_	0.0	cubic	['cubic', 'trigonal']	1	2	(La0.25Sr0.75)(MnO3)
+2898	La	0.15	Sr	0.85	Mn	1.0	_	0.0	cubic	['cubic', 'trigonal']	1	2	(La0.15Sr0.85)(MnO3)
+2902	Dy	1.0	_	0.0	Al	0.9259999999999999	Cr	0.07400000000000001	orthorhombic	['orthorhombic']	0	1	Dy(Al0.926Cr0.074)O3
+2905	Y	0.93	Ca	0.07	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.93Ca0.07)(MnO3)
+2906	Y	0.45	Ca	0.55	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.45Ca0.55)(MnO3)
+2907	Y	0.35	Ca	0.65	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.35Ca0.65)(MnO3)
+2908	Ba	0.95	Sr	0.05	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Ba0.95Sr0.05)(TiO3)
+2909	Ba	0.9	Sr	0.1	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Ba0.9Sr0.1)(TiO3)
+2910	Ba	0.85	Sr	0.15	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Ba0.85Sr0.15)(TiO3)
+2912	Bi	0.6	Sr	0.4	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Bi0.6Sr0.4)(MnO3)
+2913	Bi	0.55	Sr	0.45	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Bi0.55Sr0.45)(MnO3)
+2915	Bi	0.45	Sr	0.55	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Bi0.45Sr0.55)(MnO3)
+2916	Bi	0.825	Nd	0.175	Fe	1.0	_	0.0	triclinic	['triclinic']	0	1	(Bi0.825Nd0.175)(FeO3)
+2924	Sr	1.0	_	0.0	Ru	0.33	Fe	0.67	cubic	['cubic']	0	1	Sr(Ru0.33Fe0.67)O3
+2925	Bi	0.85	Pr	0.15	Fe	1.0	_	0.0	triclinic	['triclinic']	0	1	(Bi0.85Pr0.15)FeO3
+2926	Bi	0.75	Pr	0.25	Fe	1.0	_	0.0	triclinic	['triclinic']	0	1	(Bi0.75Pr0.25)FeO3
+2928	La	1.0	_	0.0	Co	0.95	Fe	0.05	trigonal	['trigonal']	0	1	La((Co0.95Fe0.05)O3)
+2929	La	1.0	_	0.0	Co	0.9	Fe	0.1	trigonal	['trigonal']	0	1	La((Co0.9Fe0.1)O3)
+2930	La	1.0	_	0.0	Co	0.85	Fe	0.15	trigonal	['trigonal']	0	1	La((Co0.85Fe0.15)O3)
+2931	La	1.0	_	0.0	Co	0.8	Fe	0.2	trigonal	['trigonal']	0	1	La((Co0.8Fe0.2)O3)
+2932	La	1.0	_	0.0	Co	0.75	Fe	0.25	trigonal	['trigonal']	0	1	La((Co0.75Fe0.25)O3)
+2934	Yb	0.1	Ca	0.9	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Yb0.1Ca0.9)(MnO3)
+2935	Yb	0.2	Ca	0.8	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Yb0.2Ca0.8)(MnO3)
+2936	Y	0.75	Gd	0.25	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.75Gd0.25)(FeO3)
+2937	Y	0.5	Gd	0.5	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.5Gd0.5)(FeO3)
+2938	Y	0.25	Gd	0.75	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Y0.25Gd0.75)(FeO3)
+2940	Sm	0.6	Sr	0.4	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sm0.6Sr0.4)(MnO3)
+2941	Bi	0.6	Ca	0.4	Fe	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Bi0.6Ca0.4)(FeO3)
+2942	Bi	0.5	Ca	0.5	Fe	1.0	_	0.0	tetragonal	['tetragonal', 'cubic']	1	2	(Bi0.5Ca0.5)(FeO3)
+2945	Tb	1.0	_	0.0	Mn	0.5	Cr	0.5	orthorhombic	['orthorhombic']	0	1	Tb(Mn0.5Cr0.5)O3
+2946	La	0.65	Ca	0.35	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.65Ca0.35)(MnO3)
+2951	Dy	1.0	_	0.0	Ni	0.5	Mn	0.5	monoclinic	['monoclinic']	0	1	Dy2Ni(MnO6)
+2953	La	0.53	Sr	0.47	Mn	1.0	_	0.0	cubic	['cubic']	0	1	(La0.53Sr0.47)(MnO3)
+2959	La	1.0	_	0.0	Mn	0.95	Ti	0.05	trigonal	['trigonal']	0	1	La(Mn0.95Ti0.05)O3
+2960	La	1.0	_	0.0	Mn	0.9	Ti	0.1	trigonal	['trigonal']	0	1	La(Mn0.9Ti0.1)O3
+2961	La	1.0	_	0.0	Mn	0.85	Ti	0.15	trigonal	['trigonal']	0	1	La(Mn0.85Ti0.15)O3
+2962	La	1.0	_	0.0	Mn	0.8	Ti	0.2	trigonal	['trigonal']	0	1	La(Mn0.8Ti0.2)O3
+2963	Bi	0.75	Sr	0.25	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'monoclinic']	1	2	(Bi0.75Sr0.25)(MnO3)
+2964	Li	0.5	Nd	0.5	Ti	1.0	_	0.0	monoclinic	['monoclinic', 'orthorhombic']	1	2	(Li0.5Nd0.5)(TiO3)
+2968	Bi	0.6	Nd	0.4	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.6Nd0.4)(FeO3)
+2969	Bi	0.7	Nd	0.3	Fe	1.0	_	0.0	orthorhombic	['orthorhombic', 'triclinic']	1	2	(Bi0.7Nd0.3)(FeO3)
+2970	Sr	0.9	Ba	0.1	Ru	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.9Ba0.1)(RuO3)
+2971	Sr	1.0	_	0.0	Ru	0.9	Ti	0.1	orthorhombic	['orthorhombic']	0	1	Sr((Ru0.9Ti0.1)O3)
+2974	La	0.9	Pb	0.1	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.9Pb0.1)(FeO3)
+2975	La	1.0	_	0.0	Co	0.31	Mn	0.69	orthorhombic	['orthorhombic']	0	1	La((Co0.31Mn0.69)O3)
+2978	La	1.0	_	0.0	Co	0.32	Mn	0.68	orthorhombic	['orthorhombic', 'trigonal']	1	2	La((Co0.32Mn0.68)O3)
+2981	Tb	1.0	_	0.0	Fe	0.5	Mn	0.5	orthorhombic	['orthorhombic']	0	1	Tb(Fe0.5Mn0.5)O3
+2984	Nd	0.86	Na	0.14	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.86Na0.14)(MnO3)
+2985	Nd	0.855	K	0.145	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.855K0.145)(MnO3)
+2994	Bi	0.75	Ba	0.25	Fe	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Bi0.75Ba0.25)(FeO3)
+2999	Bi	0.825	Pb	0.175	Fe	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Bi0.825Pb0.175)(FeO3)
+3000	Bi	0.5	Sr	0.5	Fe	1.0	_	0.0	cubic	['cubic', 'tetragonal']	1	2	(Bi0.5Sr0.5)(FeO3)
+3009	Sr	1.0	_	0.0	Fe	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Sr2Fe(RuO6)
+3011	La	1.0	_	0.0	Co	0.5	Cr	0.5	trigonal	['trigonal']	0	1	La(Co0.5Cr0.5)O3
+3013	La	1.0	_	0.0	Zn	0.5	Mn	0.5	orthorhombic	['orthorhombic']	0	1	La2Zn(MnO6)
+3018	Bi	0.77	Ca	0.23	Fe	1.0	_	0.0	cubic	['cubic']	0	1	(Bi0.770Ca0.230)FeO3
+3019	Y	1.0	_	0.0	Cr	0.85	Mn	0.15	orthorhombic	['orthorhombic']	0	1	Y(Cr0.85Mn0.15)O3
+3024	La	0.9620000000000001	Sr	0.038	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.962Sr0.038)CoO3
+3025	Sm	1.0	_	0.0	Fe	0.9	Mn	0.1	orthorhombic	['orthorhombic']	0	1	Sm(Fe0.9Mn0.1)O3
+3026	Sm	1.0	_	0.0	Fe	0.7	Mn	0.3	orthorhombic	['orthorhombic']	0	1	Sm(Fe0.7Mn0.3)O3
+3030	Na	0.5	Gd	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Na0.5Gd0.5)TiO3
+3031	La	1.0	_	0.0	Co	0.75	Nb	0.25	monoclinic	['monoclinic']	0	1	La(Co0.75Nb0.25)O3
+3032	La	1.0	_	0.0	Co	0.8	Nb	0.2	orthorhombic	['orthorhombic']	0	1	La(Co0.8Nb0.2)O3
+3033	La	1.0	_	0.0	Co	0.85	Nb	0.15	orthorhombic	['orthorhombic']	0	1	La(Co0.85Nb0.15)O3
+3035	Bi	0.8	Gd	0.2	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.8Gd0.2)FeO3
+3036	Pb	1.0	_	0.0	Fe	0.67	W	0.33	cubic	['cubic']	0	1	Pb(Fe0.67W0.33)O3
+3037	K	0.85	Ba	0.15	Ta	1.0	_	0.0	cubic	['cubic']	0	1	(K0.85Ba0.15)TaO3
+3040	Sr	1.0	_	0.0	Fe	0.39	Mo	0.61	tetragonal	['tetragonal']	0	1	Sr2(Fe0.78Mo1.22)O6
+3041	Pr	0.9	Ca	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.9Ca0.1)MnO3
+3042	Y	1.0	_	0.0	Co	0.5	Fe	0.5	orthorhombic	['orthorhombic']	0	1	Y(Co0.5Fe0.5)O3
+3043	Dy	1.0	_	0.0	Fe	0.6	Mn	0.4	orthorhombic	['orthorhombic']	0	1	Dy(Fe0.6Mn0.4)O3
+3046	La	0.925	Ag	0.075	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.925Ag0.075)MnO3
+3047	La	0.9	Ag	0.1	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.9Ag0.1)MnO3
+3048	La	0.875	Ag	0.125	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.875Ag0.125)MnO3
+3050	Ho	1.0	_	0.0	Fe	0.8	Cr	0.2	orthorhombic	['orthorhombic']	0	1	Ho(Fe0.8Cr0.2)O3
+3051	Ho	1.0	_	0.0	Fe	0.6	Cr	0.4	orthorhombic	['orthorhombic']	0	1	Ho(Fe0.6Cr0.4)O3
+3052	Ho	1.0	_	0.0	Fe	0.4	Cr	0.6	orthorhombic	['orthorhombic']	0	1	Ho(Fe0.4Cr0.6)O3
+3053	Ho	1.0	_	0.0	Fe	0.2	Cr	0.8	orthorhombic	['orthorhombic']	0	1	Ho(Fe0.2Cr0.8)O3
+3054	La	0.75	Ba	0.25	Co	1.0	_	0.0	orthorhombic	['orthorhombic', 'trigonal']	1	2	(La0.75Ba0.25)CoO3
+3061	Pr	1.0	_	0.0	Fe	0.667	Mo	0.33299999999999996	orthorhombic	['orthorhombic']	0	1	Pr(Fe0.667Mo0.333)O3
+3062	Ce	1.0	_	0.0	Fe	0.667	Mo	0.33299999999999996	orthorhombic	['orthorhombic']	0	1	Ce(Fe0.667Mo0.333)O3
+3064	Ho	0.67	Gd	0.33	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ho0.67Gd0.33)CrO3
+3067	La	1.0	_	0.0	Sc	0.43	Lu	0.57	orthorhombic	['orthorhombic']	0	1	La(Sc0.43Lu0.57)O3
+3068	La	1.0	_	0.0	Sc	0.35	Lu	0.65	orthorhombic	['orthorhombic']	0	1	La(Sc0.35Lu0.65)O3
+3069	La	1.0	_	0.0	Sc	0.265	Lu	0.735	orthorhombic	['orthorhombic']	0	1	La(Sc0.265Lu0.735)O3
+3073	Sr	0.5	Ca	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'tetragonal', 'cubic']	1	3	(Sr0.5Ca0.5)(MnO3)
+3080	Pr	1.0	_	0.0	Co	0.95	Ni	0.05	orthorhombic	['orthorhombic']	0	1	Pr(Co0.95Ni0.05)O3
+3081	Nd	1.0	_	0.0	Co	0.95	Ni	0.05	orthorhombic	['orthorhombic']	0	1	Nd(Co0.95Ni0.05)O3
+3082	Sm	1.0	_	0.0	Co	0.95	Ni	0.05	orthorhombic	['orthorhombic']	0	1	Sm(Co0.95Ni0.05)O3
+3083	Gd	1.0	_	0.0	Co	0.95	Ni	0.05	orthorhombic	['orthorhombic']	0	1	Gd(Co0.95Ni0.05)O3
+3084	Dy	1.0	_	0.0	Co	0.95	Ni	0.05	orthorhombic	['orthorhombic']	0	1	Dy(Co0.95Ni0.05)O3
+3089	Ba	1.0	_	0.0	Pr	0.5	Sb	0.5	trigonal	['trigonal']	0	1	Ba2(PrSbO6)
+3092	Sr	1.0	_	0.0	Cu	0.5	Os	0.5	tetragonal	['tetragonal']	0	1	Sr2(CuOsO6)
+3093	Sr	0.8	Ca	0.2	Cr	1.0	_	0.0	cubic	['cubic']	0	1	(Sr0.8Ca0.2)(CrO3)
+3094	Sr	0.6	Ca	0.4	Cr	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.6Ca0.4)(CrO3)
+3095	Sr	0.5	Ca	0.5	Cr	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.5Ca0.5)(CrO3)
+3096	Sr	0.4	Ca	0.6	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.4Ca0.6)(CrO3)
+3097	Sr	0.2	Ca	0.8	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.2Ca0.8)(CrO3)
+3103	Sr	0.9	Nd	0.1	Mn	1.0	_	0.0	cubic	['cubic']	0	1	(Sr0.9Nd0.1)MnO3
+3105	Sr	0.8	Nd	0.2	Mn	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.8Nd0.2)MnO3
+3106	Ca	0.8	Nd	0.2	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.8Nd0.2)MnO3
+3107	Sr	0.9	La	0.1	Ru	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.9La0.1)(RuO3)
+3108	Sr	0.8	La	0.2	Ru	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.8La0.2)(RuO3)
+3109	Sr	0.7	La	0.3	Ru	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.7La0.3)(RuO3)
+3110	Sr	0.6	La	0.4	Ru	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.6La0.4)(RuO3)
+3111	Sr	0.5	La	0.5	Ru	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.5La0.5)(RuO3)
+3114	Sr	1.0	_	0.0	Dy	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Sr2Dy(RuO6)
+3115	La	0.63	Ca	0.37	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.63Ca0.37)MnO3
+3122	Ba	0.96	Nd	0.04	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Ba0.96Nd0.04)TiO3
+3123	Ba	0.9	Nd	0.1	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.9Nd0.1)TiO3
+3125	La	0.9	Gd	0.1	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.9Gd0.1)FeO3
+3130	La	0.8	Na	0.2	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.8Na0.2)MnO3
+3131	Ba	1.0	_	0.0	Ti	0.995	Cr	0.005	tetragonal	['tetragonal', 'cubic']	1	2	Ba(Ti0.995Cr0.005)O3
+3132	Ba	1.0	_	0.0	Ti	0.975	Cr	0.025	tetragonal	['tetragonal', 'cubic']	1	2	Ba(Ti0.975Cr0.025)O3
+3133	Ba	1.0	_	0.0	Ti	0.95	Cr	0.05	tetragonal	['tetragonal', 'cubic']	1	2	Ba(Ti0.95Cr0.05)O3
+3138	La	0.375	Ca	0.625	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.375Ca0.625)MnO3
+3141	La	0.99	Bi	0.01	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.99Bi0.01)(MnO3)
+3142	La	0.98	Bi	0.02	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.98Bi0.02)(MnO3)
+3143	La	0.97	Bi	0.03	Mn	1.0	_	0.0	cubic	['cubic']	0	1	(La0.97Bi0.03)(MnO3)
+3144	La	0.96	Bi	0.04	Mn	1.0	_	0.0	cubic	['cubic']	0	1	(La0.96Bi0.04)(MnO3)
+3145	La	0.95	Bi	0.05	Mn	1.0	_	0.0	cubic	['cubic']	0	1	(La0.95Bi0.05)(MnO3)
+3146	Nd	1.0	_	0.0	Fe	0.7	Co	0.3	orthorhombic	['orthorhombic']	0	1	Nd(Fe0.7Co0.3)O3
+3148	Pr	1.0	_	0.0	Ni	0.5	Zr	0.5	monoclinic	['monoclinic']	0	1	Pr2Ni(ZrO6)
+3152	Ba	1.0	_	0.0	Ti	0.5	Mo	0.5	cubic	['cubic']	0	1	Ba(Ti0.5Mo0.5)O3
+3158	Ba	1.0	_	0.0	Ru	0.667	Bi	0.33299999999999996	monoclinic	['monoclinic']	0	1	Ba3(Ru2Bi)O9
+3159	Ba	1.0	_	0.0	Ru	0.335	Bi	0.665	monoclinic	['monoclinic']	0	1	Ba2(Ru0.67Bi1.33)O6
+3160	Ba	0.9	Sr	0.1	Ru	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(Ba0.9Sr0.1)RuO3
+3161	Ba	0.8	Sr	0.2	Ru	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(Ba0.8Sr0.2)RuO3
+3162	Ba	0.7	Sr	0.3	Ru	1.0	_	0.0	hexagonal	['hexagonal']	0	1	(Ba0.7Sr0.3)RuO3
+3163	Ba	0.4	Sr	0.6	Ru	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Ba0.4Sr0.6)RuO3
+3164	Pb	1.0	_	0.0	Hg	0.5	Cr	0.5	triclinic	['triclinic']	0	1	Pb2Hg(CrO6)
+3171	Ho	0.5	Cr	0.5	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(HoCr)B2O6
+3172	Mg	0.75	Ca	0.25	C	1.0	_	0.0	trigonal	['trigonal']	0	1	(Mg3Ca)(CO3)4
+3174	Fe	0.9	Ga	0.1	B	1.0	_	0.0	trigonal	['trigonal']	0	1	(Fe0.9Ga0.1)BO3
+3175	Fe	0.65	Mg	0.35	C	1.0	_	0.0	trigonal	['trigonal']	0	1	(Fe0.65Mg0.35)(CO3)
+3176	Er	1.0	_	0.0	Fe	0.7	Al	0.3	orthorhombic	['orthorhombic']	0	1	Er((Fe0.7Al0.3)O3)
+3177	Er	1.0	_	0.0	Fe	0.6	Al	0.4	orthorhombic	['orthorhombic']	0	1	Er((Fe0.6Al0.4)O3)
+3178	Er	1.0	_	0.0	Fe	0.97	Ga	0.03	orthorhombic	['orthorhombic']	0	1	Er((Fe0.97Ga0.03)O3)
+3179	Er	1.0	_	0.0	Fe	0.94	Ga	0.06	orthorhombic	['orthorhombic']	0	1	Er((Fe0.94Ga0.06)O3)
+3180	Er	1.0	_	0.0	Fe	0.9	Ga	0.1	orthorhombic	['orthorhombic']	0	1	Er((Fe0.9Ga0.1)O3)
+3181	Er	1.0	_	0.0	Fe	0.85	Ga	0.15	orthorhombic	['orthorhombic']	0	1	Er((Fe0.85Ga0.15)O3)
+3182	Tm	1.0	_	0.0	Fe	0.97	Al	0.03	orthorhombic	['orthorhombic']	0	1	Tm((Fe0.97Al0.03)O3)
+3183	Tm	1.0	_	0.0	Fe	0.94	Al	0.06	orthorhombic	['orthorhombic']	0	1	Tm((Fe0.94Al0.06)O3)
+3184	Tm	1.0	_	0.0	Fe	0.9	Al	0.1	orthorhombic	['orthorhombic']	0	1	Tm((Fe0.9Al0.1)O3)
+3185	Tm	1.0	_	0.0	Fe	0.85	Al	0.15	orthorhombic	['orthorhombic']	0	1	Tm((Fe0.85Al0.15)O3)
+3186	Tm	1.0	_	0.0	Fe	0.97	Ga	0.03	orthorhombic	['orthorhombic']	0	1	Tm((Fe0.97Ga0.03)O3)
+3187	Tm	1.0	_	0.0	Fe	0.94	Ga	0.06	orthorhombic	['orthorhombic']	0	1	Tm((Fe0.94Ga0.06)O3)
+3188	Tm	1.0	_	0.0	Fe	0.9	Ga	0.1	orthorhombic	['orthorhombic']	0	1	Tm((Fe0.9Ga0.1)O3)
+3189	Tm	1.0	_	0.0	Fe	0.85	Ga	0.15	orthorhombic	['orthorhombic']	0	1	Tm((Fe0.85Ga0.15)O3)
+3191	La	0.97	K	0.03	Ni	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.97K0.03)(NiO3)
+3201	Pr	0.9	Pb	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.9Pb0.1)(MnO3)
+3202	Pr	0.8	Pb	0.2	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.8Pb0.2)(MnO3)
+3203	Pr	0.7	Pb	0.3	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.7Pb0.3)(MnO3)
+3204	La	1.0	_	0.0	Mn	0.9	Rh	0.1	orthorhombic	['orthorhombic', 'trigonal']	1	2	La((Mn0.9Rh0.1)O3)
+3217	Bi	0.7	Sr	0.3	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.7Sr0.3)(MnO3)
+3225	Er	0.5	Y	0.5	Al	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Er0.5Y0.5)AlO3
+3228	Ba	1.0	_	0.0	Li	0.4	U	0.6	cubic	['cubic']	0	1	Ba4(Li1.6U0.4)U2O12
+3231	K	0.8	Ba	0.2	Nb	1.0	_	0.0	cubic	['cubic']	0	1	(K0.8Ba0.2)(NbO3)
+3232	K	0.7	Ba	0.3	Nb	1.0	_	0.0	cubic	['cubic']	0	1	(K0.7Ba0.3)(NbO3)
+3233	K	0.6	Ba	0.4	Nb	1.0	_	0.0	cubic	['cubic']	0	1	(K0.6Ba0.4)(NbO3)
+3234	Ba	1.0	_	0.0	Ce	0.5	Bi	0.5	orthorhombic	['orthorhombic']	0	1	Ba((Ce0.5Bi0.5)O3)
+3235	Ba	1.0	_	0.0	Ce	0.1	Bi	0.9	monoclinic	['monoclinic']	0	1	Ba((Ce0.1Bi0.9)O3)
+3240	Ba	1.0	_	0.0	La	0.5	Sb	0.5	monoclinic	['monoclinic']	0	1	Ba2La(SbO6)
+3243	Y	1.0	_	0.0	Ni	0.25	Mn	0.75	orthorhombic	['orthorhombic']	0	1	Y(Ni0.25Mn0.75O3)
+3245	La	1.0	_	0.0	Mn	0.6	Zn	0.4	orthorhombic	['orthorhombic']	0	1	La(Mn0.6Zn0.4)O3
+3250	La	1.0	_	0.0	Mn	0.7	Rh	0.3	orthorhombic	['orthorhombic']	0	1	La(Mn0.7Rh0.3)O3
+3251	La	1.0	_	0.0	Mn	0.3	Rh	0.7	orthorhombic	['orthorhombic']	0	1	La(Mn0.3Rh0.7)O3
+3252	La	1.0	_	0.0	Mn	0.1	Rh	0.9	orthorhombic	['orthorhombic']	0	1	La(Mn0.1Rh0.9)O3
+3254	Pr	1.0	_	0.0	Mn	0.5	Rh	0.5	orthorhombic	['orthorhombic']	0	1	Pr(Mn0.5Rh0.5)O3
+3255	Nd	1.0	_	0.0	Mn	0.5	Rh	0.5	orthorhombic	['orthorhombic']	0	1	Nd(Mn0.5Rh0.5)O3
+3256	Sm	1.0	_	0.0	Mn	0.5	Rh	0.5	orthorhombic	['orthorhombic']	0	1	Sm(Mn0.5Rh0.5)O3
+3257	Eu	1.0	_	0.0	Mn	0.5	Rh	0.5	orthorhombic	['orthorhombic']	0	1	Eu(Mn0.5Rh0.5)O3
+3258	Gd	1.0	_	0.0	Mn	0.5	Rh	0.5	orthorhombic	['orthorhombic']	0	1	Gd(Mn0.5Rh0.5)O3
+3260	Sr	1.0	_	0.0	Ru	0.6	Mn	0.4	tetragonal	['tetragonal']	0	1	Sr((Ru0.6Mn0.4)O3)
+3261	Sr	1.0	_	0.0	Ru	0.4	Mn	0.6	tetragonal	['tetragonal']	0	1	Sr((Ru0.4Mn0.6)O3)
+3262	Nd	0.78	Ba	0.22	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.78Ba0.22)(CoO3)
+3269	La	1.0	_	0.0	Co	0.42	Fe	0.58	orthorhombic	['orthorhombic', 'trigonal']	1	2	La(Co0.42Fe0.58O3)
+3272	Pr	0.9	Ca	0.1	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.9Ca0.1)(FeO3)
+3273	Pr	0.8	Ca	0.2	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.8Ca0.2)(FeO3)
+3278	Gd	0.9	Sr	0.1	Co	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	Gd0.9Sr0.1(CoO3)
+3279	Gd	0.51	Sr	0.49	Co	1.0	_	0.0	cubic	['cubic']	0	1	Gd0.51Sr0.49(CoO3)
+3280	Gd	1.0	_	0.0	Co	0.6	Fe	0.4	orthorhombic	['orthorhombic']	0	1	Gd((Co0.6Fe0.4)O3)
+3281	Gd	1.0	_	0.0	Co	0.4	Fe	0.6	orthorhombic	['orthorhombic']	0	1	Gd((Co0.4Fe0.6)O3)
+3282	Gd	1.0	_	0.0	Co	0.2	Fe	0.8	orthorhombic	['orthorhombic']	0	1	Gd((Co0.2Fe0.8)O3)
+3283	Ba	0.45	Sr	0.55	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.45Sr0.55)(TiO3)
+3293	La	0.01	Ca	0.99	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.01Ca0.99)(MnO3)
+3294	La	0.05	Ca	0.95	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.05Ca0.95)(MnO3)
+3295	La	0.1	Ca	0.9	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.1Ca0.9)(MnO3)
+3298	La	0.3	Ca	0.7	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.3Ca0.7)(MnO3)
+3300	La	0.38	Ca	0.62	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.38Ca0.62)(MnO3)
+3302	La	0.45	Ca	0.55	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.45Ca0.55)(MnO3)
+3308	La	0.9	Ca	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.9Ca0.1)(MnO3)
+3309	La	0.925	Ca	0.075	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.925Ca0.075)(MnO3)
+3311	La	0.99	Ca	0.01	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.99Ca0.01)(MnO3)
+3316	La	0.9	Pr	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.9Pr0.1)(MnO3)
+3317	La	0.8	Pr	0.2	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.8Pr0.2)(MnO3)
+3318	La	0.7	Pr	0.3	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.7Pr0.3)(MnO3)
+3319	La	0.6	Pr	0.4	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.6Pr0.4)(MnO3)
+3320	La	0.5	Pr	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.5Pr0.5)(MnO3)
+3321	La	0.4	Pr	0.6	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.4Pr0.6)(MnO3)
+3322	La	0.2	Pr	0.8	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.2Pr0.8)(MnO3)
+3331	Ba	1.0	_	0.0	Nd	0.25	Mn	0.75	trigonal	['trigonal']	0	1	Ba4(NdMn3)O12
+3337	Pb	0.97	Cd	0.03	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Pb0.97Cd0.03)(TiO3)
+3338	Pb	0.94	Cd	0.06	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Pb0.94Cd0.06)(TiO3)
+3341	Sr	0.33	Eu	0.67	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.33Eu0.67)(MnO3)
+3342	Ba	0.67	Pb	0.33	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Ba0.67Pb0.33)(TiO3)
+3343	La	1.0	_	0.0	Mn	0.7	Cr	0.3	orthorhombic	['orthorhombic']	0	1	La(Mn0.7Cr0.3O3)
+3344	La	1.0	_	0.0	Mn	0.5	Cr	0.5	orthorhombic	['orthorhombic']	0	1	La(Mn0.5Cr0.5O3)
+3345	K	0.91	H	0.09	Nb	1.0	_	0.0	cubic	['cubic']	0	1	K0.91H0.09(NbO3)
+3346	K	0.94	H	0.06	Nb	1.0	_	0.0	tetragonal	['tetragonal']	0	1	K0.94H0.06(NbO3)
+3347	Sr	1.0	_	0.0	Fe	0.67	Re	0.33	orthorhombic	['orthorhombic']	0	1	Sr((Fe0.67Re0.33)O3)
+3350	La	0.92	Ba	0.08	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.92Ba0.08)(CoO3)
+3351	La	0.9	Ba	0.1	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.9Ba0.1)(CoO3)
+3352	La	0.88	Ba	0.12	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.88Ba0.12)(CoO3)
+3353	La	0.85	Ba	0.15	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.85Ba0.15)(CoO3)
+3354	La	0.82	Ba	0.18	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.82Ba0.18)(CoO3)
+3355	La	0.8	Ba	0.2	Co	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic']	1	2	(La0.8Ba0.2)(CoO3)
+3357	La	0.72	Ba	0.28	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.72Ba0.28)(CoO3)
+3358	La	0.7	Ba	0.3	Co	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.7Ba0.3)(CoO3)
+3359	La	0.65	Ba	0.35	Co	1.0	_	0.0	cubic	['cubic']	0	1	(La0.65Ba0.35)(CoO3)
+3360	La	0.6	Ba	0.4	Co	1.0	_	0.0	cubic	['cubic']	0	1	(La0.6Ba0.4)(CoO3)
+3361	La	0.55	Ba	0.45	Co	1.0	_	0.0	cubic	['cubic']	0	1	(La0.55Ba0.45)(CoO3)
+3367	La	1.0	_	0.0	Fe	0.6	Ni	0.4	orthorhombic	['orthorhombic']	0	1	La((Fe0.6Ni0.4)O3)
+3368	La	1.0	_	0.0	Fe	0.65	Ni	0.35	orthorhombic	['orthorhombic']	0	1	La((Fe0.65Ni0.35)O3)
+3369	La	1.0	_	0.0	Fe	0.7	Ni	0.3	orthorhombic	['orthorhombic']	0	1	La((Fe0.7Ni0.3)O3)
+3370	La	1.0	_	0.0	Fe	0.8	Ni	0.2	orthorhombic	['orthorhombic']	0	1	La((Fe0.8Ni0.2)O3)
+3371	La	1.0	_	0.0	Fe	0.85	Ni	0.15	orthorhombic	['orthorhombic']	0	1	La((Fe0.85Ni0.15)O3)
+3372	La	1.0	_	0.0	Fe	0.9	Ni	0.1	orthorhombic	['orthorhombic']	0	1	La((Fe0.9Ni0.1)O3)
+3373	La	1.0	_	0.0	Fe	0.95	Ni	0.05	orthorhombic	['orthorhombic']	0	1	La((Fe0.95Ni0.05)O3)
+3374	La	1.0	_	0.0	Fe	0.2	Ni	0.8	trigonal	['trigonal']	0	1	La((Fe0.2Ni0.8)O3)
+3375	La	1.0	_	0.0	Fe	0.25	Ni	0.75	trigonal	['trigonal']	0	1	La((Fe0.25Ni0.75)O3)
+3376	La	1.0	_	0.0	Fe	0.3	Ni	0.7	trigonal	['trigonal']	0	1	La((Fe0.3Ni0.7)O3)
+3377	La	1.0	_	0.0	Fe	0.4	Ni	0.6	trigonal	['trigonal']	0	1	La((Fe0.4Ni0.6)O3)
+3379	Pr	0.9	Ba	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.9Ba0.1)(MnO3)
+3381	Nd	0.9	Ba	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.9Ba0.1)(MnO3)
+3386	Pb	1.0	_	0.0	Nb	0.5	Fe	0.5	tetragonal	['tetragonal']	0	1	Pb(Nb0.5Fe0.5)O3
+3388	La	0.6	Bi	0.4	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.6Bi0.4)(MnO3)
+3392	La	0.5	Bi	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.5Bi0.5)(MnO3)
+3394	La	0.4	Bi	0.6	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.4Bi0.6)(MnO3)
+3396	Nd	1.0	_	0.0	Mn	0.5	Ni	0.5	monoclinic	['monoclinic']	0	1	Nd((Mn0.5Ni0.5)O3)
+3397	Y	1.0	_	0.0	Mn	0.5	Ni	0.5	monoclinic	['monoclinic']	0	1	Y((Mn0.5Ni0.5)O3)
+3412	Eu	0.67	Sr	0.33	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Eu0.67Sr0.33)(MnO3)
+3413	La	0.67	Li	0.33	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.67Li0.33)(MnO3)
+3414	La	0.67	Na	0.33	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.67Na0.33)(MnO3)
+3417	Pb	0.95	Bi	0.05	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Pb0.95Bi0.05)(TiO3)
+3418	Pb	0.9	Bi	0.1	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Pb0.9Bi0.1)(TiO3)
+3419	La	0.9	Nd	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.9Nd0.1)(MnO3)
+3420	La	0.8	Nd	0.2	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.8Nd0.2)(MnO3)
+3421	La	0.7	Nd	0.3	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.7Nd0.3)(MnO3)
+3422	La	0.6	Nd	0.4	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.6Nd0.4)(MnO3)
+3423	La	0.5	Nd	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.5Nd0.5)(MnO3)
+3424	La	0.4	Nd	0.6	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.4Nd0.6)(MnO3)
+3425	La	0.3	Nd	0.7	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.3Nd0.7)(MnO3)
+3426	La	0.2	Nd	0.8	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.2Nd0.8)(MnO3)
+3427	La	0.1	Nd	0.9	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.1Nd0.9)(MnO3)
+3437	La	0.7	Ce	0.3	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.7Ce0.3)(MnO3)
+3438	La	0.6	Ce	0.4	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.6Ce0.4)(MnO3)
+3439	La	0.5	Ce	0.5	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.5Ce0.5)(MnO3)
+3440	Ba	0.44	Sr	0.56	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.44Sr0.56)(TiO3)
+3441	Pr	0.67	Ca	0.33	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.67Ca0.33)(MnO3)
+3443	Pr	0.67	Pb	0.33	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.67Pb0.33)(MnO3)
+3458	Pr	0.75	Na	0.25	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.75Na0.25)(MnO3)
+3464	Sm	0.2	Ca	0.8	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'monoclinic']	1	2	(Sm0.2Ca0.8)(MnO3)
+3467	Sm	0.15	Ca	0.85	Mn	1.0	_	0.0	orthorhombic	['orthorhombic', 'monoclinic']	1	2	(Sm0.15Ca0.85)(MnO3)
+3470	Sm	0.08	Ca	0.92	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sm0.08Ca0.92)(MnO3)
+3481	Bi	0.55	La	0.45	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.55La0.45)(FeO3)
+3482	Ba	0.996	Y	0.004	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Ba0.996Y0.004)(TiO3)
+3485	Bi	0.7	Gd	0.3	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.7Gd0.3)(FeO3)
+3489	Ba	1.0	_	0.0	Sn	0.22	Mn	0.78	hexagonal	['hexagonal']	0	1	Ba5((Sn1.1Mn3.9)O15)
+3490	La	0.9	Ag	0.1	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.9Ag0.1)(FeO3)
+3491	La	0.8	Ag	0.2	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.8Ag0.2)(FeO3)
+3492	La	0.7	Ag	0.3	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.7Ag0.3)(FeO3)
+3494	Sr	1.0	_	0.0	Co	0.4	Sb	0.6	trigonal	['trigonal']	0	1	Sr2((Co0.8Sb1.2)O6)
+3495	Sr	1.0	_	0.0	Co	0.55	Sb	0.45	monoclinic	['monoclinic']	0	1	Sr2((Co1.1Sb0.9)O6)
+3497	Ca	0.8	Eu	0.2	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.8Eu0.2)(MnO3)
+3498	Ca	0.7	Eu	0.3	Mn	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Ca0.7Eu0.3)(MnO3)
+3499	Ca	0.6	Eu	0.4	Mn	1.0	_	0.0	monoclinic	['monoclinic']	0	1	(Ca0.6Eu0.4)(MnO3)
+3500	La	0.74	Ca	0.26	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.74Ca0.26)(MnO3)
+3505	Bi	0.3	Gd	0.7	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.3Gd0.7)(FeO3)
+3506	La	1.0	_	0.0	Co	0.95	Mg	0.05	trigonal	['trigonal']	0	1	La((Co0.95Mg0.05)O3)
+3507	La	1.0	_	0.0	Co	0.9	Mg	0.1	trigonal	['trigonal']	0	1	La((Co0.9Mg0.1)O3)
+3508	La	1.0	_	0.0	Co	0.85	Mg	0.15	trigonal	['trigonal']	0	1	La((Co0.85Mg0.15)O3)
+3509	La	1.0	_	0.0	Co	0.8	Mg	0.2	trigonal	['trigonal']	0	1	La((Co0.8Mg0.2)O3)
+3515	Sr	1.0	_	0.0	Ru	0.5	Ti	0.5	tetragonal	['tetragonal']	0	1	Sr2Ru(TiO6)
+3516	La	0.95	Ag	0.05	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.95Ag0.05)(MnO3)
+3520	La	0.75	Ag	0.25	Mn	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.75Ag0.25)(MnO3)
+3522	Bi	0.6	Gd	0.4	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.6Gd0.4)(FeO3)
+3523	Bi	0.5	Gd	0.5	Fe	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Bi0.5Gd0.5)(FeO3)
+3538	Y	1.0	_	0.0	Fe	0.7	Co	0.3	orthorhombic	['orthorhombic']	0	1	Y(Fe0.7Co0.3)O3
+3540	Y	1.0	_	0.0	Fe	0.5	Co	0.5	orthorhombic	['orthorhombic']	0	1	Y(Fe0.5Co0.5)O3
+3542	Y	1.0	_	0.0	Fe	0.3	Co	0.7	orthorhombic	['orthorhombic']	0	1	Y(Fe0.3Co0.7)O3
+3545	Y	1.0	_	0.0	Cr	0.99	Al	0.01	orthorhombic	['orthorhombic']	0	1	Y(Cr0.99Al0.01)O3
+3546	Y	1.0	_	0.0	Cr	0.975	Al	0.025	orthorhombic	['orthorhombic']	0	1	Y(Cr0.975Al0.025)O3
+3547	Y	1.0	_	0.0	Cr	0.95	Al	0.05	orthorhombic	['orthorhombic']	0	1	Y(Cr0.950Al0.050)O3
+3548	Y	1.0	_	0.0	Cr	0.925	Al	0.075	orthorhombic	['orthorhombic']	0	1	Y(Cr0.925Al0.075)O3
+3549	Y	1.0	_	0.0	Cr	0.9	Al	0.1	orthorhombic	['orthorhombic']	0	1	Y(Cr0.900Al0.100)O3
+3550	Y	1.0	_	0.0	Cr	0.8	Al	0.2	orthorhombic	['orthorhombic']	0	1	Y(Cr0.800Al0.200)O3
+3552	Ho	1.0	_	0.0	Mn	0.125	Cr	0.875	orthorhombic	['orthorhombic']	0	1	Ho(Mn0.125Cr0.875)O3
+3553	Ho	1.0	_	0.0	Mn	0.25	Cr	0.75	orthorhombic	['orthorhombic']	0	1	Ho(Mn0.25Cr0.75)O3
+3554	Ho	1.0	_	0.0	Mn	0.5	Cr	0.5	orthorhombic	['orthorhombic']	0	1	Ho(Mn0.5Cr0.5)O3
+3555	Ho	1.0	_	0.0	Mn	0.75	Cr	0.25	orthorhombic	['orthorhombic']	0	1	Ho(Mn0.75Cr0.25)O3
+3556	Ho	1.0	_	0.0	Mn	0.875	Cr	0.125	orthorhombic	['orthorhombic']	0	1	Ho(Mn0.875Cr0.125)O3
+3562	Lu	1.0	_	0.0	Ni	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	Lu2Ni(IrO6)
+3563	Sr	0.2	Ba	0.8	Tb	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.2Ba0.8)TbO3
+3564	Dy	0.55	Sr	0.45	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Dy0.55Sr0.45)MnO3
+3565	Th	0.25	Cu	0.75	Mn	1.0	_	0.0	cubic	['cubic']	0	1	(ThCu3)(Mn2Mn2)O12
+3566	Ba	0.5	Sr	0.5	Mo	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.5Sr0.5)MoO3
+3567	Ca	1.0	_	0.0	Y	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Ca2Y(RuO6)
+3568	La	1.0	_	0.0	Cr	0.63	Ni	0.37	orthorhombic	['orthorhombic']	0	1	La(Cr0.63Ni0.37)O3
+3570	Dy	0.5	Na	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Dy0.5Na0.5)(TiO3)
+3571	Ho	0.5	Na	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ho0.5Na0.5)(TiO3)
+3572	Er	0.5	Na	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Er0.5Na0.5)(TiO3)
+3573	Tm	0.5	Na	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Tm0.5Na0.5)(TiO3)
+3574	Yb	0.5	Na	0.5	Ti	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Yb0.5Na0.5)(TiO3)
+3576	Sr	0.5	Ca	0.5	V	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.5Ca0.5)(VO3)
+3581	Ca	1.0	_	0.0	Al	0.5	Ta	0.5	monoclinic	['monoclinic']	0	1	Ca2Al(TaO6)
+3583	La	1.0	_	0.0	Ni	0.5	Rh	0.5	orthorhombic	['orthorhombic']	0	1	La2Ni(RhO6)
+3584	Ca	0.8	Sr	0.2	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.8Sr0.2)(MnO3)
+3585	Ca	0.6	Sr	0.4	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.6Sr0.4)(MnO3)
+3586	Ca	0.5	Sr	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ca0.5Sr0.5)(MnO3)
+3590	La	0.95	Sr	0.05	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.95Sr0.05)(CrO3)
+3591	La	0.85	Sr	0.15	Cr	1.0	_	0.0	trigonal	['trigonal', 'orthorhombic']	1	2	(La0.85Sr0.15)(CrO3)
+3597	Nd	1.0	_	0.0	Ga	0.5	Mn	0.5	orthorhombic	['orthorhombic']	0	1	Nd2Ga(MnO6)
+3601	Sr	1.0	_	0.0	Ti	0.25	Zr	0.75	orthorhombic	['orthorhombic']	0	1	Sr(Ti0.25Zr0.75)O3
+3603	Sr	1.0	_	0.0	Ti	0.35	Zr	0.65	orthorhombic	['orthorhombic']	0	1	Sr(Ti0.35Zr0.65)O3
+3605	Sr	1.0	_	0.0	Ti	0.45	Zr	0.55	tetragonal	['tetragonal']	0	1	Sr(Ti0.45Zr0.55)O3
+3609	Sr	1.0	_	0.0	Ti	0.55	Zr	0.45	tetragonal	['tetragonal']	0	1	Sr(Ti0.55Zr0.45)O3
+3611	Sr	1.0	_	0.0	Ti	0.65	Zr	0.35	tetragonal	['tetragonal']	0	1	Sr(Ti0.65Zr0.35)O3
+3613	Sr	1.0	_	0.0	Ti	0.725	Zr	0.275	tetragonal	['tetragonal']	0	1	Sr(Ti0.725Zr0.275)O3
+3614	Sr	1.0	_	0.0	Ti	0.75	Zr	0.25	tetragonal	['tetragonal']	0	1	Sr(Ti0.75Zr0.25)O3
+3615	Sr	1.0	_	0.0	Ti	0.775	Zr	0.225	tetragonal	['tetragonal']	0	1	Sr(Ti0.775Zr0.225)O3
+3617	Sr	1.0	_	0.0	Ti	0.825	Zr	0.175	tetragonal	['tetragonal']	0	1	Sr(Ti0.825Zr0.175)O3
+3618	Sr	1.0	_	0.0	Ti	0.85	Zr	0.15	tetragonal	['tetragonal']	0	1	Sr(Ti0.85Zr0.15)O3
+3619	Sr	1.0	_	0.0	Ti	0.875	Zr	0.125	tetragonal	['tetragonal']	0	1	Sr(Ti0.875Zr0.125)O3
+3621	Sr	1.0	_	0.0	Ti	0.925	Zr	0.075	tetragonal	['tetragonal']	0	1	Sr(Ti0.925Zr0.075)O3
+3622	Sr	1.0	_	0.0	Ti	0.95	Zr	0.05	tetragonal	['tetragonal']	0	1	Sr(Ti0.95Zr0.05)O3
+3623	La	0.616	Ca	0.384	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.616Ca0.384)(MnO3)
+3624	La	0.642	Ca	0.358	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.642Ca0.358)(MnO3)
+3627	Ca	0.25	Cu	0.75	Ti	1.0	_	0.0	cubic	['cubic']	0	1	(Ca0.25Cu0.75)(TiO3)
+3630	Na	0.7	Sr	0.3	Nb	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Na0.7Sr0.3)(NbO3)
+3631	Na	0.6	Sr	0.4	Nb	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Na0.6Sr0.4)(NbO3)
+3632	Na	0.5	Sr	0.5	Nb	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Na0.5Sr0.5)(NbO3)
+3633	Na	0.4	Sr	0.6	Nb	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Na0.4Sr0.6)(NbO3)
+3634	Na	0.3	Sr	0.7	Nb	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Na0.3Sr0.7)(NbO3)
+3637	Pb	1.0	_	0.0	In	0.5	Nb	0.5	cubic	['cubic']	0	1	Pb(In0.5Nb0.5)O3
+3639	Ba	0.67	Sr	0.33	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Ba0.67Sr0.33)(TiO3)
+3640	Ba	1.0	_	0.0	Lu	0.667	Mo	0.33299999999999996	cubic	['cubic']	0	1	Ba(Lu0.667Mo0.333)O3
+3642	Ba	1.0	_	0.0	Tb	0.667	W	0.33299999999999996	monoclinic	['monoclinic']	0	1	Ba(Tb0.667W0.333)O3
+3645	Nd	0.75	Sm	0.25	Ga	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Nd0.75Sm0.25)(GaO3)
+3648	Pb	1.0	_	0.0	Zr	0.45	Ti	0.55	tetragonal	['tetragonal']	0	1	Pb((Zr0.45Ti0.55)O3)
+3649	Sr	1.0	_	0.0	Tm	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Sr2Tm(RuO6)
+3650	Sr	1.0	_	0.0	Yb	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Sr2Yb(RuO6)
+3651	Sr	0.8	Ba	0.2	Hf	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.8Ba0.2)(HfO3)
+3652	Sr	0.6	Ba	0.4	Hf	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.6Ba0.4)(HfO3)
+3653	Sr	0.4	Ba	0.6	Hf	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Sr0.4Ba0.6)(HfO3)
+3654	Sr	0.2	Ba	0.8	Hf	1.0	_	0.0	cubic	['cubic']	0	1	(Sr0.2Ba0.8)(HfO3)
+3662	La	0.75	Ca	0.25	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.75Ca0.25)(MnO3)
+3667	La	0.5	Na	0.5	Ru	1.0	_	0.0	cubic	['cubic']	0	1	(La0.5Na0.5)(RuO3)
+3670	La	0.89	Sr	0.11	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.89Sr0.11)(MnO3)
+3671	La	0.87	Sr	0.13	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.87Sr0.13)(MnO3)
+3672	La	0.835	Sr	0.165	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.835Sr0.165)(MnO3)
+3673	La	0.815	Sr	0.185	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.815Sr0.185)(MnO3)
+3674	Ho	0.5	Sr	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Ho0.5Sr0.5)MnO3
+3676	Sm	1.0	_	0.0	Na	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	Sm2Na(IrO6)
+3677	Ba	0.87	K	0.13	Bi	1.0	_	0.0	cubic	['cubic']	0	1	(Ba0.87K0.13)BiO3
+3680	Ba	1.0	_	0.0	Bi	0.4	Pb	0.6	orthorhombic	['orthorhombic']	0	1	Ba(Bi0.4Pb0.6)O3
+3681	Ba	1.0	_	0.0	Bi	0.35	Pb	0.65	orthorhombic	['orthorhombic']	0	1	Ba(Bi0.35Pb0.65)O3
+3685	Ca	1.0	_	0.0	Nd	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Ca2Nd(RuO6)
+3687	Ca	1.0	_	0.0	Ho	0.5	Ru	0.5	monoclinic	['monoclinic']	0	1	Ca2Ho(RuO6)
+3688	La	1.0	_	0.0	Cu	0.5	Sn	0.5	monoclinic	['monoclinic']	0	1	La2Cu(SnO6)
+3689	Ba	0.88	Ca	0.12	Ti	1.0	_	0.0	tetragonal	['tetragonal']	0	1	(Ba0.88Ca0.12)(TiO3)
+3696	Li	0.667	Cu	0.33299999999999996	Ta	1.0	_	0.0	trigonal	['trigonal']	0	1	(Li0.667Cu0.333)(TaO3)
+3698	Sr	1.0	_	0.0	Li	0.25	Ru	0.75	orthorhombic	['orthorhombic']	0	1	Sr(Li0.25Ru0.75)O3
+3699	La	1.0	_	0.0	Cu	0.5	Ti	0.5	orthorhombic	['orthorhombic']	0	1	La2Cu(TiO6)
+3701	Sr	0.8	Ca	0.2	Ru	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.8Ca0.2)(RuO3)
+3702	Sr	0.6	Ca	0.4	Ru	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.6Ca0.4)(RuO3)
+3703	Sr	0.5	Ca	0.5	Ru	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.5Ca0.5)(RuO3)
+3704	Sr	0.4	Ca	0.6	Ru	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.4Ca0.6)(RuO3)
+3705	Sr	0.3	Ca	0.7	Ru	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.3Ca0.7)(RuO3)
+3706	Sr	0.2	Ca	0.8	Ru	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.2Ca0.8)(RuO3)
+3707	La	1.0	_	0.0	Cu	0.48	Ti	0.52	orthorhombic	['orthorhombic']	0	1	La2(Cu0.96Ti1.04)O6
+3709	Pb	1.0	_	0.0	Co	0.5	W	0.5	monoclinic	['monoclinic']	0	1	Pb2Co(WO6)
+3710	Sr	0.9	Ca	0.1	Ru	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sr0.9Ca0.1)(RuO3)
+3711	Nd	1.0	_	0.0	Ni	0.95	Cu	0.05	orthorhombic	['orthorhombic']	0	1	Nd(Ni0.95Cu0.05O3)
+3712	Nd	1.0	_	0.0	Ni	0.9	Cu	0.1	orthorhombic	['orthorhombic']	0	1	Nd(Ni0.9Cu0.1O3)
+3713	Nd	1.0	_	0.0	Ni	0.85	Cu	0.15	orthorhombic	['orthorhombic']	0	1	Nd(Ni0.85Cu0.15O3)
+3714	Nd	1.0	_	0.0	Ni	0.5	Fe	0.5	orthorhombic	['orthorhombic']	0	1	Nd(Ni0.5Fe0.5)O3
+3715	Nd	1.0	_	0.0	Ni	0.5	Co	0.5	orthorhombic	['orthorhombic']	0	1	Nd(Ni0.5Co0.5)O3
+3716	Ba	1.0	_	0.0	Ce	0.85	Pr	0.15	orthorhombic	['orthorhombic']	0	1	Ba((Ce0.85Pr0.15)O3)
+3718	La	0.6	Nd	0.4	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.6Nd0.4)(CrO3)
+3719	La	0.4	Nd	0.6	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.4Nd0.6)(CrO3)
+3720	La	0.2	Nd	0.8	Cr	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.2Nd0.8)(CrO3)
+3721	La	0.9	Sr	0.1	Ni	1.0	_	0.0	trigonal	['trigonal']	0	1	(La0.9Sr0.1)(NiO3)
+3723	La	1.0	_	0.0	Mg	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	La2Mg(IrO6)
+3725	La	1.0	_	0.0	Ir	0.5	Ni	0.5	monoclinic	['monoclinic']	0	1	La2Ir(NiO6)
+3731	Sr	1.0	_	0.0	Sb	0.665	Ni	0.335	orthorhombic	['orthorhombic']	0	1	Sr4(Sb2.662Ni1.338)O12
+3732	La	1.0	_	0.0	Ni	0.8	Te	0.2	orthorhombic	['orthorhombic']	0	1	La(Ni0.8Te0.2)O3
+3733	Nd	1.0	_	0.0	Cr	0.8	Mn	0.2	orthorhombic	['orthorhombic']	0	1	Nd((Cr0.8Mn0.2)O3)
+3734	Nd	1.0	_	0.0	Cr	0.6	Mn	0.4	orthorhombic	['orthorhombic']	0	1	Nd((Cr0.6Mn0.4)O3)
+3735	Nd	1.0	_	0.0	Cr	0.4	Mn	0.6	orthorhombic	['orthorhombic']	0	1	Nd((Cr0.4Mn0.6)O3)
+3736	Ba	1.0	_	0.0	Ce	0.5	Pb	0.5	trigonal	['trigonal']	0	1	Ba2Ce(PbO6)
+3737	Ba	1.0	_	0.0	Pr	0.5	Pb	0.5	orthorhombic	['orthorhombic']	0	1	Ba2Pr(PbO6)
+3738	Sr	0.6	Bi	0.4	Fe	1.0	_	0.0	cubic	['cubic']	0	1	(Sr0.6Bi0.4)(FeO3)
+3740	Ba	1.0	_	0.0	Pr	0.5	Bi	0.5	monoclinic	['monoclinic']	0	1	Ba2Pr(BiO6)
+3741	Ba	1.0	_	0.0	Nd	0.5	Bi	0.5	monoclinic	['monoclinic']	0	1	Ba2Nd(BiO6)
+3742	Ba	1.0	_	0.0	Tb	0.5	Bi	0.5	monoclinic	['monoclinic']	0	1	Ba2Tb(BiO6)
+3744	Ca	1.0	_	0.0	Cr	0.5	Nb	0.5	monoclinic	['monoclinic']	0	1	Ca2Cr(NbO6)
+3746	La	1.0	_	0.0	Zn	0.5	Ir	0.5	monoclinic	['monoclinic']	0	1	La2Zn(IrO6)
+3752	Nd	1.0	_	0.0	Cr	0.8	Co	0.2	orthorhombic	['orthorhombic']	0	1	Nd((Cr0.8Co0.2)O3)
+3753	Nd	1.0	_	0.0	Cr	0.6	Co	0.4	orthorhombic	['orthorhombic']	0	1	Nd((Cr0.6Co0.4)O3)
+3754	Nd	1.0	_	0.0	Cr	0.4	Co	0.6	orthorhombic	['orthorhombic']	0	1	Nd((Cr0.4Co0.6)O3)
+3755	Nd	1.0	_	0.0	Cr	0.2	Co	0.8	orthorhombic	['orthorhombic']	0	1	Nd((Cr0.2Co0.8)O3)
+3759	La	0.08	Ca	0.92	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.08Ca0.92)MnO3
+3760	La	0.06	Ca	0.94	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.06Ca0.94)MnO3
+3761	La	0.04	Ca	0.96	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.04Ca0.96)MnO3
+3762	La	0.02	Ca	0.98	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(La0.02Ca0.98)MnO3
+3770	Tb	0.667	Ca	0.33299999999999996	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Tb0.667Ca0.333)MnO3
+3772	Ba	1.0	_	0.0	Nb	0.54	Ti	0.46	cubic	['cubic']	0	1	Ba(Nb0.54Ti0.46)O3
+3773	Ba	1.0	_	0.0	Nb	0.53	Ti	0.47	cubic	['cubic']	0	1	Ba(Nb0.53Ti0.47)O3
+3774	Ba	1.0	_	0.0	Nb	0.47	Ti	0.53	cubic	['cubic']	0	1	Ba(Nb0.47Ti0.53)O3
+3778	Nd	1.0	_	0.0	Cr	0.8	Fe	0.2	orthorhombic	['orthorhombic']	0	1	Nd(Cr0.8Fe0.2)O3
+3779	Nd	1.0	_	0.0	Cr	0.6	Fe	0.4	orthorhombic	['orthorhombic']	0	1	Nd(Cr0.6Fe0.4)O3
+3780	Nd	1.0	_	0.0	Cr	0.4	Fe	0.6	orthorhombic	['orthorhombic']	0	1	Nd(Cr0.4Fe0.6)O3
+3781	Nd	1.0	_	0.0	Cr	0.2	Fe	0.8	orthorhombic	['orthorhombic']	0	1	Nd(Cr0.2Fe0.8)O3
+3782	Pr	0.95	K	0.05	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.95K0.05)(MnO3)
+3784	Pr	0.9	K	0.1	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.9K0.1)(MnO3)
+3785	Pr	0.85	K	0.15	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Pr0.85K0.15)(MnO3)
+3787	La	1.0	_	0.0	Fe	0.1	Ni	0.9	trigonal	['trigonal']	0	1	La((Fe0.1Ni0.9)O3)
+3788	La	1.0	_	0.0	Fe	0.15	Ni	0.85	trigonal	['trigonal']	0	1	La((Fe0.15Ni0.85)O3)
+3792	La	1.0	_	0.0	Fe	0.75	Ni	0.25	orthorhombic	['orthorhombic']	0	1	La((Fe0.75Ni0.25)O3)
+3795	Nd	1.0	_	0.0	Cr	0.8	Ni	0.2	orthorhombic	['orthorhombic']	0	1	Nd((Cr0.8Ni0.2)O3)
+3796	Nd	1.0	_	0.0	Cr	0.6	Ni	0.4	orthorhombic	['orthorhombic']	0	1	Nd((Cr0.6Ni0.4)O3)
+3797	Nd	1.0	_	0.0	Cr	0.4	Ni	0.6	orthorhombic	['orthorhombic']	0	1	Nd((Cr0.4Ni0.6)O3)
+3798	La	1.0	_	0.0	Mg	0.5	Pt	0.5	monoclinic	['monoclinic']	0	1	La2Mg(PtO6)
+3799	La	1.0	_	0.0	Ni	0.5	Pt	0.5	monoclinic	['monoclinic']	0	1	La2Ni(PtO6)
+3800	La	1.0	_	0.0	Zn	0.5	Pt	0.5	monoclinic	['monoclinic']	0	1	La2Zn(PtO6)
+3802	Pr	1.0	_	0.0	Co	0.5	Pt	0.5	monoclinic	['monoclinic']	0	1	Pr2Co(PtO6)
+3803	Nd	1.0	_	0.0	Co	0.5	Pt	0.5	monoclinic	['monoclinic']	0	1	Nd2Co(PtO6)
+3807	Sm	0.5	Sr	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sm0.5Sr0.5)(MnO3)
+3808	Gd	0.5	Sr	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Gd0.5Sr0.5)(MnO3)
+3812	Sm	0.5	Ca	0.5	Mn	1.0	_	0.0	orthorhombic	['orthorhombic']	0	1	(Sm0.5Ca0.5)(MnO3)
+3813	Pb	1.0	_	0.0	Zr	0.871	Ti	0.129	trigonal	['trigonal']	0	1	Pb(Zr0.871Ti0.129)O3
+3814	Pb	1.0	_	0.0	Zr	0.838	Ti	0.162	trigonal	['trigonal']	0	1	Pb(Zr0.838Ti0.162)O3
+3815	Pb	1.0	_	0.0	Zr	0.7959999999999999	Ti	0.204	trigonal	['trigonal']	0	1	Pb(Zr0.796Ti0.204)O3
+3816	Pb	1.0	_	0.0	Zr	0.745	Ti	0.255	trigonal	['trigonal']	0	1	Pb(Zr0.745Ti0.255)O3
+3817	Pb	1.0	_	0.0	Zr	0.7	Ti	0.3	trigonal	['trigonal']	0	1	Pb(Zr0.7Ti0.3)O3
+3818	Pb	1.0	_	0.0	Zr	0.652	Ti	0.348	trigonal	['trigonal']	0	1	Pb(Zr0.652Ti0.348)O3

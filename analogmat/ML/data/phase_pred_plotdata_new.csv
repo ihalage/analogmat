@@ -1,0 +1,28 @@
+	Unnamed: 0	A1	A1_frac	A2	A2_frac	B1	B1_frac	B2	B2_frac	CrystalClass	All_phases	Multiple_phases	How_many_phases	StructuredFormula	6_most_similar_crystal_systems	overlapping_predictions	Num_overlapping_predictions
+158	192	Pb	1	_	0	Tm	0.5	Sb	0.5	monoclinic	['monoclinic', 'trigonal', 'cubic']	1	3	Pb(Tm0.5Sb0.5)O3	('cubic', 'cubic', 'monoclinic', 'orthorhombic', 'monoclinic')	['cubic', 'monoclinic']	2
+167	206	Pb	1	_	0	Zr	0.52	Ti	0.48	cubic	['cubic', 'tetragonal', 'monoclinic']	1	3	Pb(Zr0.52Ti0.48)O3	('tetragonal', 'tetragonal', 'cubic', 'cubic', 'tetragonal')	['cubic', 'tetragonal']	2
+176	221	Na	0.5	Bi	0.5	Ti	1	_	0	trigonal	['trigonal', 'tetragonal', 'cubic', 'orthorhombic']	1	4	(Na0.5Bi0.5)TiO3	('orthorhombic', 'orthorhombic', 'orthorhombic', 'cubic', 'orthorhombic')	['cubic', 'orthorhombic']	2
+299	374	La	1	_	0	Mg	0.5	Ti	0.5	orthorhombic	['orthorhombic', 'monoclinic', 'trigonal', 'cubic']	1	4	La(Mg0.5Ti0.5)O3	('monoclinic', 'trigonal', 'monoclinic', 'monoclinic', 'orthorhombic')	['monoclinic', 'orthorhombic', 'trigonal']	3
+311	386	Pb	1	_	0	Fe	0.5	Nb	0.5	tetragonal	['tetragonal', 'monoclinic', 'cubic', 'trigonal']	1	4	Pb(Fe0.5Nb0.5)O3	('cubic', 'tetragonal', 'cubic', 'trigonal', 'cubic')	['cubic', 'tetragonal', 'trigonal']	3
+314	405	La	0.7	Sr	0.3	Mn	1	_	0	trigonal	['trigonal', 'orthorhombic', 'tetragonal']	1	3	(Sr0.3La0.7)MnO3	('trigonal', 'trigonal', 'trigonal', 'orthorhombic', 'orthorhombic')	['orthorhombic', 'trigonal']	2
+321	417	Pr	0.5	Sr	0.5	Co	1	_	0	monoclinic	['monoclinic', 'trigonal', 'orthorhombic', 'tetragonal']	1	4	(Sr0.5Pr0.5)CoO3	('cubic', 'orthorhombic', 'trigonal', 'cubic', 'cubic')	['orthorhombic', 'trigonal']	2
+336	433	Ba	1	_	0	Ce	0.8	Zr	0.2	orthorhombic	['orthorhombic', 'trigonal', 'cubic']	1	3	Ba(Ce0.8Zr0.2)O3	('cubic', 'trigonal', 'cubic', 'cubic', 'cubic')	['cubic', 'trigonal']	2
+369	493	Sr	1	_	0	Fe	0.5	Nb	0.5	orthorhombic	['orthorhombic', 'tetragonal', 'cubic']	1	3	Sr(Fe0.5Nb0.5)O3	('cubic', 'tetragonal', 'tetragonal', 'monoclinic', 'cubic')	['cubic', 'tetragonal']	2
+414	562	La	0.7	Ba	0.3	Mn	1	_	0	trigonal	['trigonal', 'cubic', 'orthorhombic']	1	3	(Ba0.3La0.7)MnO3	('trigonal', 'trigonal', 'trigonal', 'trigonal', 'orthorhombic')	['orthorhombic', 'trigonal']	2
+464	649	Sr	1	_	0	Co	0.5	W	0.5	tetragonal	['tetragonal', 'monoclinic', 'cubic']	1	3	Sr(Co0.5W0.5)O3	('cubic', 'cubic', 'monoclinic', 'cubic', 'monoclinic')	['cubic', 'monoclinic']	2
+465	652	La	1	_	0	Ni	0.5	Mn	0.5	monoclinic	['monoclinic', 'trigonal', 'orthorhombic']	1	3	La(Ni0.5Mn0.5)O3	('monoclinic', 'orthorhombic', 'orthorhombic', 'orthorhombic', 'trigonal')	['monoclinic', 'orthorhombic', 'trigonal']	3
+525	751	Sr	1	_	0	Mg	0.5	W	0.5	tetragonal	['tetragonal', 'cubic', 'triclinic']	1	3	Sr(Mg0.5W0.5)O3	('cubic', 'monoclinic', 'tetragonal', 'monoclinic', 'tetragonal')	['cubic', 'tetragonal']	2
+548	795	Sr	1	_	0	Mg	0.5	Mo	0.5	tetragonal	['tetragonal', 'triclinic', 'cubic']	1	3	Sr(Mg0.5Mo0.5)O3	('cubic', 'cubic', 'tetragonal', 'tetragonal', 'tetragonal')	['cubic', 'tetragonal']	2
+579	865	La	0.75	Sr	0.25	Cr	1	_	0	orthorhombic	['orthorhombic', 'trigonal', 'cubic']	1	3	(Sr0.25La0.75)CrO3	('orthorhombic', 'orthorhombic', 'orthorhombic', 'monoclinic', 'cubic')	['cubic', 'orthorhombic']	2
+585	895	La	0.5	Ba	0.5	Mn	1	_	0	tetragonal	['tetragonal', 'cubic', 'orthorhombic']	1	3	(Ba0.5La0.5)MnO3	('orthorhombic', 'orthorhombic', 'tetragonal', 'tetragonal', 'trigonal')	['tetragonal', 'orthorhombic']	2
+660	1068	Na	0.5	La	0.5	Ti	1	_	0	trigonal	['trigonal', 'cubic', 'tetragonal', 'orthorhombic']	1	4	(Na0.5La0.5)TiO3	('trigonal', 'orthorhombic', 'orthorhombic', 'orthorhombic', 'orthorhombic')	['orthorhombic', 'trigonal']	2
+735	1177	Bi	0.8	La	0.2	Fe	1	_	0	orthorhombic	['orthorhombic', 'trigonal', 'cubic']	1	3	(Bi0.8La0.2)FeO3	('trigonal', 'trigonal', 'orthorhombic', 'trigonal', 'orthorhombic')	['orthorhombic', 'trigonal']	2
+753	1204	La	0.5	Sr	0.5	Mn	1	_	0	tetragonal	['tetragonal', 'cubic', 'trigonal']	1	3	(Sr0.5La0.5)MnO3	('cubic', 'trigonal', 'tetragonal', 'orthorhombic', 'orthorhombic')	['cubic', 'tetragonal', 'trigonal']	3
+787	1250	La	0.1	Sr	0.9	Mn	1	_	0	cubic	['cubic', 'hexagonal', 'trigonal']	1	3	(Sr0.9La0.1)MnO3	('cubic', 'hexagonal', 'cubic', 'tetragonal', 'cubic')	['cubic', 'hexagonal']	2
+862	1392	Pr	0.76	La	0.24	Al	1	_	0	monoclinic	['monoclinic', 'orthorhombic', 'trigonal']	1	3	(La0.24Pr0.76)AlO3	('trigonal', 'trigonal', 'trigonal', 'trigonal', 'orthorhombic')	['orthorhombic', 'trigonal']	2
+871	1419	Pb	1	_	0	Co	0.5	Te	0.5	trigonal	['trigonal', 'monoclinic', 'cubic']	1	3	Pb(Co0.5Te0.5)O3	('cubic', 'cubic', 'cubic', 'tetragonal', 'trigonal')	['cubic', 'trigonal']	2
+888	1443	Ba	1	_	0	Bi	0.5	Sb	0.5	monoclinic	['monoclinic', 'cubic', 'trigonal']	1	3	Ba(Bi0.5Sb0.5)O3	('tetragonal', 'trigonal', 'cubic', 'orthorhombic', 'orthorhombic')	['cubic', 'trigonal']	2
+905	1466	K	0.3	Na	0.7	Nb	1	_	0	monoclinic	['monoclinic', 'tetragonal', 'trigonal']	1	3	(K0.30Na0.70)NbO3	('tetragonal', 'trigonal', 'cubic', 'tetragonal', nan)	['tetragonal', 'trigonal']	2
+964	1595	Li	0.12	Na	0.88	Nb	1	_	0	trigonal	['trigonal', 'orthorhombic', 'tetragonal']	1	3	(Na0.88Li0.12)NbO3	('orthorhombic', 'trigonal', 'tetragonal', 'tetragonal', 'tetragonal')	['tetragonal', 'orthorhombic', 'trigonal']	3
+1043	1733	Bi	0.8	Nd	0.2	Fe	1	_	0	trigonal	['trigonal', 'orthorhombic', 'triclinic']	1	3	(Bi0.8Nd0.2)FeO3	('triclinic', 'triclinic', 'tetragonal', 'trigonal', 'triclinic')	['triclinic', 'trigonal']	2
+1172	2010	Sr	1	_	0	Fe	0.5	Ta	0.5	tetragonal	['tetragonal', 'cubic', 'orthorhombic']	1	3	Sr(Fe0.5Ta0.5)O3	('monoclinic', 'tetragonal', 'monoclinic', 'tetragonal', 'cubic')	['cubic', 'tetragonal']	2
