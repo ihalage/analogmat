@@ -5,5 +5,5 @@ matplotlib==2.0.0
 sympy==1.0
 pandas==0.24.0
 monty==1.0.3
-pymatgen==2018.4.2
+pymatgen==2018.3.2
 PySocks==1.7.1
