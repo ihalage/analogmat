@@ -9,5 +9,5 @@ numpy>=1.18.4
 pytest>=6.0.1
 scikit_learn>=0.23.2
 Keras==2.2.2
-tensorflow==1.12.0
+tensorflow==1.14.0
 pymatgen>=2020.4.2
