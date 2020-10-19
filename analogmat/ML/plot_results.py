@@ -1,6 +1,6 @@
 
 '''
-Plot classification probabilities of selected (AA')BO3 compositions
+Plot classification probabilities of selected A(BB')O3 compositions
 @Achintha_Ihalage
 '''
 
@@ -33,13 +33,12 @@ rcParams['ytick.major.size'] = 4
 rcParams['ytick.major.width'] = 1.5
 rcParams['ytick.minor.size'] = 4
 rcParams['axes.labelweight'] = 'bold'
-# plt.rcParams["font.weight"] = "bold"
 
 
 path = str(pathlib.Path(__file__).parent.absolute().parent)
 
 
-class AABO3_Viz():
+class ABBO3_Viz():
 
 	def __init__(self):
 		self.clf_results = pd.read_csv(path+'/ML/data/clf_results_plot.csv', sep='\t')
@@ -96,8 +95,11 @@ class AABO3_Viz():
 				height = 25
 				ax= plt.subplot(gs[b,a])
 				verts = list(zip([-width,width,width,-width],[-height,-height,height,height]))
-				plot(ax, a, b, B2_elems, nelems, x, probs, verts)
-
+				sc = plot(ax, a, b, B2_elems, nelems, x, probs, verts)
+		
+		# fig.subplots_adjust(right=0.5)
+		cbar_ax = fig.add_axes([0.955, 0.15, 0.0125, 0.7])
+		fig.colorbar(sc, cax=cbar_ax)
 		plt.savefig(path+'/ML/clf_results_Bdoped.png', format='png', dpi=800)
 		plt.show()
 
