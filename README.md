@@ -137,13 +137,13 @@ Crystal system             |  Space group
 :-------------------------:|:-------------------------:
 ![Alt text](analogmat/figures/fingerprint_conf_mat.png?raw=true) | ![Alt text](analogmat/figures/fingerprint_spg_conf_mat.png?raw=true)
 
-Next, we assess the capability of supervised machine learning algorithms to classify crystal system and space group of 2104 experimental compositions with 10-fold cross validation.
+Next, we assess the capability of supervised machine learning algorithms to classify crystal system and space group of 2104 experimental compositions with leave-one-out cross validation (LOOCV).
 
 ```python
 from ML.crystal_system_clf import StructureClf
 sclf = StructureClf()
-sclf.crystal_system_clf(algo='knn')  # 10-fold CV   # algo`: {‘gradient_boosting’, ‘random_forest’, ‘decision_tree’, '`svm`}, default=’gradient_boosting’
-sclf.cross_val_conf_mat(algo='knn')
+sclf.crystal_system_clf(algo='svm')  # LOOCV   # algo`: {‘gradient_boosting’, ‘random_forest’, ‘decision_tree’, '`svm`}, default=’gradient_boosting’
+sclf.cross_val_conf_mat(algo='svm')
 sclf.spg_clf(algo='gradient_boosting')    # space group classification
 ```
 
