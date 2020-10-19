@@ -16,6 +16,7 @@ import sys
 sys.path.append("..")
 from autoencoder import AutoEncoder
 from arrange_ICSD_data import Perovskites
+from pymatgen import Composition, Element
 from sklearn.linear_model import LinearRegression
 from sklearn.linear_model import Lasso
 from sklearn.linear_model import ElasticNet
@@ -34,6 +35,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import KFold
 from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import LeaveOneOut
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -71,6 +73,7 @@ class BandgapPhase():
 	def arrange_comp(self):	# arrange chemical formula in (AA')BO3 and A(BB')O3 order
 		def arrange_formula(row):
 			formula_lst = re.findall('[A-Z][^A-Z]*', row.SimulatedComposition.strip())
+			# print (formula_lst)
 			B_doped = 0
 			if len(formula_lst) == 4:
 				r = re.compile("([a-zA-Z]+)([0-9]+)")
@@ -98,8 +101,6 @@ class BandgapPhase():
 				return StructuredForm
 			else:
 				return 0
-
-
 
 		self.edft['StructuredFormula'] = self.edft.apply(arrange_formula, axis=1)
 		df = self.edft[self.edft.StructuredFormula!=0]
@@ -134,14 +135,14 @@ class BandgapPhase():
 			'atom_numO', 'mend_numO', 'atomic_rO', 'O_X', 'M_O', 'V_O', 'therm_con_O', 'polarizability_O', 'lattice_const_O', 'Row_O', 'Group_O', 'nO', 'rO'], axis=1)
 		df_x = df.drop(['Ehull', 'Bandgap'], axis=1)
 		df_y = df[['Bandgap']]
-		algo_dict_mse = {'SVR':[], 'PLS':[], 'EN':[], 'KNN':[], 'RAND':[], 'GBR':[]}
-		algo_dict_mae = {'SVR':[], 'PLS':[], 'EN':[], 'KNN':[], 'RAND':[], 'GBR':[]}
+		algo_dict_mse = {'DT':[], 'SVR':[], 'PLS':[], 'EN':[], 'KNN':[], 'RAND':[], 'GBR':[]}
+		algo_dict_mae = {'DT':[], 'SVR':[], 'PLS':[], 'KNN':[], 'RAND':[], 'GBR':[]}
 		for i in range(20):
 			X_train, X_test, y_train, y_test = train_test_split(df_x, df_y.values.ravel(),test_size=0.2, random_state=i)
 			pipelines = []
+			pipelines.append(('DT', Pipeline([('Scaler', StandardScaler()),('DT', DecisionTreeRegressor())])))
 			pipelines.append(('SVR', Pipeline([('Scaler', StandardScaler()), ('SVR',SVR())]))) #
 			pipelines.append(('PLS', Pipeline([('Scaler', StandardScaler()), ('PLS', PLSRegression())])))
-			pipelines.append(('EN', Pipeline([('Scaler', StandardScaler()),('EN', ElasticNet())])))
 			pipelines.append(('KNN', Pipeline([('Scaler', StandardScaler()),('KNN', KNeighborsRegressor())])))
 			pipelines.append(('RAND', Pipeline([('Scaler', StandardScaler()),('RAND', RandomForestRegressor())])))
 			pipelines.append(('GBR', Pipeline([('Scaler', StandardScaler()),('GBR', GradientBoostingRegressor())])))
@@ -149,11 +150,10 @@ class BandgapPhase():
 			results = []
 			names = []
 			for name, model in pipelines:
-			    kfold = KFold(n_splits=10, random_state=10)
-			    cv_results_mse = cross_val_score(model, X_train, y_train, cv=kfold, scoring='neg_mean_squared_error')
-			    cv_results_mae = cross_val_score(model, X_train, y_train, cv=kfold, scoring='neg_mean_absolute_error')
-			    # results.append(cv_results)
-			    # names.append(name)
+			    # cv = KFold(n_splits=10, random_state=10)
+			    cv = LeaveOneOut()
+			    cv_results_mse = cross_val_score(model, X_train, y_train, cv=cv, scoring='neg_mean_squared_error')
+			    cv_results_mae = cross_val_score(model, X_train, y_train, cv=cv, scoring='neg_mean_absolute_error')
 			    msg_mse = "%s: MSE %f (%f)" % (name, cv_results_mse.mean(), cv_results_mse.std())
 			    msg_mae = "%s: MAE %f (%f)" % (name, cv_results_mae.mean(), cv_results_mae.std())
 			    print(msg_mse)
@@ -161,9 +161,9 @@ class BandgapPhase():
 			    algo_dict_mse[name].append(np.sqrt(-1*cv_results_mse.mean()))
 			    algo_dict_mae[name].append(-1*cv_results_mae.mean())
 			print ('\n')
+		print('DT 10-fold CV RMSE: %.3f  MAE: %.3f (%.3f)'%(np.array(algo_dict_mse['DT']).mean(), np.array(algo_dict_mae['DT']).mean(), np.array(algo_dict_mae['DT']).std()))
 		print('SVR 10-fold CV RMSE: %.3f  MAE: %.3f (%.3f)'%(np.array(algo_dict_mse['SVR']).mean(), np.array(algo_dict_mae['SVR']).mean(), np.array(algo_dict_mae['SVR']).std()))
 		print('PLS 10-fold CV RMSE: %.3f  MAE: %.3f (%.3f)'%(np.array(algo_dict_mse['PLS']).mean(), np.array(algo_dict_mae['PLS']).mean(), np.array(algo_dict_mae['PLS']).std()))
-		print('EN 10-fold CV RMSE: %.3f  MAE: %.3f (%.3f)'%(np.array(algo_dict_mse['EN']).mean(), np.array(algo_dict_mae['EN']).mean(), np.array(algo_dict_mae['EN']).std()))
 		print('KNN 10-fold CV RMSE: %.3f  MAE: %.3f (%.3f)'%(np.array(algo_dict_mse['KNN']).mean(), np.array(algo_dict_mae['KNN']).mean(), np.array(algo_dict_mae['KNN']).std()))
 		print('RAND 10-fold CV RMSE: %.3f  MAE: %.3f (%.3f)'%(np.array(algo_dict_mse['RAND']).mean(), np.array(algo_dict_mae['RAND']).mean(), np.array(algo_dict_mae['RAND']).std()))
 		print('GBR 10-fold CV RMSE: %.3f  MAE: %.3f (%.3f)'%(np.array(algo_dict_mse['GBR']).mean(), np.array(algo_dict_mae['GBR']).mean(), np.array(algo_dict_mae['GBR']).std()))
@@ -171,7 +171,6 @@ class BandgapPhase():
 
 	def plot_bandgap_fprints(self):
 		df = pd.read_pickle(path+'/ML/data/processed_dft_data.pkl')
-
 		cm = plt.cm.get_cmap('RdYlBu_r')
 		fig = plt.figure()
 		ax = fig.add_subplot(111)
@@ -194,7 +193,6 @@ class BandgapPhase():
 		eucledian_distance = euc_dis_list[ind]
 		result_df = pd.concat([df.iloc[ind][['StructuredFormula', 'Bandgap', 'Ehull', 'Formation energy']].reset_index(drop=True), 
 							pd.DataFrame(list(eucledian_distance), columns=['Euclidean Distance'])], axis=1)	# pretty print
-		# print (result_df)
 		return result_df
 
 	def predict_bandgap(self, n=5):
@@ -244,32 +242,21 @@ class BandgapPhase():
 		df = df[df.Multiple_phases == 1]
 		def get_nearest_crystal_systems(row):
 			most_similar_df = self.ae.most_similar(self.VAE, compound=row.StructuredFormula, experimental=1, n=6)	# consider the composition being considered and 5 other neighbours
-			similar_crystal_systems = most_similar_df['CrystalSystem'].to_list()[1:]	# discard 1st composition, the one being considered
+			similar_crystal_systems = most_similar_df['CrystalSystem'].to_list()[1:]
 			all_phase_lst = yaml.load(row.All_phases)
 			predicted_phases = list(set(all_phase_lst) & set(similar_crystal_systems))
-			# print(predicted_phases)
 			return similar_crystal_systems, predicted_phases, len(predicted_phases)
 
-		df['5_most_similar_crystal_systems'], df['overlapping_predictions'], df['Num_overlapping_predictions'] = zip(*df.apply(get_nearest_crystal_systems, axis=1))
-		df.to_csv(path+'/ML/data/phase_pred_results_new.csv', sep='\t')
+		df['6_most_similar_crystal_systems'], df['overlapping_predictions'], df['Num_overlapping_predictions'] = zip(*df.apply(get_nearest_crystal_systems, axis=1))
 		df_pr = df[(df.Num_overlapping_predictions == df.How_many_phases)]
-		# print(df_pr.shape)
 		df_3_more = df[df.How_many_phases >= 3]
-		# print(df_3_more.shape)
-		df_pred_2_more = df_3_more[df_3_more.Num_overlapping_predictions >=2]
-		df_pred_2_more.to_csv(path+'/ML/data/phase_pred_plotdata_new.csv', sep='\t')
-		# print(df_pred_2_more.shape)
-		# df_correct = df[df.Num_overlapping_predictions >1]
-		# print(df_correct.shape)
 
 	def plot_phase_prediction(self, ax=None):
 		df = pd.read_csv(path+'/ML/data/phase_pred_plotdata_new.csv', sep='\t')
 		crystal_systems = {1: 'Triclinic', 2:'Monoclinic', 3:'Orthorhombic', 4:'Tetragonal', 5:'Cubic', 6:'Trigonal', 7:'Hexagonal'}
-		# cm = plt.cm.get_cmap('RdYlBu_r')
 		if ax==None:
 			ax = plt.gca()
-		# fig = plt.figure()
-		# ax = fig.add_subplot(111)
+
 		width = 200
 		height = 500
 		verts = list(zip([-width,width,width,-width],[-height,-height,height,height]))
