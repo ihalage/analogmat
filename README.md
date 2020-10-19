@@ -35,7 +35,7 @@ Confusion matrix             |  ROC curve
 
 ```python
 from ML.plot_results import AABO3_Viz
-viz = AABO3_Viz()
+viz = ABBO3_Viz()
 viz.plot_Bdoped()
 ```
 
