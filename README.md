@@ -34,7 +34,7 @@ Confusion matrix             |  ROC curve
 ### Plotting the perovskite likelihood of selected A(B<sub>1-x</sub>B'<sub>x</sub>)O<sub>3</sub> compositions
 
 ```python
-from ML.plot_results import AABO3_Viz
+from ML.plot_results import ABBO3_Viz
 viz = ABBO3_Viz()
 viz.plot_Bdoped()
 ```
