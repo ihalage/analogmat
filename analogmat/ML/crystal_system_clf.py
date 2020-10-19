@@ -1,8 +1,7 @@
 '''
 
 This script implements a gradient boosing classification model to identify the crystal system of materials
-Other algorithms such as KNN, random forest, decision tree and SVM are implemented for comparison
-Specifically, it is interesting to investigate how KNN (N=5) performs in comparison to the VAE fingerprinting model when identifying crystal system of compounds
+Other algorithms such as random forest, decision tree and SVM are implemented for comparison
 
 @Achintha_Ihalage
 @03_Jul_2020
@@ -24,6 +23,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn import svm
 from sklearn.model_selection import train_test_split
+from sklearn.model_selection import LeaveOneOut
 from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import cross_val_predict
 from sklearn.metrics import classification_report
@@ -69,23 +69,21 @@ class StructureClf():
 		X_train, X_test, y_train, y_test = train_test_split(df_x, df_y.values.ravel(), test_size=0.2, random_state=10)
 
 		if algo=='gradient_boosting':
-			clf = GradientBoostingClassifier(learning_rate=0.1, n_estimators=100, random_state=10)
+			clf = GradientBoostingClassifier(learning_rate=0.1, n_estimators=100, random_state=0)
 		elif algo=='knn':
 			clf = KNeighborsClassifier(n_neighbors=5)
 		elif algo=='random_forest':
 			clf = RandomForestClassifier(max_depth=3, random_state=10)
 		elif algo=='decision_tree':
-			clf = DecisionTreeClassifier(random_state=10)
+			clf = DecisionTreeClassifier(random_state=0)
 		elif algo=='svm':
 			clf = svm.SVC()
 		else:
 			print('The selected algorithm is not available. Using Gradient Boosting Classifier ...')
 			clf = GradientBoostingClassifier(learning_rate=0.1, n_estimators=100, random_state=10)
-		# print(np.all(np.isfinite(y_train)))
-		# print(max(y_train))
-		# clf.fit(X_train, y_train)
 
-		cv_scores = cross_val_score(clf, df_x, df_y.values.ravel(), cv=10)
+		cv = LeaveOneOut()
+		cv_scores = cross_val_score(clf, df_x, df_y.values.ravel(), cv=cv)
 
 		print ('Mean accuracy: %.3f +/- (%.3f)'%(np.mean(cv_scores), np.std(cv_scores)))
 
@@ -101,33 +99,32 @@ class StructureClf():
 		df_y = df[['CrystalSystemNum']]
 
 		if algo=='gradient_boosting':
-			clf = GradientBoostingClassifier(learning_rate=0.1, n_estimators=100, random_state=10)
+			clf = GradientBoostingClassifier(learning_rate=0.1, n_estimators=100, random_state=0)
 		elif algo=='knn':
 			clf = KNeighborsClassifier(n_neighbors=5)
 		elif algo=='random_forest':
 			clf = RandomForestClassifier(max_depth=3, random_state=10)
 		elif algo=='decision_tree':
-			clf = DecisionTreeClassifier(random_state=10)
+			clf = DecisionTreeClassifier(random_state=0)
 		elif algo=='svm':
 			clf = svm.SVC()
 		else:
 			print('The selected algorithm is not available. Using Gradient Boosting Classifier ...')
 			clf = GradientBoostingClassifier(learning_rate=0.1, n_estimators=100, random_state=10)
-		# print(np.all(np.isfinite(y_train)))
-		# print(max(y_train))
-		# clf.fit(X_train, y_train)
 
-		y_pred = cross_val_predict(clf, df_x, df_y.values.ravel(), cv=10)
+		cv = LeaveOneOut()
+		y_pred = cross_val_predict(clf, df_x, df_y.values.ravel(), cv=cv)
 		cm = confusion_matrix(np.array(df_y), y_pred)
-		# print(cm)
 		cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
+
+		title = 'Confusion Matrix'
+		classes = np.array(['Triclinic', 'Monoclinic', 'Orthorhombic', 'Tetragonal', 'Cubic', 'Trigonal', 'Hexagonal'])
 
 		title = 'Confusion Matrix'
 		classes = np.array(['Triclinic', 'Monoclinic', 'Orthorhombic', 'Tetragonal', 'Cubic', 'Trigonal', 'Hexagonal'])
 
 		y_true = np.array(df_y)
 		print(classification_report(y_true, y_pred, target_names=classes, digits=4))
-
 
 		fig, ax = plt.subplots()
 		im = ax.imshow(cm, interpolation='nearest', cmap=plt.cm.YlOrRd)
@@ -157,7 +154,7 @@ class StructureClf():
 		                ha="center", va="center",
 		                color="white" if cm[i, j] > thresh else "black")
 		fig.tight_layout()
-		fig.savefig(path+'/figures/fingerprint_conf_mat_'+algo+'.png', dpi=800, bbox_inches='tight')
+		fig.savefig(path+'/figures/fingerprint_conf_mat_'+algo+'_LOOCV.png', dpi=800, bbox_inches='tight')
 		plt.show()
 
 	def spg_clf(self, algo='gradient_boosting'):
@@ -169,6 +166,7 @@ class StructureClf():
 								'Row_O', 'Group_O', 'nO', 'rO'], axis=1)
 
 		unique_spgs = sorted(set(df['HMS'].tolist()))
+		# print(unique_spgs)
 		spg_dict = {k:v for (v,k) in enumerate(unique_spgs)}
 
 		def spg_to_num(row):
@@ -189,17 +187,19 @@ class StructureClf():
 		elif algo=='random_forest':
 			clf = RandomForestClassifier(max_depth=3, random_state=10)
 		elif algo=='decision_tree':
-			clf = DecisionTreeClassifier(random_state=10)
+			clf = DecisionTreeClassifier(random_state=0)
 		elif algo=='svm':
 			clf = svm.SVC()
 		else:
 			print('The selected algorithm is not available. Using Gradient Boosting Classifier ...')
 			clf = GradientBoostingClassifier(learning_rate=0.1, n_estimators=100, random_state=10)
 
-		cv_scores = cross_val_score(clf, df_x, df_y.values.ravel(), cv=10)
+		# cv = 10
+		cv = LeaveOneOut()
+		cv_scores = cross_val_score(clf, df_x, df_y.values.ravel(), cv=cv)
 
 		print ('Mean accuracy: %.3f +/- (%.3f)'%(np.mean(cv_scores), np.std(cv_scores)))
 
-		y_pred = cross_val_predict(clf, df_x, df_y.values.ravel(), cv=10)
+		y_pred = cross_val_predict(clf, df_x, df_y.values.ravel(), cv=cv)
 		y_true = np.array(df_y)
 		print(classification_report(y_true, y_pred, target_names=np.array(unique_spgs), digits=4))
