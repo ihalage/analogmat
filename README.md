@@ -1,8 +1,8 @@
-<img alt="GitHub" src="https://img.shields.io/github/license/ihalage/analogmat">
+<img alt="GitHub" src="https://img.shields.io/github/license/ihalage/analogmat"> <img alt="GitHub" src="https://img.shields.io/github/v/release/ihalage/analogmat?sort=semver"> <img alt="GitHub" src="https://img.shields.io/github/last-commit/ihalage/analogmat"> 
 
-## Supplementary Materials for "Analogical discovery of disordered perovskite oxides by crystal structure information hidden in unsupervised material fingerprints"
+## Research Publication
+### Achintha Ihalage and Yang Hao. Analogical discovery of disordered perovskite oxides by crystal structure information hidden in unsupervised material fingerprints. *npj Computational Materials* 7, 75 (2021). https://doi.org/10.1038/s41524-021-00536-2
 
-### Achintha Ihalage and Yang Hao
 
 ![alt text](https://github.com/ihalage/analogmat/blob/master/analogmat/figures/figure4-1.png)
 
@@ -68,7 +68,7 @@ clf.get_perovskite_candidates(prob_threshold=0.95, no_iterations=100)
 
 ## Autoencoders (VAE & vanilla)
 
-*Autoencoder* class implements the unsupervised material fingerprinting model. Materials analogies can be investigated in a bi-directional manner. That is, "What are the analogous experimental materials to an arbitary composition?" (enabling crystal structure prediction) and "What are the analogous unstudied perovskites to a target experimental material?" (enabling analogical materials discovery).
+*AutoEncoder* class implements the unsupervised material fingerprinting model. Materials analogies can be investigated in a bi-directional manner. That is, "What are the analogous experimental materials to an arbitary composition?" (enabling crystal structure prediction) and "What are the analogous unstudied perovskites to a target experimental material?" (enabling analogical materials discovery).
 
 Following is the code snippet to find 5 experimental analogies (nearest neighbours-NNs) to the composition (K<sub>0.5</sub>Bi<sub>0.5</sub>)ZrO<sub>3</sub>.
 It is important to write the chemical formula in standard notation with brackets to identify the disordered site - (A<sub>1-x</sub>A'<sub>x</sub>)BO<sub>3</sub> or A(B<sub>1-x</sub>B'<sub>x</sub>)O<sub>3</sub>. Note that R<sub>A</sub> should be greater than R<sub>B</sub>.
@@ -223,9 +223,28 @@ See below for results
 ...
 ...
 ```
+## Citation
+```
+﻿@Article{Ihalage2021,
+author={Ihalage, Achintha
+and Hao, Yang},
+title={Analogical discovery of disordered perovskite oxides by crystal structure information hidden in unsupervised material fingerprints},
+journal={npj Computational Materials},
+year={2021},
+month={May},
+day={21},
+volume={7},
+number={1},
+pages={75},
+issn={2057-3960},
+doi={10.1038/s41524-021-00536-2},
+url={https://doi.org/10.1038/s41524-021-00536-2}
+}
+```
+
 
 ## Questions and comments
 Please contact a.a.ihalage@qmul.ac.uk or y.hao@qmul.ac.uk.
 
 ## Funding
-We acknowledge funding received by The Institution of Engineering and Technology (IET) under the AF Harvey Research Prize. This work is supported in part by EPSRC SOFTWARE DEFINED MATERIALS FOR DYNAMIC CONTROL OF ELECTROMAGNETIC WAVES (ANIMATE) grant (EP/R035393/1) 
+We acknowledge funding received by The Institution of Engineering and Technology (IET) under the AF Harvey Research Prize. This work is supported in part by EPSRC Software Defined Materials for Dynamic Control of Electromagnetic Waves (ANIMATE) grant (No. EP/R035393/1) 
