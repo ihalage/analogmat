@@ -1,8 +1,10 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/ihalage/analogmat">
 
-## Supplementary Materials for "Analogical discovery of disordered perovskites by crystal structure information hidden in unsupervised material fingerprints"
+## Supplementary Materials for "Analogical discovery of disordered perovskite oxides by crystal structure information hidden in unsupervised material fingerprints"
 
 ### Achintha Ihalage and Yang Hao
+
+![alt text](https://github.com/ihalage/analogmat/blob/master/analogmat/figures/figure4-1.png)
 
 ## Installation
 
@@ -226,4 +228,4 @@ See below for results
 Please contact a.a.ihalage@qmul.ac.uk or y.hao@qmul.ac.uk.
 
 ## Funding
-We acknowledge funding received by The Institution of Engineering and Technology (IET) under the AF Harvey Research Prize.
+We acknowledge funding received by The Institution of Engineering and Technology (IET) under the AF Harvey Research Prize. This work is supported in part by EPSRC SOFTWARE DEFINED MATERIALS FOR DYNAMIC CONTROL OF ELECTROMAGNETIC WAVES (ANIMATE) grant (EP/R035393/1) 
