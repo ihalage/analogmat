@@ -8,6 +8,7 @@ scipy>=1.1.0
 numpy>=1.18.4
 pytest>=6.0.1
 scikit_learn>=0.23.2
-Keras==2.2.2
-tensorflow==1.12.0
+Keras==2.3.0
+tensorflow==1.14.0
+h5py==2.10.0
 pymatgen>=2020.4.2
